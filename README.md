@@ -35,39 +35,39 @@
 
 ---
 
-## Free GTM Toolkit (start here)
+## Free toolkit — sell what you built
 
-Built for vibe coders and solo founders who shipped a product and now need to sell it.
+You shipped. Now the hard part. This is for vibe coders and solo founders who have a product and need to figure out who to sell it to, what to charge, and what to say.
 
-### Playbooks
+### Playbook
 | | |
 |---|---|
-| [The Zero-Customer GTM Playbook](./playbooks/zero-customer-gtm.md) | The procedure for the pre-customer stage. 7 decisions, in order, with the specific action at each step. Written for founders who have no customers to "analyse" yet. |
+| [You Built It. Now Sell It.](./playbooks/zero-customer-gtm.md) | 7 decisions in the right order. Who actually wants this. Why they'd pick you. What to charge. Whether your page converts. How to reach people cold. Where to find them at scale. Whether your ad will work before you spend on it. |
 
-### Prompt Library — 7 AI prompts, one per GTM decision
+### Prompt Library — 7 prompts, one for each decision
 
-Copy into Claude, ChatGPT, or Gemini. Fill in the brackets. Get a structured analysis in 2 minutes.
+Copy into Claude, ChatGPT, or Gemini. Fill in the brackets. Get a real answer in 2 minutes.
 
 | Prompt | The question it answers |
 |--------|------------------------|
-| [01 — ICP Validation](./prompts/01-icp-validation.md) | Which of my target segments has the highest purchase intent? |
-| [02 — Positioning Audit](./prompts/02-positioning-audit.md) | Why would buyers pick me over the alternatives? |
-| [03 — Price Sensitivity Test](./prompts/03-price-sensitivity.md) | What will my target buyers actually pay? |
-| [04 — Copy Scorecard](./prompts/04-copy-scorecard.md) | Does my landing page copy convert cold traffic? |
-| [05 — Cold Outreach Diagnostic](./prompts/05-cold-outreach-diagnostic.md) | Will my cold email get a reply or get deleted? |
-| [06 — Channel Fit Analysis](./prompts/06-channel-fit.md) | Which channel should I go deep on first? |
-| [07 — Ad Creative Review](./prompts/07-ad-creative-review.md) | Will my ad stop the scroll before I spend on media? |
+| [01 — Who actually wants this](./prompts/01-icp-validation.md) | Which type of person is most likely to pay for what I built? |
+| [02 — Why would they pick me](./prompts/02-positioning-audit.md) | What makes me the obvious choice over the alternatives? |
+| [03 — What should I charge](./prompts/03-price-sensitivity.md) | Is my price too high, too low, or right? |
+| [04 — Does my page convert](./prompts/04-copy-scorecard.md) | Will a stranger land on my page and understand it in 5 seconds? |
+| [05 — Will they reply](./prompts/05-cold-outreach-diagnostic.md) | Will my cold message get a reply or get deleted? |
+| [06 — Where do I find them](./prompts/06-channel-fit.md) | Which channel should I actually go deep on first? |
+| [07 — Will my ad work](./prompts/07-ad-creative-review.md) | Will this stop the scroll before I spend money finding out it doesn't? |
 
-### Templates — fill-in-the-blank documents
+### Templates — fill them in, use them today
 
 | Template | What it is |
 |----------|------------|
-| [ICP Scoring Matrix](./templates/icp-scoring-matrix.md) | Score and rank up to 4 candidate segments by purchase intent, willingness to pay, and accessibility |
-| [Landing Page Copy Formula](./templates/landing-page-copy-formula.md) | Section-by-section formula for landing pages that convert cold traffic |
-| [Cold Email Swipe File](./templates/cold-email-swipe-file.md) | 6 cold email frameworks with examples, subject line patterns, and follow-up sequences |
-| [GTM Decision Log](./templates/gtm-decision-log.md) | A living record of every GTM decision, the assumption behind it, and how to measure whether it was right |
+| [Who Should I Sell To](./templates/icp-scoring-matrix.md) | Score up to 4 buyer types side by side so you can pick one and focus |
+| [Landing Page Formula](./templates/landing-page-copy-formula.md) | Section-by-section formula for pages that convert people who've never heard of you |
+| [Cold Email Swipe File](./templates/cold-email-swipe-file.md) | 6 cold message frameworks with real examples, subject lines, and follow-up sequences |
+| [Decision Log](./templates/gtm-decision-log.md) | Write down every decision, the assumption behind it, and how you'll know if it was right |
 
-> These are the manual versions of what Right Suite automates. Each prompt gives you one model's perspective. Right Suite runs 100+ simulated buyer interactions and returns a scored report.
+> These are the manual versions of what Right Suite automates. Each prompt gives you one model's take. Right Suite runs 100+ simulated buyer interactions and gives you a scored report.
 
 ---
 
