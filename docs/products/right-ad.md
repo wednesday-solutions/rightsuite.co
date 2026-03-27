@@ -8,7 +8,7 @@
 
 Test your ad creative, copy, and targeting against simulated audiences before you spend on media. Know whether your hook stops the scroll before you find out the expensive way.
 
-[← Back to Right Suite](../../README.md) | [→ Join the waitlist](https://rightprice.co/products/right-ad)
+[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://rightprice.co/products/right-ad)
 
 ---
 
@@ -104,7 +104,7 @@ Run RightChannel first to confirm paid is the right investment for your audience
 
 ## Status
 
-**Coming Soon** — join the waitlist at [rightprice.co/products/right-ad](https://rightprice.co/products/right-ad)
+**Live** — available at [rightprice.co/products/right-ad](https://rightprice.co/products/right-ad)
 
 ---
 

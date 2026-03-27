@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/RightAudience-Live-4ade80?style=flat-square" />
   <img src="https://img.shields.io/badge/RightMessaging-Live-4ade80?style=flat-square" />
   <img src="https://img.shields.io/badge/RightPositioning-Live-4ade80?style=flat-square" />
-  <img src="https://img.shields.io/badge/RightEngagement-Coming_Soon-0d9488?style=flat-square" />
-  <img src="https://img.shields.io/badge/RightChannel-Coming_Soon-0d9488?style=flat-square" />
-  <img src="https://img.shields.io/badge/RightAd-Coming_Soon-0d9488?style=flat-square" />
+  <img src="https://img.shields.io/badge/RightEngagement-Live-4ade80?style=flat-square" />
+  <img src="https://img.shields.io/badge/RightChannel-Live-4ade80?style=flat-square" />
+  <img src="https://img.shields.io/badge/RightAd-Live-4ade80?style=flat-square" />
 </p>
 
 ---
@@ -74,9 +74,9 @@ Every go-to-market has exactly 7 decisions that determine whether it works. Righ
 | 2 | **How to win the comparison** | [RightPositioning](./docs/products/right-positioning.md) | Why would buyers pick you over the alternatives? | ✅ Live |
 | 3 | **What to charge** | [RightPrice](./docs/products/right-price.md) | Is your price right — too high, too low, or optimal? | ✅ Live |
 | 4 | **What to say on your own surfaces** | [RightMessaging](./docs/products/right-messaging.md) | Does your landing page copy convert? | ✅ Live |
-| 5 | **What to say cold** | [RightEngagement](./docs/products/right-engagement.md) | Will your cold emails and DMs get replies? | 🔜 Coming Soon |
-| 6 | **Where to invest distribution** | [RightChannel](./docs/products/right-channel.md) | Which channels are your buyers actually on? | 🔜 Coming Soon |
-| 7 | **Whether paid creative works** | [RightAd](./docs/products/right-ad.md) | Will your ad stop the scroll before you spend media budget? | 🔜 Coming Soon |
+| 5 | **What to say cold** | [RightEngagement](./docs/products/right-engagement.md) | Will your cold emails and DMs get replies? | ✅ Live |
+| 6 | **Where to invest distribution** | [RightChannel](./docs/products/right-channel.md) | Which channels are your buyers actually on? | ✅ Live |
+| 7 | **Whether paid creative works** | [RightAd](./docs/products/right-ad.md) | Will your ad stop the scroll before you spend media budget? | ✅ Live |
 
 ---
 
@@ -193,7 +193,7 @@ RightEngagement simulates how your target buyers respond to cold emails, LinkedI
 
 **What you get:** Predicted open rate · Reply intent score · Sequence drop-off analysis · Tone diagnosis · Objection signals · Optimized variants with projected uplift
 
-[→ Join the waitlist](https://rightprice.co/products/right-engagement) | [Full docs](./docs/products/right-engagement.md)
+[→ Run a simulation](https://rightprice.co/products/right-engagement) | [Full docs](./docs/products/right-engagement.md)
 
 ---
 
@@ -216,7 +216,7 @@ RightChannel evaluates every distribution channel against your ICP — SEO, comm
 
 **What you get:** Channel conversion rankings · Effort-to-return matrix · Buyer discovery patterns · Channel-message fit scores · Community and partnership signals · Channel sequencing recommendation
 
-[→ Join the waitlist](https://rightprice.co/products/right-channel) | [Full docs](./docs/products/right-channel.md)
+[→ Run a simulation](https://rightprice.co/products/right-channel) | [Full docs](./docs/products/right-channel.md)
 
 ---
 
@@ -239,7 +239,7 @@ RightAd simulates whether your paid creative stops the scroll across Meta, Googl
 
 **What you get:** Hook strength score · Click intent score · Audience-creative fit · Creative fatigue prediction · Objection triggers · Copy clarity score · Winning variant recommendation
 
-[→ Join the waitlist](https://rightprice.co/products/right-ad) | [Full docs](./docs/products/right-ad.md)
+[→ Run a simulation](https://rightprice.co/products/right-ad) | [Full docs](./docs/products/right-ad.md)
 
 ---
 

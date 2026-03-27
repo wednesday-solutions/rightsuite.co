@@ -8,7 +8,7 @@
 
 Simulate cold emails, LinkedIn messages, and outreach sequences. See open rates, reply intent, and drop-off points before you burn through your list.
 
-[← Back to Right Suite](../../README.md) | [→ Join the waitlist](https://rightprice.co/products/right-engagement)
+[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://rightprice.co/products/right-engagement)
 
 ---
 
@@ -104,7 +104,7 @@ You can run RightEngagement without the earlier steps — but knowing your ICP a
 
 ## Status
 
-**Coming Soon** — join the waitlist at [rightprice.co/products/right-engagement](https://rightprice.co/products/right-engagement)
+**Live** — available at [rightprice.co/products/right-engagement](https://rightprice.co/products/right-engagement)
 
 ---
 
