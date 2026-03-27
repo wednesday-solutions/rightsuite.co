@@ -35,6 +35,42 @@
 
 ---
 
+## Free GTM Toolkit (start here)
+
+Built for vibe coders and solo founders who shipped a product and now need to sell it.
+
+### Playbooks
+| | |
+|---|---|
+| [The Zero-Customer GTM Playbook](./playbooks/zero-customer-gtm.md) | The procedure for the pre-customer stage. 7 decisions, in order, with the specific action at each step. Written for founders who have no customers to "analyse" yet. |
+
+### Prompt Library — 7 AI prompts, one per GTM decision
+
+Copy into Claude, ChatGPT, or Gemini. Fill in the brackets. Get a structured analysis in 2 minutes.
+
+| Prompt | The question it answers |
+|--------|------------------------|
+| [01 — ICP Validation](./prompts/01-icp-validation.md) | Which of my target segments has the highest purchase intent? |
+| [02 — Positioning Audit](./prompts/02-positioning-audit.md) | Why would buyers pick me over the alternatives? |
+| [03 — Price Sensitivity Test](./prompts/03-price-sensitivity.md) | What will my target buyers actually pay? |
+| [04 — Copy Scorecard](./prompts/04-copy-scorecard.md) | Does my landing page copy convert cold traffic? |
+| [05 — Cold Outreach Diagnostic](./prompts/05-cold-outreach-diagnostic.md) | Will my cold email get a reply or get deleted? |
+| [06 — Channel Fit Analysis](./prompts/06-channel-fit.md) | Which channel should I go deep on first? |
+| [07 — Ad Creative Review](./prompts/07-ad-creative-review.md) | Will my ad stop the scroll before I spend on media? |
+
+### Templates — fill-in-the-blank documents
+
+| Template | What it is |
+|----------|------------|
+| [ICP Scoring Matrix](./templates/icp-scoring-matrix.md) | Score and rank up to 4 candidate segments by purchase intent, willingness to pay, and accessibility |
+| [Landing Page Copy Formula](./templates/landing-page-copy-formula.md) | Section-by-section formula for landing pages that convert cold traffic |
+| [Cold Email Swipe File](./templates/cold-email-swipe-file.md) | 6 cold email frameworks with examples, subject line patterns, and follow-up sequences |
+| [GTM Decision Log](./templates/gtm-decision-log.md) | A living record of every GTM decision, the assumption behind it, and how to measure whether it was right |
+
+> These are the manual versions of what Right Suite automates. Each prompt gives you one model's perspective. Right Suite runs 100+ simulated buyer interactions and returns a scored report.
+
+---
+
 ## The Problem
 
 Most go-to-market decisions are made on gut feel. Founders copy a competitor's price, write copy that sounds good to them, pick a channel because someone on Twitter recommended it, and send cold emails based on templates found in a blog post.
