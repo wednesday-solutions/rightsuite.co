@@ -8,7 +8,7 @@
 
 AI-powered pricing validation for SaaS and agency founders. Get a confidence score, a data-backed optimal range, and a trial strategy recommendation — in minutes, not weeks.
 
-[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://rightprice.co/products/right-price)
+[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-price)
 
 ---
 
@@ -92,7 +92,7 @@ You can run RightPrice on its own without running RightAudience first — but th
 
 ## Status
 
-**Live** — available at [rightprice.co/products/right-price](https://rightprice.co/products/right-price)
+**Live** — available at [www.rightsuite.co/products/right-price](https://www.rightsuite.co/products/right-price)
 
 ---
 

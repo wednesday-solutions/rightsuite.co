@@ -8,7 +8,7 @@
 
 Test which channels — SEO, paid ads, communities, Product Hunt, partnerships — bring the buyers most likely to convert for your specific offer. Stop betting on a channel and find out before you commit 6 months to it.
 
-[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://rightprice.co/products/right-channel)
+[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-channel)
 
 ---
 
@@ -109,7 +109,7 @@ You don't have to run them in order. But if you're unsure whether to invest in p
 
 ## Status
 
-**Live** — available at [rightprice.co/products/right-channel](https://rightprice.co/products/right-channel)
+**Live** — available at [www.rightsuite.co/products/right-channel](https://www.rightsuite.co/products/right-channel)
 
 ---
 

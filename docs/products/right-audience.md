@@ -8,7 +8,7 @@
 
 Test your offer across different customer segments. Find out which audience has the highest purchase intent for what you're building — before you commit to a go-to-market motion that targets the wrong people.
 
-[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://rightprice.co/products/right-audience)
+[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-audience)
 
 ---
 
@@ -90,7 +90,7 @@ You can run any product without RightAudience — but the results will be sharpe
 
 ## Status
 
-**Live** — available at [rightprice.co/products/right-audience](https://rightprice.co/products/right-audience)
+**Live** — available at [www.rightsuite.co/products/right-audience](https://www.rightsuite.co/products/right-audience)
 
 ---
 

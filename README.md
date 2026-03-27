@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <a href="https://rightprice.co"><strong>rightprice.co</strong></a> &nbsp;·&nbsp;
-  <a href="https://rightprice.co/products/right-price">RightPrice</a> &nbsp;·&nbsp;
-  <a href="https://rightprice.co/products/right-audience">RightAudience</a> &nbsp;·&nbsp;
-  <a href="https://rightprice.co/products/right-messaging">RightMessaging</a> &nbsp;·&nbsp;
-  <a href="https://rightprice.co/products/right-positioning">RightPositioning</a> &nbsp;·&nbsp;
-  <a href="https://rightprice.co/products/right-engagement">RightEngagement</a> &nbsp;·&nbsp;
-  <a href="https://rightprice.co/products/right-channel">RightChannel</a> &nbsp;·&nbsp;
-  <a href="https://rightprice.co/products/right-ad">RightAd</a>
+  <a href="https://www.rightsuite.co"><strong>rightsuite.co</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.rightsuite.co/products/right-price">RightPrice</a> &nbsp;·&nbsp;
+  <a href="https://www.rightsuite.co/products/right-audience">RightAudience</a> &nbsp;·&nbsp;
+  <a href="https://www.rightsuite.co/products/right-messaging">RightMessaging</a> &nbsp;·&nbsp;
+  <a href="https://www.rightsuite.co/products/right-positioning">RightPositioning</a> &nbsp;·&nbsp;
+  <a href="https://www.rightsuite.co/products/right-engagement">RightEngagement</a> &nbsp;·&nbsp;
+  <a href="https://www.rightsuite.co/products/right-channel">RightChannel</a> &nbsp;·&nbsp;
+  <a href="https://www.rightsuite.co/products/right-ad">RightAd</a>
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ Every go-to-market has exactly 7 decisions that determine whether it works. Righ
 
 ## The Products
 
-### [RightAudience](https://rightprice.co/products/right-audience) — Who should you sell to?
+### [RightAudience](https://www.rightsuite.co/products/right-audience) — Who should you sell to?
 
 <table>
   <tr>
@@ -101,11 +101,11 @@ RightAudience runs your offer across dozens of buyer personas and ranks them by 
 
 **What you get:** Segment purchase intent ranking · Willingness to pay by segment · Objection breakdown by segment · ICP clarity score · Expansion map · Go-to-market sequencing
 
-[→ Run your first audience simulation](https://rightprice.co/products/right-audience) | [Full docs](./docs/products/right-audience.md)
+[→ Run your first audience simulation](https://www.rightsuite.co/products/right-audience) | [Full docs](./docs/products/right-audience.md)
 
 ---
 
-### [RightPositioning](https://rightprice.co/products/right-positioning) — How do buyers see you?
+### [RightPositioning](https://www.rightsuite.co/products/right-positioning) — How do buyers see you?
 
 <table>
   <tr>
@@ -124,11 +124,11 @@ RightPositioning shows you how your ideal customer compares you to competitors: 
 
 **What you get:** Perceived positioning map · Differentiator strength scores · Competitive blind spots · Buyer language · Positioning gaps competitors haven't claimed · Messaging recommendations
 
-[→ Find your positioning angle](https://rightprice.co/products/right-positioning) | [Full docs](./docs/products/right-positioning.md)
+[→ Find your positioning angle](https://www.rightsuite.co/products/right-positioning) | [Full docs](./docs/products/right-positioning.md)
 
 ---
 
-### [RightPrice](https://rightprice.co/products/right-price) — Is your price right?
+### [RightPrice](https://www.rightsuite.co/products/right-price) — Is your price right?
 
 <table>
   <tr>
@@ -147,11 +147,11 @@ RightPrice simulates how your target audience responds to your price. You get a 
 
 **What you get:** Confidence score · Price assessment (too low / optimal / too high) · Suggested price range · 12 buyer personas · Trial strategy recommendation · Competitive context · Actionable next steps
 
-[→ Validate your price](https://rightprice.co/products/right-price) | [Full docs](./docs/products/right-price.md)
+[→ Validate your price](https://www.rightsuite.co/products/right-price) | [Full docs](./docs/products/right-price.md)
 
 ---
 
-### [RightMessaging](https://rightprice.co/products/right-messaging) — Does your copy convert?
+### [RightMessaging](https://www.rightsuite.co/products/right-messaging) — Does your copy convert?
 
 <table>
   <tr>
@@ -170,11 +170,11 @@ RightMessaging tests your headlines, CTAs, and landing page sections against sim
 
 **What you get:** Conversion likelihood score · Emotional resonance · Clarity score · CTA effectiveness · Objection signals · Alternative copy suggestions · Persona breakdown
 
-[→ Test your messaging](https://rightprice.co/products/right-messaging) | [Full docs](./docs/products/right-messaging.md)
+[→ Test your messaging](https://www.rightsuite.co/products/right-messaging) | [Full docs](./docs/products/right-messaging.md)
 
 ---
 
-### [RightEngagement](https://rightprice.co/products/right-engagement) — Will they respond?
+### [RightEngagement](https://www.rightsuite.co/products/right-engagement) — Will they respond?
 
 <table>
   <tr>
@@ -193,11 +193,11 @@ RightEngagement simulates how your target buyers respond to cold emails, LinkedI
 
 **What you get:** Predicted open rate · Reply intent score · Sequence drop-off analysis · Tone diagnosis · Objection signals · Optimized variants with projected uplift
 
-[→ Run a simulation](https://rightprice.co/products/right-engagement) | [Full docs](./docs/products/right-engagement.md)
+[→ Run a simulation](https://www.rightsuite.co/products/right-engagement) | [Full docs](./docs/products/right-engagement.md)
 
 ---
 
-### [RightChannel](https://rightprice.co/products/right-channel) — Where should you show up?
+### [RightChannel](https://www.rightsuite.co/products/right-channel) — Where should you show up?
 
 <table>
   <tr>
@@ -216,11 +216,11 @@ RightChannel evaluates every distribution channel against your ICP — SEO, comm
 
 **What you get:** Channel conversion rankings · Effort-to-return matrix · Buyer discovery patterns · Channel-message fit scores · Community and partnership signals · Channel sequencing recommendation
 
-[→ Run a simulation](https://rightprice.co/products/right-channel) | [Full docs](./docs/products/right-channel.md)
+[→ Run a simulation](https://www.rightsuite.co/products/right-channel) | [Full docs](./docs/products/right-channel.md)
 
 ---
 
-### [RightAd](https://rightprice.co/products/right-ad) — Will your ad work?
+### [RightAd](https://www.rightsuite.co/products/right-ad) — Will your ad work?
 
 <table>
   <tr>
@@ -239,7 +239,7 @@ RightAd simulates whether your paid creative stops the scroll across Meta, Googl
 
 **What you get:** Hook strength score · Click intent score · Audience-creative fit · Creative fatigue prediction · Objection triggers · Copy clarity score · Winning variant recommendation
 
-[→ Run a simulation](https://rightprice.co/products/right-ad) | [Full docs](./docs/products/right-ad.md)
+[→ Run a simulation](https://www.rightsuite.co/products/right-ad) | [Full docs](./docs/products/right-ad.md)
 
 ---
 
@@ -321,7 +321,7 @@ Right Suite is not a replacement for talking to customers. It's what you do befo
 ---
 
 <p align="center">
-  <a href="https://rightprice.co"><strong>Start validating at rightprice.co →</strong></a>
+  <a href="https://www.rightsuite.co"><strong>Start validating at rightsuite.co →</strong></a>
 </p>
 
 <p align="center">

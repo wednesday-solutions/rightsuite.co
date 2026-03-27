@@ -8,7 +8,7 @@
 
 Discover how your audience perceives you next to competitors. Find the angle that makes you the obvious choice — before you spend months on marketing that fights from the wrong position.
 
-[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://rightprice.co/products/right-positioning)
+[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-positioning)
 
 ---
 
@@ -90,7 +90,7 @@ Run RightAudience first if you're unsure which segment to position for. Run Righ
 
 ## Status
 
-**Live** — available at [rightprice.co/products/right-positioning](https://rightprice.co/products/right-positioning)
+**Live** — available at [www.rightsuite.co/products/right-positioning](https://www.rightsuite.co/products/right-positioning)
 
 ---
 
