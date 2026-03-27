@@ -1,0 +1,63 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="24" fill="#F0FDF4"/>
+
+  <text x="60" y="55" font-family="DM Sans, sans-serif" font-size="12" font-weight="600" fill="#0D9488" letter-spacing="0.15em">AFTER RIGHTCHANNEL</text>
+  <text x="60" y="90" font-family="Instrument Serif, Georgia, serif" font-size="28" fill="#18181B">Channels ranked. GTM unlocked.</text>
+
+  <rect x="60" y="115" width="320" height="350" rx="16" fill="white" stroke="#4ADE80" stroke-width="2"/>
+  <rect x="80" y="133" width="115" height="22" rx="6" fill="#F0FDF4"/>
+  <text x="90" y="148" font-family="DM Sans, sans-serif" font-size="10" font-weight="600" fill="#0D9488">ICP-FIT RANKED</text>
+
+  <!-- Channel bars -->
+  <text x="80" y="182" font-family="DM Sans, sans-serif" font-size="12" fill="#18181B" font-weight="600">X / Twitter community</text>
+  <text x="350" y="182" font-family="DM Mono, monospace" font-size="12" fill="#10B981" font-weight="600" text-anchor="end">91%</text>
+  <rect x="80" y="187" width="250" height="5" rx="2.5" fill="#F4F4F5"/>
+  <rect x="80" y="187" width="228" height="5" rx="2.5" fill="#4ADE80"/>
+
+  <text x="80" y="214" font-family="DM Sans, sans-serif" font-size="12" fill="#18181B" font-weight="600">Slack communities</text>
+  <text x="350" y="214" font-family="DM Mono, monospace" font-size="12" fill="#10B981" font-weight="600" text-anchor="end">84%</text>
+  <rect x="80" y="219" width="250" height="5" rx="2.5" fill="#F4F4F5"/>
+  <rect x="80" y="219" width="210" height="5" rx="2.5" fill="#4ADE80"/>
+
+  <text x="80" y="246" font-family="DM Sans, sans-serif" font-size="12" fill="#18181B" font-weight="600">Product Hunt</text>
+  <text x="350" y="246" font-family="DM Mono, monospace" font-size="12" fill="#10B981" font-weight="600" text-anchor="end">78%</text>
+  <rect x="80" y="251" width="250" height="5" rx="2.5" fill="#F4F4F5"/>
+  <rect x="80" y="251" width="195" height="5" rx="2.5" fill="#FCD34D"/>
+
+  <text x="80" y="278" font-family="DM Sans, sans-serif" font-size="12" fill="#18181B">Affiliates</text>
+  <text x="350" y="278" font-family="DM Mono, monospace" font-size="12" fill="#EF4444" font-weight="600" text-anchor="end">18%</text>
+  <rect x="80" y="283" width="250" height="5" rx="2.5" fill="#F4F4F5"/>
+  <rect x="80" y="283" width="45" height="5" rx="2.5" fill="#EF4444"/>
+
+  <line x1="80" y1="304" x2="360" y2="304" stroke="#F0FDF4" stroke-width="1"/>
+  <text x="80" y="328" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">&#8627; X / Twitter: 91% ICP fit — start here</text>
+  <text x="80" y="351" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">&#8627; Skip affiliates — your ICP is not there</text>
+  <text x="80" y="374" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">&#8627; GTM order defined across all 7 channels</text>
+
+  <rect x="80" y="390" width="280" height="44" rx="12" fill="url(#greenGradCh)"/>
+  <text x="115" y="417" font-family="DM Sans, sans-serif" font-size="13" font-weight="600" fill="white">Invest where buyers actually are</text>
+  <defs>
+    <linearGradient id="greenGradCh" x1="80" y1="390" x2="360" y2="434">
+      <stop stop-color="#4ADE80"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1 -->
+  <rect x="420" y="110" width="320" height="110" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="142" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">#1 CHANNEL ICP FIT</text>
+  <text x="440" y="183" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#10B981">91%</text>
+  <text x="510" y="183" font-family="DM Sans, sans-serif" font-size="12" fill="#71717A">X / Twitter — start here</text>
+
+  <!-- Card 2 -->
+  <rect x="420" y="235" width="320" height="110" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="267" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">CHANNELS TO SKIP</text>
+  <text x="440" y="308" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#10B981">2 of 7</text>
+  <text x="532" y="308" font-family="DM Sans, sans-serif" font-size="12" fill="#71717A">below 30% ICP fit</text>
+
+  <!-- Card 3 -->
+  <rect x="420" y="360" width="320" height="110" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="392" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">GTM ORDER</text>
+  <text x="440" y="433" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#18181B">defined</text>
+  <text x="566" y="433" font-family="DM Sans, sans-serif" font-size="12" fill="#71717A">7 channels evaluated</text>
+</svg>

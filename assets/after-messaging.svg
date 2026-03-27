@@ -1,0 +1,43 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="24" fill="#F0FDF4"/>
+
+  <text x="60" y="55" font-family="DM Sans, sans-serif" font-size="12" font-weight="600" fill="#0D9488" letter-spacing="0.15em">AFTER RIGHTMESSAGING</text>
+  <text x="60" y="90" font-family="Instrument Serif, Georgia, serif" font-size="28" fill="#18181B">Copy that converts</text>
+
+  <rect x="60" y="115" width="320" height="350" rx="16" fill="white" stroke="#4ADE80" stroke-width="2"/>
+  <rect x="80" y="133" width="80" height="22" rx="6" fill="#F0FDF4"/>
+  <text x="90" y="148" font-family="DM Sans, sans-serif" font-size="10" font-weight="600" fill="#0D9488">REWRITTEN</text>
+  <text x="80" y="190" font-family="Instrument Serif, Georgia, serif" font-size="18" fill="#10B981">"Stop writing for yourself.</text>
+  <text x="80" y="213" font-family="Instrument Serif, Georgia, serif" font-size="18" fill="#10B981">Write for your buyer."</text>
+  <line x1="80" y1="232" x2="360" y2="232" stroke="#F0FDF4" stroke-width="1"/>
+  <text x="80" y="258" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">↳ Clarity score 91% — up from 34%</text>
+  <text x="80" y="281" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">↳ 3x more resonance with your ICP</text>
+  <text x="80" y="304" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">↳ Scroll-past rate dropped 64%</text>
+  <text x="80" y="327" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">↳ Rewritten in a single pass</text>
+  <rect x="80" y="390" width="280" height="44" rx="12" fill="url(#greenGradMsg)"/>
+  <text x="120" y="417" font-family="DM Sans, sans-serif" font-size="13" font-weight="600" fill="white">Launch copy that converts</text>
+  <defs>
+    <linearGradient id="greenGradMsg" x1="80" y1="390" x2="360" y2="434">
+      <stop stop-color="#4ADE80"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1 -->
+  <rect x="420" y="110" width="320" height="110" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="142" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">CLARITY SCORE</text>
+  <text x="440" y="183" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#10B981">91%</text>
+  <text x="512" y="183" font-family="DM Sans, sans-serif" font-size="12" fill="#71717A">up from 34%</text>
+
+  <!-- Card 2 -->
+  <rect x="420" y="235" width="320" height="110" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="267" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">DROP-OFF ELIMINATED</text>
+  <text x="440" y="308" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#10B981">↓ 64%</text>
+  <text x="552" y="308" font-family="DM Sans, sans-serif" font-size="12" fill="#71717A">scroll-past rate</text>
+
+  <!-- Card 3 -->
+  <rect x="420" y="360" width="320" height="110" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="392" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">ICP RESONANCE</text>
+  <text x="440" y="433" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#18181B">3x</text>
+  <text x="492" y="433" font-family="DM Sans, sans-serif" font-size="12" fill="#71717A">more than original copy</text>
+</svg>

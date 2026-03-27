@@ -1,0 +1,47 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="24" fill="#F0FDF4"/>
+
+  <text x="60" y="55" font-family="DM Sans, sans-serif" font-size="12" font-weight="600" fill="#0D9488" letter-spacing="0.15em">AFTER RIGHTPRICE</text>
+  <text x="60" y="90" font-family="Instrument Serif, Georgia, serif" font-size="28" fill="#18181B">You found the right price</text>
+
+  <rect x="60" y="120" width="320" height="340" rx="16" fill="white" stroke="#4ADE80" stroke-width="2"/>
+
+  <rect x="80" y="138" width="80" height="22" rx="6" fill="#F0FDF4"/>
+  <text x="90" y="153" font-family="DM Sans, sans-serif" font-size="10" font-weight="600" fill="#0D9488">TESTED</text>
+
+  <text x="80" y="205" font-family="DM Mono, monospace" font-size="52" font-weight="500" fill="#10B981">$49</text>
+  <text x="220" y="205" font-family="DM Sans, sans-serif" font-size="18" fill="#A3A3A3">/mo</text>
+
+  <text x="80" y="235" font-family="DM Sans, sans-serif" font-size="12" fill="#0D9488">Validated by AI buyer personas</text>
+
+  <line x1="80" y1="255" x2="360" y2="255" stroke="#F0FDF4" stroke-width="1"/>
+
+  <text x="80" y="285" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">72% of buyers say "fair price"</text>
+  <text x="80" y="310" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">$20/mo more per customer = $240k/yr gained</text>
+  <text x="80" y="335" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">14-day free trial converts best</text>
+  <text x="80" y="360" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">5 recommendations to increase conversion</text>
+
+  <rect x="80" y="390" width="280" height="44" rx="12" fill="url(#greenGrad2)"/>
+  <text x="130" y="417" font-family="DM Sans, sans-serif" font-size="13" font-weight="600" fill="white">Launch with confidence</text>
+  <defs>
+    <linearGradient id="greenGrad2" x1="80" y1="390" x2="360" y2="434">
+      <stop stop-color="#4ADE80"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="420" y="120" width="320" height="100" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="155" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">CONFIDENCE</text>
+  <text x="440" y="195" font-family="DM Mono, monospace" font-size="36" font-weight="500" fill="#10B981">87%</text>
+  <text x="530" y="195" font-family="DM Sans, sans-serif" font-size="14" fill="#71717A">backed by data</text>
+
+  <rect x="420" y="240" width="320" height="100" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="275" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">REVENUE AT RISK</text>
+  <text x="440" y="315" font-family="DM Mono, monospace" font-size="36" font-weight="500" fill="#10B981">11-17%</text>
+  <text x="600" y="315" font-family="DM Sans, sans-serif" font-size="14" fill="#71717A">saved</text>
+
+  <rect x="420" y="360" width="320" height="100" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="395" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">EVERY ANGLE COVERED</text>
+  <text x="440" y="435" font-family="DM Mono, monospace" font-size="36" font-weight="500" fill="#18181B">6</text>
+  <text x="470" y="435" font-family="DM Sans, sans-serif" font-size="14" fill="#71717A">buyer perspectives tested</text>
+</svg>

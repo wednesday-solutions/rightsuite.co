@@ -1,0 +1,38 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="24" fill="#FFF5F5"/>
+
+  <text x="60" y="55" font-family="DM Sans, sans-serif" font-size="12" font-weight="600" fill="#EF4444" letter-spacing="0.15em">BEFORE</text>
+  <text x="60" y="90" font-family="Instrument Serif, Georgia, serif" font-size="28" fill="#18181B">Sending into the void</text>
+
+  <rect x="60" y="115" width="320" height="350" rx="16" fill="white" stroke="#FCA5A5" stroke-width="1.5"/>
+  <text x="80" y="150" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">YOUR COLD EMAIL</text>
+  <text x="80" y="175" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3">Subject: Quick question about your pricing strategy</text>
+  <text x="80" y="200" font-family="Instrument Serif, Georgia, serif" font-size="15" fill="#EF4444">"Hey [First name], noticed you just</text>
+  <text x="80" y="220" font-family="Instrument Serif, Georgia, serif" font-size="15" fill="#EF4444">launched — congrats. I help early-stage</text>
+  <text x="80" y="240" font-family="Instrument Serif, Georgia, serif" font-size="15" fill="#EF4444">founders validate pricing..."</text>
+  <line x1="80" y1="260" x2="360" y2="260" stroke="#F4F4F5" stroke-width="1"/>
+  <text x="80" y="285" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ 18% simulated reply rate — room to improve</text>
+  <text x="80" y="308" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ Killer line not yet detected or fixed</text>
+  <text x="80" y="331" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ Sending same version to everyone</text>
+  <text x="80" y="354" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ No rewrite to test against</text>
+  <rect x="80" y="390" width="280" height="44" rx="12" fill="#F4F4F5"/>
+  <text x="125" y="417" font-family="DM Sans, sans-serif" font-size="13" font-weight="600" fill="#A3A3A3">Keep sending and hoping</text>
+
+  <!-- Card 1 -->
+  <rect x="420" y="110" width="320" height="110" rx="14" fill="white" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="440" y="142" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">REPLY RATE</text>
+  <text x="440" y="183" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#EF4444">18%</text>
+  <text x="512" y="183" font-family="DM Sans, sans-serif" font-size="12" fill="#A3A3A3">simulated baseline</text>
+
+  <!-- Card 2 -->
+  <rect x="420" y="235" width="320" height="110" rx="14" fill="white" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="440" y="267" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">KILLER LINES FOUND</text>
+  <text x="440" y="308" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#EF4444">0</text>
+  <text x="466" y="308" font-family="DM Sans, sans-serif" font-size="12" fill="#A3A3A3">never tested</text>
+
+  <!-- Card 3 -->
+  <rect x="420" y="360" width="320" height="110" rx="14" fill="white" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="440" y="392" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">REWRITE AVAILABLE</text>
+  <text x="440" y="433" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#18181B">none</text>
+  <text x="532" y="433" font-family="DM Sans, sans-serif" font-size="12" fill="#A3A3A3">still guessing</text>
+</svg>

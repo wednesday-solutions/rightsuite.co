@@ -1,0 +1,43 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="24" fill="#F0FDF4"/>
+
+  <text x="60" y="55" font-family="DM Sans, sans-serif" font-size="12" font-weight="600" fill="#0D9488" letter-spacing="0.15em">AFTER RIGHTAD</text>
+  <text x="60" y="90" font-family="Instrument Serif, Georgia, serif" font-size="28" fill="#18181B">Launching a proven winner</text>
+
+  <rect x="60" y="115" width="320" height="350" rx="16" fill="white" stroke="#4ADE80" stroke-width="2"/>
+  <rect x="80" y="133" width="100" height="22" rx="6" fill="#F0FDF4"/>
+  <text x="90" y="148" font-family="DM Sans, sans-serif" font-size="10" font-weight="600" fill="#0D9488">PRE-VALIDATED</text>
+  <text x="80" y="190" font-family="DM Sans, sans-serif" font-size="14" fill="#10B981" font-weight="600">Variant B: winning creative + copy</text>
+  <text x="80" y="210" font-family="DM Sans, sans-serif" font-size="13" fill="#71717A">Predicted CTR 5.2%, ROAS 6.3x</text>
+  <line x1="80" y1="228" x2="360" y2="228" stroke="#F0FDF4" stroke-width="1"/>
+  <text x="80" y="255" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">↳ CTR: 5.2% — validated before launch</text>
+  <text x="80" y="278" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">↳ Winning platform identified: Meta Feed</text>
+  <text x="80" y="301" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">↳ Creative weak points fixed pre-launch</text>
+  <text x="80" y="324" font-family="DM Sans, sans-serif" font-size="13" fill="#10B981">↳ $0 burned to find the right version</text>
+  <rect x="80" y="390" width="280" height="44" rx="12" fill="url(#greenGradAd)"/>
+  <text x="130" y="417" font-family="DM Sans, sans-serif" font-size="13" font-weight="600" fill="white">Launch with confidence</text>
+  <defs>
+    <linearGradient id="greenGradAd" x1="80" y1="390" x2="360" y2="434">
+      <stop stop-color="#4ADE80"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1 -->
+  <rect x="420" y="110" width="320" height="110" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="142" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">PREDICTED CTR</text>
+  <text x="440" y="183" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#10B981">5.2%</text>
+  <text x="532" y="183" font-family="DM Sans, sans-serif" font-size="12" fill="#71717A">2.5× industry average</text>
+
+  <!-- Card 2 -->
+  <rect x="420" y="235" width="320" height="110" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="267" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">ESTIMATED ROAS</text>
+  <text x="440" y="308" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#10B981">6.3x</text>
+  <text x="532" y="308" font-family="DM Sans, sans-serif" font-size="12" fill="#71717A">before first dollar spent</text>
+
+  <!-- Card 3 -->
+  <rect x="420" y="360" width="320" height="110" rx="14" fill="white" stroke="#4ADE80" stroke-width="1.5"/>
+  <text x="440" y="392" font-family="DM Sans, sans-serif" font-size="11" fill="#0D9488" letter-spacing="0.1em">BUDGET SAVED</text>
+  <text x="440" y="433" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#18181B">$5,000</text>
+  <text x="572" y="433" font-family="DM Sans, sans-serif" font-size="12" fill="#71717A">not wasted</text>
+</svg>

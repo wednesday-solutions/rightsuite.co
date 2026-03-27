@@ -1,0 +1,36 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="24" fill="#FFF5F5"/>
+
+  <text x="60" y="55" font-family="DM Sans, sans-serif" font-size="12" font-weight="600" fill="#EF4444" letter-spacing="0.15em">BEFORE</text>
+  <text x="60" y="90" font-family="Instrument Serif, Georgia, serif" font-size="28" fill="#18181B">Your copy isn't landing</text>
+
+  <rect x="60" y="115" width="320" height="350" rx="16" fill="white" stroke="#FCA5A5" stroke-width="1.5"/>
+  <text x="80" y="150" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">YOUR HEADLINE</text>
+  <text x="80" y="185" font-family="Instrument Serif, Georgia, serif" font-size="18" fill="#EF4444">"The all-in-one platform</text>
+  <text x="80" y="208" font-family="Instrument Serif, Georgia, serif" font-size="18" fill="#EF4444">for modern teams"</text>
+  <line x1="80" y1="228" x2="360" y2="228" stroke="#F4F4F5" stroke-width="1"/>
+  <text x="80" y="255" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ 58% of visitors stop at the headline</text>
+  <text x="80" y="278" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ Too generic — says nothing specific</text>
+  <text x="80" y="301" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ No pain identified, no curiosity created</text>
+  <text x="80" y="324" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ Reads like every other SaaS homepage</text>
+  <rect x="80" y="390" width="280" height="44" rx="12" fill="#F4F4F5"/>
+  <text x="155" y="417" font-family="DM Sans, sans-serif" font-size="13" font-weight="600" fill="#A3A3A3">Publish and hope</text>
+
+  <!-- Card 1 -->
+  <rect x="420" y="110" width="320" height="110" rx="14" fill="white" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="440" y="142" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">CLARITY SCORE</text>
+  <text x="440" y="183" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#EF4444">34%</text>
+  <text x="512" y="183" font-family="DM Sans, sans-serif" font-size="12" fill="#A3A3A3">unvalidated, no ICP testing</text>
+
+  <!-- Card 2 -->
+  <rect x="420" y="235" width="320" height="110" rx="14" fill="white" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="440" y="267" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">SCROLL-PAST RATE</text>
+  <text x="440" y="308" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#EF4444">58%</text>
+  <text x="512" y="308" font-family="DM Sans, sans-serif" font-size="12" fill="#A3A3A3">bounce at hero section</text>
+
+  <!-- Card 3 -->
+  <rect x="420" y="360" width="320" height="110" rx="14" fill="white" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="440" y="392" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">COPY TESTED WITH</text>
+  <text x="440" y="433" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#18181B">0</text>
+  <text x="464" y="433" font-family="DM Sans, sans-serif" font-size="12" fill="#A3A3A3">real buyer personas</text>
+</svg>

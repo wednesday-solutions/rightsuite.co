@@ -1,0 +1,36 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" rx="24" fill="#FFF5F5"/>
+
+  <text x="60" y="55" font-family="DM Sans, sans-serif" font-size="12" font-weight="600" fill="#EF4444" letter-spacing="0.15em">BEFORE</text>
+  <text x="60" y="90" font-family="Instrument Serif, Georgia, serif" font-size="28" fill="#18181B">Blending in with everyone</text>
+
+  <rect x="60" y="115" width="320" height="350" rx="16" fill="white" stroke="#FCA5A5" stroke-width="1.5"/>
+  <text x="80" y="150" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">HOW BUYERS SEE YOU</text>
+  <text x="80" y="185" font-family="Instrument Serif, Georgia, serif" font-size="17" fill="#EF4444">"Another tool that does</text>
+  <text x="80" y="208" font-family="Instrument Serif, Georgia, serif" font-size="17" fill="#EF4444">roughly the same thing."</text>
+  <line x1="80" y1="228" x2="360" y2="228" stroke="#F4F4F5" stroke-width="1"/>
+  <text x="80" y="255" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ No clear angle vs. competitors</text>
+  <text x="80" y="278" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ Buyers default to the brand they know</text>
+  <text x="80" y="301" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ Price becomes the only differentiator</text>
+  <text x="80" y="324" font-family="DM Sans, sans-serif" font-size="13" fill="#EF4444">↳ 3 of 5 simulated buyers chose a competitor</text>
+  <rect x="80" y="390" width="280" height="44" rx="12" fill="#F4F4F5"/>
+  <text x="150" y="417" font-family="DM Sans, sans-serif" font-size="13" font-weight="600" fill="#A3A3A3">Compete on price</text>
+
+  <!-- Card 1 -->
+  <rect x="420" y="110" width="320" height="110" rx="14" fill="white" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="440" y="142" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">DIFFERENTIATION SCORE</text>
+  <text x="440" y="183" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#EF4444">12%</text>
+  <text x="512" y="183" font-family="DM Sans, sans-serif" font-size="12" fill="#A3A3A3">not memorable to buyers</text>
+
+  <!-- Card 2 -->
+  <rect x="420" y="235" width="320" height="110" rx="14" fill="white" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="440" y="267" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">BUYER PREFERENCE</text>
+  <text x="440" y="308" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#EF4444">1 of 5</text>
+  <text x="572" y="308" font-family="DM Sans, sans-serif" font-size="12" fill="#A3A3A3">chose you</text>
+
+  <!-- Card 3 -->
+  <rect x="420" y="360" width="320" height="110" rx="14" fill="white" stroke="#FCA5A5" stroke-width="1"/>
+  <text x="440" y="392" font-family="DM Sans, sans-serif" font-size="11" fill="#A3A3A3" letter-spacing="0.1em">WINNING ANGLE</text>
+  <text x="440" y="433" font-family="DM Mono, monospace" font-size="34" font-weight="500" fill="#18181B">none</text>
+  <text x="532" y="433" font-family="DM Sans, sans-serif" font-size="12" fill="#A3A3A3">identified yet</text>
+</svg>
