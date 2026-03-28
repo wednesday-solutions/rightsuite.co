@@ -65,13 +65,13 @@ Right Suite replaces slow feedback loops with simulation. The tradeoff is explic
 
 | Product | Page |
 |---|---|
-| Segment validation | [RightAudience for Growth Teams](growth-teams/right-audience/) |
-| Competitive positioning | [RightPositioning for Growth Teams](growth-teams/right-positioning/) |
-| Pricing validation | [RightPrice for Growth Teams](growth-teams/right-price/) |
-| Messaging variants | [RightMessaging for Growth Teams](growth-teams/right-messaging/) |
-| Outreach sequences | [RightEngagement for Growth Teams](growth-teams/right-engagement/) |
-| Channel prioritization | [RightChannel for Growth Teams](growth-teams/right-channel/) |
-| Ad creative | [RightAd for Growth Teams](growth-teams/right-ad/) |
+| Segment validation | [RightAudience for Growth Teams](right-audience/) |
+| Competitive positioning | [RightPositioning for Growth Teams](right-positioning/) |
+| Pricing validation | [RightPrice for Growth Teams](right-price/) |
+| Messaging variants | [RightMessaging for Growth Teams](right-messaging/) |
+| Outreach sequences | [RightEngagement for Growth Teams](right-engagement/) |
+| Channel prioritization | [RightChannel for Growth Teams](right-channel/) |
+| Ad creative | [RightAd for Growth Teams](right-ad/) |
 
 ---
 

@@ -66,13 +66,13 @@ This order matters because the downstream decisions compound. If you validate pr
 
 | Product | Page |
 |---|---|
-| Audience validation | [RightAudience for SaaS Founders](saas-founders/right-audience/) |
-| Competitive positioning | [RightPositioning for SaaS Founders](saas-founders/right-positioning/) |
-| Pricing validation | [RightPrice for SaaS Founders](saas-founders/right-price/) |
-| Landing page copy | [RightMessaging for SaaS Founders](saas-founders/right-messaging/) |
-| Cold outreach | [RightEngagement for SaaS Founders](saas-founders/right-engagement/) |
-| Channel selection | [RightChannel for SaaS Founders](saas-founders/right-channel/) |
-| Ad creative | [RightAd for SaaS Founders](saas-founders/right-ad/) |
+| Audience validation | [RightAudience for SaaS Founders](right-audience/) |
+| Competitive positioning | [RightPositioning for SaaS Founders](right-positioning/) |
+| Pricing validation | [RightPrice for SaaS Founders](right-price/) |
+| Landing page copy | [RightMessaging for SaaS Founders](right-messaging/) |
+| Cold outreach | [RightEngagement for SaaS Founders](right-engagement/) |
+| Channel selection | [RightChannel for SaaS Founders](right-channel/) |
+| Ad creative | [RightAd for SaaS Founders](right-ad/) |
 
 ---
 

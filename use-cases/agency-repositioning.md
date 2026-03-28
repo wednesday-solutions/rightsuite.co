@@ -64,13 +64,13 @@ This is where you find the unclaimed ground — the angle that makes you the obv
 
 | Product | Page |
 |---|---|
-| Segment validation | [RightAudience for Agency Founders](agency-repositioning/right-audience/) |
-| Competitive positioning | [RightPositioning for Agency Founders](agency-repositioning/right-positioning/) |
-| Pricing validation | [RightPrice for Agency Founders](agency-repositioning/right-price/) |
-| Website copy | [RightMessaging for Agency Founders](agency-repositioning/right-messaging/) |
-| Cold outreach | [RightEngagement for Agency Founders](agency-repositioning/right-engagement/) |
-| Channel selection | [RightChannel for Agency Founders](agency-repositioning/right-channel/) |
-| Ad creative | [RightAd for Agency Founders](agency-repositioning/right-ad/) |
+| Segment validation | [RightAudience for Agency Founders](right-audience/) |
+| Competitive positioning | [RightPositioning for Agency Founders](right-positioning/) |
+| Pricing validation | [RightPrice for Agency Founders](right-price/) |
+| Website copy | [RightMessaging for Agency Founders](right-messaging/) |
+| Cold outreach | [RightEngagement for Agency Founders](right-engagement/) |
+| Channel selection | [RightChannel for Agency Founders](right-channel/) |
+| Ad creative | [RightAd for Agency Founders](right-ad/) |
 
 ---
 

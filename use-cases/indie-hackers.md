@@ -65,13 +65,13 @@ The typical indie hacker pattern: start with the free prompts to get directional
 
 | Product | Page |
 |---|---|
-| Segment validation | [RightAudience for Indie Hackers](indie-hackers/right-audience/) |
-| Competitive positioning | [RightPositioning for Indie Hackers](indie-hackers/right-positioning/) |
-| Pricing validation | [RightPrice for Indie Hackers](indie-hackers/right-price/) |
-| Landing page copy | [RightMessaging for Indie Hackers](indie-hackers/right-messaging/) |
-| Cold outreach | [RightEngagement for Indie Hackers](indie-hackers/right-engagement/) |
-| Channel selection | [RightChannel for Indie Hackers](indie-hackers/right-channel/) |
-| Ad creative | [RightAd for Indie Hackers](indie-hackers/right-ad/) |
+| Segment validation | [RightAudience for Indie Hackers](right-audience/) |
+| Competitive positioning | [RightPositioning for Indie Hackers](right-positioning/) |
+| Pricing validation | [RightPrice for Indie Hackers](right-price/) |
+| Landing page copy | [RightMessaging for Indie Hackers](right-messaging/) |
+| Cold outreach | [RightEngagement for Indie Hackers](right-engagement/) |
+| Channel selection | [RightChannel for Indie Hackers](right-channel/) |
+| Ad creative | [RightAd for Indie Hackers](right-ad/) |
 
 ---
 
