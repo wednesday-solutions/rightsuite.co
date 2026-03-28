@@ -1,3 +1,10 @@
+---
+layout: default
+title: ICP Scoring Matrix
+parent: Templates
+nav_order: 1
+---
+
 # ICP Scoring Matrix
 
 **What this is:** A structured template for ranking candidate customer segments by purchase intent before you commit your GTM to one of them.

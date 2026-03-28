@@ -1,3 +1,10 @@
+---
+layout: default
+title: "05 — Cold Outreach Diagnostic"
+parent: Prompts
+nav_order: 5
+---
+
 # Prompt 05 — Cold Outreach Diagnostic
 
 **The decision:** Will they respond?

@@ -1,3 +1,10 @@
+---
+layout: default
+title: RightAudience
+parent: Products
+nav_order: 1
+---
+
 <p align="center">
   <img src="../../assets/logo.svg" alt="Right Suite" width="48" height="48" />
 </p>

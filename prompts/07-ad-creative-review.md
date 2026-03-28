@@ -1,3 +1,10 @@
+---
+layout: default
+title: "07 — Ad Creative Review"
+parent: Prompts
+nav_order: 7
+---
+
 # Prompt 07 — Ad Creative Review
 
 **The decision:** Will my ad stop the scroll?

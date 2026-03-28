@@ -1,3 +1,10 @@
+---
+layout: default
+title: "02 — Positioning Audit"
+parent: Prompts
+nav_order: 2
+---
+
 # Prompt 02 — Positioning Audit
 
 **The decision:** How do I win the comparison?

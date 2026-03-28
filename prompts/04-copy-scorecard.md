@@ -1,3 +1,10 @@
+---
+layout: default
+title: "04 — Copy Scorecard"
+parent: Prompts
+nav_order: 4
+---
+
 # Prompt 04 — Landing Page Copy Scorecard
 
 **The decision:** Does my copy convert?

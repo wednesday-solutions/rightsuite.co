@@ -1,3 +1,10 @@
+---
+layout: default
+title: Zero-Customer GTM
+parent: Playbook
+nav_order: 1
+---
+
 # The Zero-Customer GTM Playbook
 
 **For vibe coders, solo founders, and indie hackers who built a product and now need to sell it.**

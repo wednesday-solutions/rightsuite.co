@@ -1,3 +1,10 @@
+---
+layout: default
+title: "03 — Price Sensitivity Test"
+parent: Prompts
+nav_order: 3
+---
+
 # Prompt 03 — Price Sensitivity Test
 
 **The decision:** What should I charge?

@@ -1,3 +1,10 @@
+---
+layout: default
+title: RightMessaging
+parent: Products
+nav_order: 4
+---
+
 <p align="center">
   <img src="../../assets/logo.svg" alt="Right Suite" width="48" height="48" />
 </p>

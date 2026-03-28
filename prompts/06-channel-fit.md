@@ -1,3 +1,10 @@
+---
+layout: default
+title: "06 — Channel Fit Analysis"
+parent: Prompts
+nav_order: 6
+---
+
 # Prompt 06 — Channel Fit Analysis
 
 **The decision:** Where should I show up?

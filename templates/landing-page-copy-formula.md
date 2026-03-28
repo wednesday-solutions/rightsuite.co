@@ -1,3 +1,10 @@
+---
+layout: default
+title: Landing Page Copy Formula
+parent: Templates
+nav_order: 2
+---
+
 # Landing Page Copy Formula
 
 **What this is:** A fill-in-the-blank structure for a landing page that converts cold traffic. Built for vibe-coded products that have no brand awareness and need to earn attention from the first line.

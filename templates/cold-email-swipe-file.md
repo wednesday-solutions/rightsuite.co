@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cold Email Swipe File
+parent: Templates
+nav_order: 3
+---
+
 # Cold Email Swipe File
 
 **What this is:** 12 cold email frameworks that work for B2B SaaS. Each one has a structure, an example, and notes on when to use it.

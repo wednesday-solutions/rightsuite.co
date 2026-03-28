@@ -1,3 +1,10 @@
+---
+layout: default
+title: GTM Decision Log
+parent: Templates
+nav_order: 4
+---
+
 # GTM Decision Log
 
 **What this is:** A living record of every go-to-market decision you make, the assumption behind it, and how you'll know if it was right.

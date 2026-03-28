@@ -1,3 +1,10 @@
+---
+layout: default
+title: "01 — ICP Validation"
+parent: Prompts
+nav_order: 1
+---
+
 # Prompt 01 — ICP Validation
 
 **The decision:** Who should I sell to?
