@@ -4,11 +4,10 @@ title: Home
 nav_order: 1
 ---
 
-<p align="center">
-  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="72" height="72" />
-</p>
-
-# Right Suite
+<div style="display:flex;align-items:center;gap:14px;margin-bottom:16px;">
+  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="48" height="48" style="border-radius:12px;flex-shrink:0;" />
+  <h1 style="font-family:'Instrument Serif',Georgia,serif;font-size:2.25rem;font-weight:400;color:#18181b;letter-spacing:-0.025em;margin:0;">Right Suite</h1>
+</div>
 
 **You built the product. Now get the go-to-market right.**
 
