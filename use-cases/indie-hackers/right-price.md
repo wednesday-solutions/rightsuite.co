@@ -3,6 +3,13 @@ layout: default
 title: RightPrice for Indie Hackers
 parent: Vibe Coders & Indie Hackers
 description: "Most indie hackers underprice because they're afraid of rejection. RightPrice gives you a data-backed optimal range so you can charge what your product is worth."
+faq:
+  - q: "How does an indie hacker find the right price for their product?"
+    a: "Describe your product, your target audience, and your current or proposed price in RightPrice. The simulation generates 100+ synthetic buyer interactions and returns a confidence score, price assessment, optimal range, and a trial strategy recommendation. For indie hackers, this replaces the common approach of picking a price because it looks like what competitors charge."
+  - q: "Why do indie hackers tend to underprice their products?"
+    a: "Fear of rejection and anchoring to their own perception of what something should cost. The instinct is that a lower price means more customers, but underpricing attracts customers with low willingness to pay who are more likely to churn, demand more support, and refer similar buyers. 11 to 17% of SaaS revenue is lost to wrong pricing — and for indie hackers, underpricing is the more common direction."
+  - q: "Should an indie hacker charge monthly or annually?"
+    a: "RightPrice includes a trial strategy recommendation — free trial, freemium, reverse trial, or paid pilot — with the reasoning specific to your offer and segment. Annual versus monthly is part of the pricing structure that gets surfaced in the report based on what your segment's willingness to pay and conversion behavior indicates."
 ---
 
 # You picked $9/mo because it felt safe. It might be costing you your business.

@@ -3,6 +3,13 @@ layout: default
 title: RightChannel for Indie Hackers
 parent: Vibe Coders & Indie Hackers
 description: "Twitter, Product Hunt, Reddit, SEO, cold DMs — indie hackers can't do all of them. RightChannel tells you which channel your specific buyers actually use before you spend 3 months on the wrong one."
+faq:
+  - q: "How does an indie hacker pick the right channel to focus on?"
+    a: "Describe your product, your target buyer, and the channels you are considering in RightChannel. The simulation models how your specific buyers discover new tools and returns a channel fit ranking, effort-to-return estimate, and a recommended sequence for which channels to attack first. For indie hackers, this prevents committing 3 months to a channel because it worked for someone else's product."
+  - q: "Is Twitter or Product Hunt the right channel for every indie hacker?"
+    a: "Not at all — it depends entirely on who your buyers are. Twitter and Product Hunt are over-represented in the indie hacker community because that is where indie hackers spend time, not necessarily where their buyers are. If your buyers are e-commerce store owners, accountants, or HR managers, they are probably not on indie hacker Twitter. 80% of founders bet on the wrong channel first."
+  - q: "What is the cost of picking the wrong channel as a solo indie hacker?"
+    a: "Three to six months of effort with no traction, followed by the temptation to conclude the product does not work when the real problem was the channel. 4x faster traction comes from matching your first channel to where your buyers already are. The channel decision is one of the highest-leverage calls you make, and RightChannel makes it a data-backed one."
 ---
 
 # Everyone in the indie hacker community is on Twitter. Your customers might not be.

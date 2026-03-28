@@ -3,6 +3,13 @@ layout: default
 title: RightMessaging for Growth Teams
 parent: Growth Teams Iterating
 description: "Test new messaging angles before you run traffic to them. RightMessaging tells growth teams which copy variants are worth building into an A/B test — and which ones to cut before you waste the traffic."
+faq:
+  - q: "How does RightMessaging fit into a growth team's testing workflow?"
+    a: "RightMessaging sits before the A/B test, not instead of it. You test copy variants against synthetic buyers to filter out the ones that would have failed in a live test, then only run traffic to the variants that pass. This compresses the time to a winning variant from 6 weeks of statistical testing to days of synthetic pre-validation followed by a shorter live test."
+  - q: "What copy variants should a growth team test with RightMessaging?"
+    a: "Headline variants for key landing pages, new positioning angles before committing to a full site update, email subject lines and body copy for campaigns, and CTA language when conversion rates plateau. The most impactful tests are usually headline and hero section — 68% of visitors leave without scrolling past the hero, so this is where most conversion is won or lost."
+  - q: "How accurate is synthetic copy testing compared to live A/B tests?"
+    a: "Synthetic testing is not a replacement for live data — it is a filter. It is reliable for predicting directional performance and identifying obvious failure modes like unclear value props or weak CTAs. It is less reliable for predicting exact conversion rates in specific contexts. Use RightMessaging to rank variants and eliminate obvious losers, then use live testing to confirm the winner."
 ---
 
 # A/B tests take 6 weeks. You can know in 15 minutes if the variant is worth running.

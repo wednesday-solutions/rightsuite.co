@@ -4,6 +4,13 @@ title: Agency Founders Repositioning
 parent: Use Cases
 nav_order: 2
 description: "Right Suite for agency founders who know what they're good at but struggle to communicate it. Find the positioning angle that makes you the obvious choice over cheaper alternatives."
+faq:
+  - q: "How does Right Suite help an agency reposition?"
+    a: "RightPositioning surfaces how your ideal clients compare you to competitors, which of your claimed differentiators they actually believe, and which positioning angles competitors have not claimed. For agencies, this replaces internal debates about messaging with data on what buyers actually respond to."
+  - q: "Why do agencies lose deals on differentiation rather than price?"
+    a: "68% of lost deals come down to unclear differentiation, not price. When an agency sounds like every other agency, the buyer defaults to comparing on price because there is nothing else to compare. Sharp positioning eliminates this by giving buyers a clear reason to choose you that has nothing to do with your rate."
+  - q: "What is the right sequence for an agency repositioning with Right Suite?"
+    a: "Start with RightPositioning to find the unclaimed angle, then use RightMessaging to test whether your updated website communicates it in 10 seconds. If you are doing outreach to new clients with the repositioned pitch, run RightEngagement before you send. RightAudience is worth running if you are also shifting which types of clients you target, not just how you describe yourself."
 ---
 
 # Agency Founders Repositioning

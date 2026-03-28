@@ -3,6 +3,13 @@ layout: default
 title: RightPositioning for Agency Founders Repositioning
 parent: Agency Founders Repositioning
 description: "Find the differentiation angle your competitors haven't claimed. RightPositioning shows agency founders exactly how ideal clients compare them to alternatives — and where to plant your flag."
+faq:
+  - q: "How does RightPositioning help an agency differentiate from competitors?"
+    a: "The simulation generates synthetic buyer conversations where your ideal clients compare you to alternatives, revealing which differentiators they actually believe, which competitors they bring up that you did not consider, and which positioning angles nobody has claimed yet. For agencies, this replaces the internal debate about what makes you different with data on what buyers actually respond to."
+  - q: "Why do agencies struggle to differentiate even when they are genuinely better?"
+    a: "68% of lost deals come down to unclear differentiation, not quality of work. Agencies are often better than they appear because they describe their work in the same generic language as everyone else — results-driven, collaborative, strategic. RightPositioning surfaces the specific angle that makes you the obvious choice in language buyers use, not agency-speak."
+  - q: "What does RightPositioning output for an agency?"
+    a: "A perceived positioning map showing where buyers mentally place you relative to alternatives, differentiator strength scores showing which claims buyers believe, competitive blind spots showing tools and agencies buyers compare you to that you did not name, buyer language showing the exact words used to describe you, and a gap analysis showing unclaimed positioning angles."
 ---
 
 # Your clients compare you to 3 other agencies before they sign. This is what they see.

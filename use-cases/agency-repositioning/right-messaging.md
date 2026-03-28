@@ -3,6 +3,13 @@ layout: default
 title: RightMessaging for Agency Founders Repositioning
 parent: Agency Founders Repositioning
 description: "Test whether your repositioned website communicates your edge in 10 seconds. RightMessaging validates agency copy before you rebuild your site around a positioning angle that might not land."
+faq:
+  - q: "How do I know if my repositioned website communicates my new positioning?"
+    a: "Submit your new hero copy, service descriptions, and any updated case study framing to RightMessaging. The simulation tests whether buyers understand your positioning in 10 seconds, what objections or confusion the copy creates, and whether the CTA creates the urgency you need. You get a clarity score, conversion likelihood, and alternative copy variants ranked by predicted performance."
+  - q: "Why does repositioning often fail even when the positioning strategy is correct?"
+    a: "Because the copy on the website does not actually say it. 68% of visitors leave without scrolling past the hero, so if the repositioned angle is buried in a third paragraph or obscured by agency jargon, it might as well not exist. Buyers form an opinion about an agency in 10 seconds. RightMessaging tests whether your copy does the work it needs to do at that speed."
+  - q: "Should I test my repositioned copy before rebuilding the full website?"
+    a: "Yes. Run RightMessaging on the key sections — hero headline, subheadline, service positioning, and primary CTA — before committing to a full website rebuild. This tells you whether the angle lands and which specific phrases convert, so the rebuild is informed by validated language rather than more internal debate."
 ---
 
 # You rewrote your positioning. Does your site actually say it now?

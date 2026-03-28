@@ -3,6 +3,13 @@ layout: default
 title: RightChannel for Growth Teams
 parent: Growth Teams Iterating
 description: "When one channel plateaus, the answer isn't to do more of it. RightChannel helps growth teams validate whether a new channel fits their ICP before they commit 6 months of budget and headcount."
+faq:
+  - q: "How does a growth team validate a new distribution channel before investing in it?"
+    a: "Describe your offer, current ICP, and the channel you are considering in RightChannel. The simulation returns a channel fit score, effort-to-return estimate, buyer discovery patterns for your category, and a comparison against your current channels. This gives you a data-backed read on whether the new channel will work before you hire for it or commit budget to it."
+  - q: "When should a growth team consider adding a second channel?"
+    a: "When your primary channel has plateaued and you have exhausted meaningful optimization — not when it is underperforming due to bad creative or weak messaging, which are different problems. 80% of founders bet on the wrong second channel and burn 3 to 6 months. The question is not whether to add a channel but which one, which is what RightChannel answers."
+  - q: "What if paid has been working but is becoming less efficient?"
+    a: "Declining paid efficiency usually means creative fatigue, audience saturation, or a shift in how your ICP uses the platform — not necessarily that the channel is wrong. Run RightChannel to confirm the channel still fits your ICP, then run RightAd to test fresh creative. The solution is often better creative before a channel switch."
 ---
 
 # Your primary channel is plateauing. Adding a second channel is the obvious move. It's also where most growth teams waste 6 months.

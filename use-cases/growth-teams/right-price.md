@@ -3,6 +3,13 @@ layout: default
 title: RightPrice for Growth Teams
 parent: Growth Teams Iterating
 description: "Test a new pricing tier before you build a new plan. RightPrice gives growth teams a confidence score on pricing changes in minutes — not after 6 weeks of A/B testing."
+faq:
+  - q: "How does a growth team test a pricing change before implementing it?"
+    a: "Describe the proposed change — new tier, price increase, packaging restructure, freemium elimination — along with your current plan structure and target segment in RightPrice. The simulation returns a confidence score on the change, projected conversion and churn impact, objection language likely to surface from existing customers, and a recommendation on rollout approach."
+  - q: "What pricing changes are growth teams most likely to get wrong?"
+    a: "Raising prices without adjusting positioning, adding a new tier without validating which segment it serves, and eliminating freemium without a retention strategy for existing free users. 11 to 17% of SaaS revenue is already lost to wrong pricing at most companies. A 1% pricing improvement drives 12.7% more profit — but a bad change can drive equivalent loss."
+  - q: "How often should a growth team re-validate pricing?"
+    a: "Annually at minimum, and before any significant product or positioning change. Pricing built for last year's ICP at last year's competitive context may be systematically underpriced or mispositioned today. Most growth teams run pricing validation when they feel revenue pressure — the better time is before the pressure shows up."
 ---
 
 # You want to raise prices. Or add a new tier. Or kill freemium. Test it first.

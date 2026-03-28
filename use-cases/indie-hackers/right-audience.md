@@ -3,6 +3,13 @@ layout: default
 title: RightAudience for Indie Hackers
 parent: Vibe Coders & Indie Hackers
 description: "You built something. Now who actually buys it? RightAudience helps indie hackers find the customer segment with highest purchase intent — before they spend 3 months marketing to the wrong people."
+faq:
+  - q: "How does an indie hacker find their target audience without customer interviews?"
+    a: "Describe your product and the 2 to 4 segments you think could be buyers in RightAudience. The simulation runs 100+ synthetic buyer interactions across each segment and returns a ranked scorecard showing which segment has the highest purchase intent and willingness to pay. You get the signal you would get from customer interviews without needing a panel or a network."
+  - q: "Why is picking the wrong audience so costly for an indie hacker?"
+    a: "Because there is no team to course-correct. 72% of early-stage deals are lost to segment mismatch. For an indie hacker, committing to the wrong segment means 2 to 3 months of content, cold DMs, and Product Hunt launches that do not convert — and then starting over solo. Getting the segment right first is the decision that makes everything else coherent."
+  - q: "What if my product could work for multiple audiences?"
+    a: "That is exactly what RightAudience is for. Describe all the segments it could work for, and the simulation ranks them by purchase intent and willingness to pay. You will almost always find that one segment has significantly higher intent than the others. Start with the highest-intent segment and expand once you have traction — trying to serve all of them at once is how indie projects stall."
 ---
 
 # You built for everyone. But someone will pay more than others.

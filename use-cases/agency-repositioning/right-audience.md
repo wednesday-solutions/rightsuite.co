@@ -3,6 +3,13 @@ layout: default
 title: RightAudience for Agency Founders Repositioning
 parent: Agency Founders Repositioning
 description: "Repositioning starts with knowing who you actually want to serve. RightAudience helps agency founders identify the client segment with the highest purchase intent for their specific expertise."
+faq:
+  - q: "How does RightAudience help an agency identify the right clients to reposition toward?"
+    a: "You describe your specific expertise and the client segments you are considering targeting, and RightAudience ranks them by purchase intent and willingness to pay. For agencies, this often reveals that the client segment that values their expertise most is not the one they have been chasing — which is usually why the agency is repositioning in the first place."
+  - q: "Can an established agency use RightAudience even if they already have clients?"
+    a: "Yes, and this is one of the most valuable uses. Existing client patterns show you who hired you, not necessarily who values you most or who would pay the most. RightAudience tests your repositioned offer against segments you have not historically targeted to find where your new positioning lands best."
+  - q: "What happens after an agency identifies their best segment with RightAudience?"
+    a: "Run RightPositioning next to find the differentiation angle that makes you the obvious choice for that segment. Knowing the right segment and the right angle together is what makes repositioning stick — without both, you end up with sharp positioning for the wrong audience or the right audience but generic messaging."
 ---
 
 # You know what you're good at. But are you targeting the clients who value it most?

@@ -3,6 +3,13 @@ layout: default
 title: RightAd for Indie Hackers
 parent: Vibe Coders & Indie Hackers
 description: "Running ads with $200 is hard. RightAd helps indie hackers make sure their hook is strong enough before they spend what they can't afford to waste."
+faq:
+  - q: "How should an indie hacker test ads with a small budget?"
+    a: "Run the creative through RightAd before spending a dollar on live media. Submit your ad copy, visual concept, target audience, and platform and get a hook strength score and click intent score. Only spend on the creative that passes. This prevents the most common indie hacker outcome — spending the first ad budget on creative that never stopped the scroll and concluding that paid does not work for the product."
+  - q: "What is a good hook strength score in RightAd?"
+    a: "RightAd scores hook strength on a scale and flags whether the creative is likely to achieve scroll-stop in the target feed. A strong hook either names a specific pain the buyer recognizes, creates curiosity with a number or counter-intuitive claim, or makes a specific promise relevant to the buyer's current situation. 62% of ad budget goes to creative that achieves none of these."
+  - q: "Should an indie hacker run ads at all?"
+    a: "Only if RightChannel confirms paid is the right channel for your ICP. Many indie hacker products have buyers who do not discover new tools through paid feeds — they discover them in communities, through recommendations, or through search. Run RightChannel first. If paid fits your ICP, use RightAd to make the creative count."
 ---
 
 # You have $200 to test ads. Every dollar matters.

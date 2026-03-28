@@ -3,6 +3,13 @@ layout: default
 title: RightAd for Agency Founders Repositioning
 parent: Agency Founders Repositioning
 description: "Test your repositioned ad creative before you spend. RightAd tells agency founders if their new positioning angle stops the scroll — or just sounds like every other agency."
+faq:
+  - q: "Do repositioned agencies benefit from running paid ads?"
+    a: "Sometimes, depending on the segment. Run RightChannel first to confirm paid is the right channel for your repositioned ICP. If it is, RightAd tests whether your specific creative — headline, body copy, visual concept — stops the scroll and communicates the new positioning in 2 seconds. 62% of ad budget is spent on creative that never achieved scroll-stop."
+  - q: "What makes agency ad creative different from SaaS ad creative?"
+    a: "Agency buyers are evaluating a relationship, not a product. The hook that stops the scroll needs to either name a specific outcome they want, surface a problem specific to their role or industry, or make a claim about the agency's specific expertise that is credible and differentiated. Generic agency claims — results-driven, full-service, strategic — do not stop scrolls."
+  - q: "How do I test whether my repositioning translates into good ad creative?"
+    a: "Submit two variants to RightAd — one using the old positioning angle and one using the new — and compare hook strength scores and click intent. If the new positioning produces significantly stronger scores, it is worth investing in a paid channel. If both underperform, the issue may be with the channel fit rather than the creative."
 ---
 
 # Agency ads either stop the scroll or blend in. There's no middle.

@@ -3,6 +3,13 @@ layout: default
 title: RightEngagement for Agency Founders Repositioning
 parent: Agency Founders Repositioning
 description: "Test your repositioned outreach before you burn your list. RightEngagement validates whether your new positioning angle lands in cold email and LinkedIn DMs."
+faq:
+  - q: "How do I update my outreach to reflect my new agency positioning?"
+    a: "Submit your updated cold email or LinkedIn message along with your repositioned pitch and target client description to RightEngagement. The simulation shows whether the new positioning angle lands in an outreach context, whether the tone feels genuine or salesy, and which parts of the message create the most reply intent. You get a rewritten variant if the original underperforms."
+  - q: "Why does agency outreach often fail after repositioning?"
+    a: "Because the outreach template does not get updated when the positioning does. Agencies spend weeks workshopping a new positioning angle and then keep sending cold emails that pitch the old version of the agency. 85% of cold outreach is deleted before the second sentence — the outreach is often the first impression of the new positioning."
+  - q: "What is the right way to test repositioned agency outreach?"
+    a: "Write two versions — one with the old positioning and one with the new — and run both through RightEngagement against your target client persona. The comparison shows whether the new angle actually improves reply intent or just feels different internally. This is faster and cheaper than sending both versions to a live list and waiting for results."
 ---
 
 # Your outreach template is still selling the old version of your agency.

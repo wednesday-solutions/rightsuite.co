@@ -3,6 +3,13 @@ layout: default
 title: RightEngagement for SaaS Founders Pre-Traction
 parent: SaaS Founders Pre-Traction
 description: "Validate your cold outreach before you burn your list. RightEngagement tells pre-traction SaaS founders which emails get replies and which ones get deleted before the second sentence."
+faq:
+  - q: "How do I validate cold email before sending to my prospect list?"
+    a: "Paste your cold email, LinkedIn message, or outreach sequence into RightEngagement along with a description of your target persona. The simulation models open behavior, read-through rate, and reply intent across synthetic buyers, and shows you exactly where in a multi-step sequence momentum drops off. You get predicted open rate, reply intent score, tone diagnosis, and optimized variants."
+  - q: "Why does cold outreach fail even when it is personalized?"
+    a: "85% of cold outreach is deleted before the second sentence. Personalization is necessary but not sufficient — the problem is relevance: does your message speak to a pain the buyer actually has right now, in a way that does not feel like a pitch. AI has commoditized personalization, so the bar for what feels genuine has risen significantly."
+  - q: "When should a pre-traction founder use RightEngagement?"
+    a: "Before you send any cold outreach to a list you cannot easily rebuild. At pre-traction, your warm list — contacts from communities, advisors who said they would make introductions, people who expressed interest — is a limited asset. Burning it with an untested sequence is a mistake you cannot undo. Run RightEngagement first when the list is small and valuable."
 ---
 
 # You have a list of potential customers. Don't waste it.

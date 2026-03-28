@@ -3,6 +3,13 @@ layout: default
 title: RightPrice for Agency Founders Repositioning
 parent: Agency Founders Repositioning
 description: "Repositioning is also a repricing opportunity. RightPrice tells agency founders what their ideal clients will actually pay for their repositioned offer — and whether to raise rates now."
+faq:
+  - q: "Should an agency raise its rates when it repositions?"
+    a: "Usually yes, but how much depends on the segment and the angle. RightPrice tests your new rate against the specific client segment you are repositioning toward and returns a confidence score, price assessment, and optimal range. Most agencies that successfully reposition find they have been undercharging for the new angle because they are anchored to old rates built for a more generic positioning."
+  - q: "How is agency pricing validation different from SaaS pricing validation?"
+    a: "For agencies, RightPrice focuses on project-based and retainer pricing rather than subscription tiers. The trial strategy recommendation shifts toward paid pilots and proposal structuring. The core output — confidence score, optimal range, objection language — is the same, but the framing is calibrated to how agency buyers evaluate and approve pricing."
+  - q: "What if I want to test a significant rate increase after repositioning?"
+    a: "That is exactly what RightPrice is designed for. Describe your repositioned offer, the rate you want to test, and the client segment you are targeting. The simulation surfaces whether buyers at that rate see the value as obvious, what objections surface at that price point, and whether there is a more defensible price point in the range."
 ---
 
 # Repositioning without repricing leaves money on the table.

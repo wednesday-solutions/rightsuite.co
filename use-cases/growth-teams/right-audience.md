@@ -3,6 +3,13 @@ layout: default
 title: RightAudience for Growth Teams
 parent: Growth Teams Iterating
 description: "When growth plateaus, the problem is often segment drift. RightAudience helps growth teams identify whether they're still targeting their highest-intent buyers — or if a better segment has emerged."
+faq:
+  - q: "How does a growth team use RightAudience if they already have customers?"
+    a: "Growth teams use RightAudience to catch segment drift — the gradual misalignment between the ICP you are targeting and the one with the highest current purchase intent. As the market evolves and the product matures, a better segment often emerges from your customer base. RightAudience validates whether your current targeting is still optimal or whether a different segment would convert better."
+  - q: "What is segment drift and how does it affect growth?"
+    a: "Segment drift is when the ICP that drove your initial traction stops being the highest-intent buyer for your current product. It happens as the product adds features, the market shifts, or competitors enter. 72% of deals are lost to segment mismatch — at growth stage, this shows up as declining win rates and increasing sales cycles rather than the obvious failure signals of early stage."
+  - q: "When should a growth team re-run RightAudience?"
+    a: "Any time win rates drop, sales cycles lengthen, or churn from a particular segment increases. Also useful before launching into an adjacent segment or expanding upmarket or downmarket. Segment assumptions that were validated 12 months ago may no longer hold in a market that has changed."
 ---
 
 # Growth plateaued. The segment you started with might not be the best one anymore.

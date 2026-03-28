@@ -4,6 +4,13 @@ title: SaaS Founders Pre-Traction
 parent: Use Cases
 nav_order: 1
 description: "Right Suite for SaaS founders who launched but haven't found repeatable revenue yet. Validate your segment, price, and message before you commit to a go-to-market motion."
+faq:
+  - q: "What should a pre-traction SaaS founder do first with Right Suite?"
+    a: "Start with RightAudience. 72% of early-stage deals are lost to segment mismatch, not product quality. Every downstream decision — pricing, copy, channel — depends on knowing which segment has the highest purchase intent. Running RightAudience first means everything that follows is built on validated assumptions instead of guesses."
+  - q: "How does Right Suite help if I do not have customers yet?"
+    a: "Right Suite simulates buyer behavior across your target segments using AI, so you get signal without needing a panel or a customer list. You describe your offer and candidate segments, the simulation runs 100+ synthetic buyer interactions, and you get a ranked scorecard showing which segment is most likely to pay and why."
+  - q: "Which Right Suite products matter most pre-traction?"
+    a: "The core four are RightAudience, RightPositioning, RightPrice, and RightMessaging — run in that order. RightAudience identifies your segment, RightPositioning finds your differentiation angle, RightPrice validates what that segment will pay, and RightMessaging tests whether your landing page converts them. RightEngagement and RightChannel become relevant once you are ready to do outreach and pick a distribution channel."
 ---
 
 # SaaS Founders Pre-Traction

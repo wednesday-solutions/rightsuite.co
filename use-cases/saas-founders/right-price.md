@@ -3,6 +3,13 @@ layout: default
 title: RightPrice for SaaS Founders Pre-Traction
 parent: SaaS Founders Pre-Traction
 description: "Stop guessing your launch price. RightPrice gives pre-traction SaaS founders a confidence score, optimal price range, and trial strategy recommendation — before you go to market."
+faq:
+  - q: "How do I validate my SaaS price before launch?"
+    a: "Run RightPrice with your product description, current price, and target audience. The simulation generates 100+ synthetic buyer interactions and returns a confidence score, price assessment, optimal price range, and a trial strategy recommendation — free trial, freemium, reverse trial, or paid pilot — with the reasoning behind each recommendation."
+  - q: "What is the most common pricing mistake for pre-traction SaaS founders?"
+    a: "Picking a price based on gut feel or competitor copying without testing it. The average SaaS company spends 8 hours total on pricing over the life of the business. At pre-traction, the wrong price does not just hurt conversion — it signals the wrong thing about your product and calibrates your early customers to the wrong value expectations."
+  - q: "Should I charge more or less at pre-traction?"
+    a: "It depends on what the simulation shows for your specific segment and offer, but most pre-traction founders underprice. 11 to 17% of SaaS revenue is lost to wrong pricing, and early-stage underpricing attracts customers with low willingness to pay who drive up support costs and churn early. A 1% improvement in pricing drives 12.7% more profit — getting it right early compounds."
 ---
 
 # You picked a price. But you've never tested it.

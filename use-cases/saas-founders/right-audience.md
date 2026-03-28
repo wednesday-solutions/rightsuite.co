@@ -3,6 +3,13 @@ layout: default
 title: RightAudience for SaaS Founders Pre-Traction
 parent: SaaS Founders Pre-Traction
 description: "Find your highest-intent customer segment before you commit to a GTM motion. RightAudience runs 100+ synthetic buyer simulations so pre-traction SaaS founders know exactly who to sell to."
+faq:
+  - q: "How do I find my ICP as a pre-traction SaaS founder?"
+    a: "Describe your offer and the 2 to 4 segments you are considering in RightAudience. The simulation tests your offer across synthetic buyers in each segment — different roles, seniority levels, and pain profiles — and returns a ranked scorecard showing which segment has the highest purchase intent, willingness to pay, and conversion likelihood."
+  - q: "Why does segment selection matter more at pre-traction than later?"
+    a: "Because every downstream decision compounds from it. Your pricing gets calibrated to the chosen segment's willingness to pay. Your copy gets written for their frame of reference. Your channel gets chosen based on where they spend time. Getting the segment wrong means six months of GTM built on a wrong assumption, not just one bad decision."
+  - q: "What does RightAudience output for a SaaS founder?"
+    a: "A ranked segment scorecard showing purchase intent, willingness to pay, and conversion likelihood per segment. It also surfaces the objection language specific to each segment, an ICP clarity score for your current positioning, and a recommended sequence for which segments to attack first."
 ---
 
 # You launched. Now who do you actually sell to?

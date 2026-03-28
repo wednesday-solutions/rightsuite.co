@@ -3,6 +3,13 @@ layout: default
 title: RightPositioning for Indie Hackers
 parent: Vibe Coders & Indie Hackers
 description: "Indie hackers compete against VC-backed tools with big brand teams. RightPositioning finds the differentiation angle competitors haven't claimed — so you win on positioning, not budget."
+faq:
+  - q: "How does an indie hacker compete on positioning against VC-backed tools?"
+    a: "By going narrower. Funded tools need to appeal to large markets, which makes their positioning generic. RightPositioning surfaces the specific niche angle your competitors have not claimed — the use case, the persona, or the workflow that nobody else is positioning for. Own that angle clearly and you are not competing with the funded tool at all."
+  - q: "What does RightPositioning output for an indie hacker?"
+    a: "A positioning map showing where buyers place you relative to alternatives, differentiator strength scores showing which claims buyers believe, competitive blind spots showing tools buyers compare you to that you did not name, and the specific positioning gap you could own. For indie hackers, the gap is usually a more specific use case or a persona the big tools ignore."
+  - q: "Should I run RightAudience before RightPositioning?"
+    a: "Yes, if you are still deciding which segment to target. RightPositioning works best when you already know who you are positioning for — the differentiation angle that works for one segment may not work for another. Get the segment right first with RightAudience, then use RightPositioning to find the angle that makes you the obvious choice for that specific segment."
 ---
 
 # You're competing against tools with 10-person marketing teams. Your edge is specificity.

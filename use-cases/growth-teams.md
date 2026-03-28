@@ -4,6 +4,13 @@ title: Growth Teams Iterating
 parent: Use Cases
 nav_order: 3
 description: "Right Suite for post-traction growth teams with plateaued numbers. Test pricing changes, messaging variants, and outreach sequences before you run traffic or burn your list."
+faq:
+  - q: "How does Right Suite speed up growth team feedback loops?"
+    a: "Right Suite replaces 4 to 6 week A/B test cycles with minutes-fast simulation. Instead of running paid traffic to a copy variant to find out it does not convert, you test the variant against synthetic buyers first and only run traffic to the versions that pass. The same logic applies to pricing changes, outreach sequences, and ad creative."
+  - q: "Can Right Suite replace A/B testing?"
+    a: "No, and it is not meant to. Right Suite is the pre-flight layer before you run a live test. It filters out the variants that would have failed anyway, so your actual test budget and traffic go to genuine contenders. Real-world tests still provide the confirmation, but you start with better inputs."
+  - q: "Which Right Suite products are most useful for a post-traction growth team?"
+    a: "RightPrice for testing tier changes and packaging decisions before they go live, RightMessaging for pre-validating copy variants before running traffic, RightEngagement for scoring outreach sequences before they touch qualified prospect lists, and RightAd for filtering ad creative before committing media budget."
 ---
 
 # Growth Teams Iterating

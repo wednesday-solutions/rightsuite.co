@@ -3,6 +3,13 @@ layout: default
 title: RightEngagement for Indie Hackers
 parent: Vibe Coders & Indie Hackers
 description: "Indie hackers often have small, warm lists of potential customers. RightEngagement validates your outreach before you burn through contacts you can't easily replace."
+faq:
+  - q: "How does an indie hacker validate outreach without a large list to test against?"
+    a: "That is exactly the use case. Run your message through RightEngagement before it goes to the real list. The simulation generates synthetic buyer responses showing open behavior, reply intent, and tone diagnosis — so you find out if the message works before you find out the expensive way. This is especially important when your warm list is small and you cannot rebuild it easily."
+  - q: "What outreach channels should an indie hacker test with RightEngagement?"
+    a: "RightEngagement supports cold email, LinkedIn DMs, X DMs, and Slack community messages. For indie hackers, the most common uses are DM templates before a Product Hunt launch, cold emails to potential customers found in communities, and follow-up sequences to people who signed up but did not convert. 85% of cold outreach is deleted before the second sentence."
+  - q: "How do I write a cold DM that does not sound like a bot?"
+    a: "The problem is usually one of two things: it opens with a compliment or a reference that feels researched rather than genuine, or it pivots to a pitch too quickly. RightEngagement includes a tone diagnosis that flags when a message reads as salesy, pushy, or unclear — and surfaces the specific sentence where the reader disengages. The optimized variant shows how to restructure it."
 ---
 
 # You have 50 people in your list from the build-in-public thread. Don't burn it.

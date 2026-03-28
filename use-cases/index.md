@@ -4,6 +4,13 @@ title: Use Cases
 nav_order: 3
 has_children: true
 description: "Right Suite works for pre-traction SaaS founders, agency founders repositioning, growth teams iterating, and indie hackers validating fast. Find your use case."
+faq:
+  - q: "Who is Right Suite for?"
+    a: "Right Suite is built for founders and teams making go-to-market decisions without a research budget or weeks to wait. It works for pre-traction SaaS founders who need to validate their ICP, agency founders repositioning their offer, growth teams with plateaued numbers, and indie hackers figuring out GTM solo."
+  - q: "What is the difference between the Right Suite use cases?"
+    a: "Each use case reflects a different stage and context. Pre-traction founders need to find their segment and validate basics before committing to a GTM motion. Agencies repositioning need to find the differentiation angle that makes them the obvious choice. Growth teams need faster feedback loops on pricing, copy, and outreach. Indie hackers need to make GTM decisions alone with no budget."
+  - q: "Can I use Right Suite if I already have customers?"
+    a: "Yes. Post-traction teams use Right Suite to test pricing changes before implementing them, validate copy variants before running paid traffic, and score outreach sequences before burning through prospect lists. The feedback loop compression is where most of the value is at this stage."
 ---
 
 # Use Cases

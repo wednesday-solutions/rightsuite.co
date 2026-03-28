@@ -3,6 +3,13 @@ layout: default
 title: RightAd for Growth Teams
 parent: Growth Teams Iterating
 description: "Pre-flight your paid creative before you spend. RightAd gives growth teams a hook strength score, click intent, and winning variant recommendation before media budget goes live."
+faq:
+  - q: "How should a growth team use RightAd in their creative workflow?"
+    a: "Use RightAd as the filter before creative goes to live testing. When your creative team produces multiple variants, run them through RightAd to get hook strength scores and click intent scores. Only send the top performers to live test. This reduces wasted spend on creative that would have failed and shortens the time to a winning creative."
+  - q: "What is creative fatigue and how does RightAd help?"
+    a: "Creative fatigue is when an ad that performed well starts declining as the target audience has seen it enough times to stop responding. RightAd includes a creative fatigue prediction — an estimated runway before the creative burns out for your audience — so you can plan creative refreshes before performance drops rather than after."
+  - q: "Should a growth team test one ad at a time or multiple variants?"
+    a: "Multiple variants simultaneously in RightAd, then narrow to two or three for live A/B testing. RightAd produces a winning variant recommendation when you submit multiple options, so you can pre-filter from five variants to two before spending a dollar in live media. This is where synthetic testing saves the most money at growth stage."
 ---
 
 # Creative testing is expensive. RightAd makes it cheaper.

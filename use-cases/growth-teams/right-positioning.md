@@ -3,6 +3,13 @@ layout: default
 title: RightPositioning for Growth Teams
 parent: Growth Teams Iterating
 description: "Test whether your competitive positioning still holds as the market evolves. RightPositioning shows growth teams if their differentiation angle is still the one buyers respond to."
+faq:
+  - q: "How does a growth team use RightPositioning to improve win rates?"
+    a: "Submit your current positioning claims, the competitors you are regularly losing to, and your target segment to RightPositioning. The simulation surfaces which differentiators buyers still believe, which angles competitors have copied and neutralized, and which unclaimed angles could restore your competitive edge. This is faster than waiting for win-loss data to accumulate."
+  - q: "How does positioning decay happen at growth stage?"
+    a: "Competitors observe what is working for you and copy your angles. Over 12 to 18 months, differentiators that were sharp become table stakes. 68% of lost deals come down to unclear differentiation, not price — and at growth stage, this shows up as a quiet drift in win rates rather than a sudden drop. By the time it is obvious, you have already lost months of revenue."
+  - q: "Should a growth team update their positioning before or after running paid campaigns?"
+    a: "Before. Paid campaigns amplify your current positioning — if the positioning is decaying, paid spend accelerates the decline in performance. Run RightPositioning to identify whether your differentiation angle still holds, update the messaging based on what you learn, then validate the new copy with RightMessaging before running traffic."
 ---
 
 # Your positioning was right when you launched. Is it still right now?

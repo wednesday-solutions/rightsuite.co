@@ -3,6 +3,13 @@ layout: default
 title: RightMessaging for SaaS Founders Pre-Traction
 parent: SaaS Founders Pre-Traction
 description: "Test your landing page copy before you launch. RightMessaging tells pre-traction SaaS founders which headlines convert and which ones lose visitors in 10 seconds."
+faq:
+  - q: "How do I test my landing page copy before launch?"
+    a: "Submit your headline, hero section, and CTA to RightMessaging along with your target audience description. The simulation tests your copy against synthetic buyers who read it, react emotionally, form objections, and decide whether to click or leave. You get a conversion likelihood score, clarity score, objection signals, and ranked alternative copy variants."
+  - q: "Why do most pre-traction landing pages fail to convert?"
+    a: "68% of visitors leave without scrolling past the hero, and you have 10 seconds before a visitor decides whether the page is worth their time. Most pre-traction copy is written from the inside out — explaining features in the language the founder uses, not the language the buyer uses. Conversion is 3x higher when copy matches what the reader already believes about their problem."
+  - q: "What is the difference between RightMessaging and RightEngagement?"
+    a: "RightMessaging tests copy on surfaces you own where the buyer chose to show up — landing pages, email newsletters, announcements. RightEngagement tests cold outreach where the buyer did not ask for the message and has a high default resistance. The buyer psychology is completely different, so the validation criteria are different too."
 ---
 
 # Your landing page is doing more work than you think.

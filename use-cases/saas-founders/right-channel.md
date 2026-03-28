@@ -3,6 +3,13 @@ layout: default
 title: RightChannel for SaaS Founders Pre-Traction
 parent: SaaS Founders Pre-Traction
 description: "Pick the right distribution channel before you commit 6 months to it. RightChannel tells pre-traction SaaS founders where their buyers actually are and which channel to go deep on first."
+faq:
+  - q: "How do I pick the right distribution channel for my SaaS?"
+    a: "Run RightChannel with your offer description, ICP, and the channels you are considering. The simulation models how your target buyers behave across different channel environments — search, communities, LinkedIn, paid, content, partnerships — and returns channel fit scores, effort-to-return estimates, and a recommended sequencing for which channels to attack first."
+  - q: "Why do most pre-traction founders pick the wrong channel first?"
+    a: "80% of founders bet on the wrong channel first and burn 3 to 6 months finding out. The most common mistake is choosing a channel based on what worked for similar products they read about, without accounting for where their specific ICP actually discovers new tools. The right channel depends on your buyer, not your category."
+  - q: "Should I be on every channel as a pre-traction founder?"
+    a: "No. The advice to pick one channel and go deep is correct — the question is which one. 4x faster traction comes from matching your first channel to where your buyers already are. Spreading across multiple channels at pre-traction splits your learning and makes it impossible to know what is working."
 ---
 
 # Everyone says pick one channel. But which one?

@@ -3,6 +3,13 @@ layout: default
 title: RightPositioning for SaaS Founders Pre-Traction
 parent: SaaS Founders Pre-Traction
 description: "Win the comparison before you go to market. RightPositioning shows pre-traction SaaS founders exactly how buyers see them next to alternatives — and which angle makes them the obvious choice."
+faq:
+  - q: "How should a pre-traction SaaS founder validate their positioning?"
+    a: "Run RightPositioning before writing your landing page. Describe your product, the claims you make, and who you compete with. The simulation generates synthetic buyer conversations where buyers compare you to alternatives and surface which differentiators they actually believe, which competitors they bring up that you did not mention, and which positioning angle makes you the obvious choice."
+  - q: "What if I do not know who my competitors are yet?"
+    a: "That is exactly what RightPositioning surfaces. Buyers compare you to alternatives you may not have considered as competitors. The simulation produces a competitive blind spots report showing which tools and categories buyers are placing you against — including ones you did not name."
+  - q: "When should I run RightPositioning versus RightMessaging?"
+    a: "Run RightPositioning first to find the angle that wins the comparison. Then run RightMessaging to test whether your copy executes that angle effectively. RightPositioning answers which angle to lead with. RightMessaging answers whether your current copy communicates it clearly enough to convert."
 ---
 
 # Before you write your landing page, know how buyers compare you.

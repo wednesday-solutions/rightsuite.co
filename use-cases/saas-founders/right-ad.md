@@ -3,6 +3,13 @@ layout: default
 title: RightAd for SaaS Founders Pre-Traction
 parent: SaaS Founders Pre-Traction
 description: "Don't burn your first ad budget on creative that doesn't stop the scroll. RightAd tells pre-traction SaaS founders if their hook lands before they spend."
+faq:
+  - q: "How do I test ad creative without wasting my budget?"
+    a: "Submit your ad copy, a description of the visual or video concept, your target audience, and the platform you are running on to RightAd. The simulation models how your buyers behave mid-scroll and measures whether they stop, what they think, and whether they click. You get a hook strength score, click intent score, objection triggers, and a winning variant recommendation if you submitted multiple versions."
+  - q: "What makes a good ad hook for a SaaS product?"
+    a: "The hook has to stop the scroll in 2 seconds. That means it needs to either name a specific pain the buyer recognizes, surface a number that creates curiosity, or make a claim that contradicts something the buyer believes. Generic hooks about features or outcomes do not stop scrolls. 62% of ad budget is spent on creative that never achieved scroll-stop."
+  - q: "Should a pre-traction SaaS founder run paid ads?"
+    a: "Only after validating the channel with RightChannel. Paid ads work well for some ICPs and poorly for others depending on where they discover new tools and whether they are in buying mode when they are in a paid feed. Run RightChannel first to confirm paid is the right investment for your audience, then use RightAd to validate the creative before you commit media budget."
 ---
 
 # You have $500 to test ads. Make it count.

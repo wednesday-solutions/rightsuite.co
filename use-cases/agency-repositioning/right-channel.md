@@ -3,6 +3,13 @@ layout: default
 title: RightChannel for Agency Founders Repositioning
 parent: Agency Founders Repositioning
 description: "Repositioning also means finding where your new ideal client actually is. RightChannel tells agency founders which distribution channels reach the buyers most likely to value their specific expertise."
+faq:
+  - q: "How does repositioning change which channels an agency should use?"
+    a: "When you reposition, the clients you want to reach often discover agencies in different places than the clients you have had. RightChannel maps where your new ideal client segment discovers and evaluates agencies, surfaces communities and channels specific to that segment, and tells you whether your current channels — the ones that brought your old clients — are still the right ones."
+  - q: "What channels work best for repositioned agencies?"
+    a: "It depends entirely on the segment. B2B SaaS companies typically discover agencies through LinkedIn, referrals, and specific Slack communities. E-commerce brands discover agencies through conferences, Shopify ecosystem channels, and communities like Ecommerce Fuel. The right channel is wherever your specific ICP is when they are in buying mode for agency services."
+  - q: "Should an agency invest in content or paid ads after repositioning?"
+    a: "Run RightChannel first to validate which channel fits your new ICP before committing to content production or paid spend. 80% of founders bet on the wrong channel first and burn 3 to 6 months. For agencies, the cost of the wrong channel is usually 6 months of content that attracts the old ICP, not the repositioned one."
 ---
 
 # The clients you want aren't necessarily where the clients you've had came from.

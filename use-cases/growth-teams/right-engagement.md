@@ -3,6 +3,13 @@ layout: default
 title: RightEngagement for Growth Teams
 parent: Growth Teams Iterating
 description: "Score your outreach sequences before you burn through your prospect list. RightEngagement gives growth teams predicted reply intent and sequence drop-off analysis before they hit send."
+faq:
+  - q: "How does a growth team use RightEngagement to protect their prospect list?"
+    a: "Before sending any outreach sequence to a qualified prospect list, run the sequence through RightEngagement. The simulation shows predicted open rate, reply intent per message in the sequence, where drop-off happens, and tone diagnosis. You find out which message in the sequence is killing momentum before it kills your list."
+  - q: "What makes cold outreach at growth stage different from early stage?"
+    a: "At growth stage, you have more to lose. Your prospect list is often a curated set of high-fit accounts built by your sales team over months. 85% of cold outreach is deleted before the second sentence. Burning through a qualified list with an untested sequence is expensive in a way it is not at early stage when you are emailing anyone who might buy."
+  - q: "Can RightEngagement test multi-step outreach sequences?"
+    a: "Yes. Paste the full sequence — email one, follow-up two, breakup email — and RightEngagement models read-through rate, reply intent, and drop-off point for each message. This tells you which step in the sequence is underperforming and whether the problem is the subject line, the opener, the pitch, or the call to action."
 ---
 
 # Sending cold outreach to your best prospects with an untested sequence is the most expensive mistake in growth.

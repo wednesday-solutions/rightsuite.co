@@ -4,6 +4,13 @@ title: Vibe Coders & Indie Hackers
 parent: Use Cases
 nav_order: 4
 description: "Right Suite for indie hackers and vibe coders who built something and now need to figure out who to sell it to, what to charge, and what to say — without a team or a budget."
+faq:
+  - q: "Is Right Suite free for indie hackers?"
+    a: "Right Suite includes a free toolkit of prompts, templates, and a playbook that covers audience identification, positioning, pricing, and messaging — all usable at zero cost. The AI simulation products that run 100+ synthetic buyer interactions and produce scored reports are the paid layer, for when you need stronger signal than the free templates provide."
+  - q: "What is the biggest GTM mistake indie hackers make?"
+    a: "Targeting too broad an audience. Indie hackers often build tools that could work for multiple segments and try to appeal to all of them at once. 72% of early-stage deals are lost to segment mismatch, not product quality. Picking one segment and going deep is the move that makes everything else — pricing, copy, channel — coherent."
+  - q: "How should an indie hacker use Right Suite before a Product Hunt launch?"
+    a: "Run RightMessaging on your tagline, hero copy, and CTA before launch day to validate they communicate your product clearly to someone who has never heard of you. If you plan to follow up with outreach, run RightEngagement on your DM template before you send to the warm list you built from the launch thread. Both take under 20 minutes."
 ---
 
 # Vibe Coders & Indie Hackers

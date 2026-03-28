@@ -3,6 +3,13 @@ layout: default
 title: RightMessaging for Indie Hackers
 parent: Vibe Coders & Indie Hackers
 description: "Your landing page has one job: explain what you built to someone who's never heard of you. RightMessaging tells indie hackers if their copy does that job in 10 seconds."
+faq:
+  - q: "How do I write a landing page when I am the only person who understands my product?"
+    a: "The problem is exactly that — you understand it too well. Submit your current landing page copy to RightMessaging with a description of your target buyer. The simulation tests whether someone who has never heard of your product understands the value in 10 seconds, what confusion or objections the current copy creates, and which specific phrases to change. You get alternative copy variants ranked by predicted conversion."
+  - q: "What landing page copy matters most for an indie hacker to get right?"
+    a: "The headline and hero subheadline. 68% of visitors leave without scrolling past the hero, and you have 10 seconds before a visitor decides whether the page is worth reading. Everything else on the page — features, social proof, pricing — only gets seen if the hero copy earns the scroll. Test the hero first."
+  - q: "How is RightMessaging different from asking for feedback in communities?"
+    a: "Community feedback is filtered through the biases of people who build products, not people who buy them. They often respond to what sounds clever rather than what converts. RightMessaging simulates the reaction of your actual target buyer — not a fellow indie hacker — and gives you a conversion likelihood score rather than subjective opinions."
 ---
 
 # You understand your product perfectly. Your landing page visitor doesn't.
