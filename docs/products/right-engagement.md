@@ -15,7 +15,7 @@ nav_order: 5
 
 Simulate cold emails, LinkedIn messages, and outreach sequences. See open rates, reply intent, and drop-off points before you burn through your list.
 
-[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-engagement)
+[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-engagement)
 
 ---
 
@@ -111,7 +111,7 @@ You can run RightEngagement without the earlier steps — but knowing your ICP a
 
 ## Status
 
-**Live** — available at [www.rightsuite.co/products/right-engagement](https://www.rightsuite.co/products/right-engagement)
+**Live** — available at [www.rightsuite.co/products/right-engagement](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-engagement)
 
 ---
 

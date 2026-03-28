@@ -11,7 +11,7 @@ has_children: true
 
 Run them individually or in sequence. Each product builds on the last — audience informs positioning, positioning informs price, price informs copy.
 
-[Start at rightsuite.co →](https://www.rightsuite.co){: .btn .btn-green }
+[Start at rightsuite.co →](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-hero){: .btn .btn-green }
 
 ---
 
@@ -73,7 +73,7 @@ Run them individually or in sequence. Each product builds on the last — audien
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-audience' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-audience){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-audience' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightaudience){: .btn .btn-green }
 
 ---
 
@@ -90,7 +90,7 @@ Run them individually or in sequence. Each product builds on the last — audien
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-positioning' | relative_url }}){: .btn } [Find your angle →](https://www.rightsuite.co/products/right-positioning){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-positioning' | relative_url }}){: .btn } [Find your angle →](https://www.rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightpositioning){: .btn .btn-green }
 
 ---
 
@@ -107,7 +107,7 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-price' | relative_url }}){: .btn } [Validate your price →](https://www.rightsuite.co/products/right-price){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-price' | relative_url }}){: .btn } [Validate your price →](https://www.rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightprice){: .btn .btn-green }
 
 ---
 
@@ -124,7 +124,7 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-messaging' | relative_url }}){: .btn } [Test your messaging →](https://www.rightsuite.co/products/right-messaging){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-messaging' | relative_url }}){: .btn } [Test your messaging →](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightmessaging){: .btn .btn-green }
 
 ---
 
@@ -141,7 +141,7 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-engagement' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-engagement){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-engagement' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightengagement){: .btn .btn-green }
 
 ---
 
@@ -158,7 +158,7 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-channel' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-channel){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-channel' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightchannel){: .btn .btn-green }
 
 ---
 
@@ -175,4 +175,4 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-ad' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-ad){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-ad' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightad){: .btn .btn-green }

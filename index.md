@@ -14,7 +14,7 @@ nav_order: 1
 
 7 AI-powered tools that validate every go-to-market decision — your price, message, audience, positioning, outreach, channels, and ads — before you spend a dollar finding out the hard way.
 
-[Start validating at rightsuite.co →](https://www.rightsuite.co){: .btn .btn-green }
+[Start validating at rightsuite.co →](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=home-hero){: .btn .btn-green }
 [Quick Start]({{ '/quick-start' | relative_url }}){: .btn }
 
 ---
@@ -101,4 +101,4 @@ Credits are shared across all 7 products.
 
 **1 credit = 1 simulation.** Credits work across every product in the suite.
 
-[Get started →](https://www.rightsuite.co){: .btn .btn-green }
+[Get started →](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=home-hero){: .btn .btn-green }

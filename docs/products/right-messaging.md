@@ -15,7 +15,7 @@ nav_order: 4
 
 Test your headlines, CTAs, and landing page sections against simulated buyers. Find the words that make people click — before you publish, before you run paid traffic, before you miss your launch window.
 
-[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-messaging)
+[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-messaging)
 
 ---
 
@@ -104,7 +104,7 @@ You can run RightMessaging on its own — but the results compound when your cop
 
 ## Status
 
-**Live** — available at [www.rightsuite.co/products/right-messaging](https://www.rightsuite.co/products/right-messaging)
+**Live** — available at [www.rightsuite.co/products/right-messaging](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-messaging)
 
 ---
 

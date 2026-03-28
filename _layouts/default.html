@@ -58,7 +58,7 @@
       </nav>
 
       <div class="sidebar-footer">
-        <a href="https://www.rightsuite.co" target="_blank" rel="noopener" class="sidebar-cta">
+        <a href="https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=sidebar-cta" target="_blank" rel="noopener" class="sidebar-cta">
           <span>Start validating</span>
           <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6h8M7 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
         </a>
@@ -117,6 +117,32 @@
       {% endif %}
     </div>
   </div>
+  <!-- PostHog Analytics — autocapture off to preserve event quota -->
+  <script>
+    !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+" (stub)"},o="capture identify alias reset opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing init".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
+    posthog.init('phc_6AsBNsawpeILdKMk0sBNaIJ0BMh23Jjkmb0i6dG5cj4', {
+      api_host: 'https://us.i.posthog.com',
+      person_profiles: 'identified_only',
+      capture_pageview: true,
+      capture_pageleave: true,
+      autocapture: false
+    });
+
+    // Track outbound CTA clicks to rightsuite.co
+    document.addEventListener('click', function(e) {
+      var el = e.target.closest('a');
+      if (!el) return;
+      var href = el.getAttribute('href') || '';
+      if (href.indexOf('rightsuite.co') !== -1) {
+        posthog.capture('docs_outbound_click', {
+          url: href,
+          text: el.textContent.trim(),
+          page: window.location.pathname
+        });
+      }
+    });
+  </script>
+
   <script>
     document.querySelectorAll('.content h2, .content h3, .content h4').forEach(function(heading) {
       if (!heading.id) return;

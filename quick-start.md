@@ -23,7 +23,7 @@ Get from zero to your first validated GTM decision in under 10 minutes.
 
 Before you touch price, copy, or channels, you need to know who you're selling to. The wrong segment makes every other decision harder.
 
-**Run [RightAudience](https://www.rightsuite.co/products/right-audience)** with:
+**Run [RightAudience](https://www.rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=quickstart-step1)** with:
 - Your product name and what it does (1-2 sentences)
 - 2-4 buyer types you're considering
 - The core pain point each one has
@@ -38,7 +38,7 @@ You'll get a purchase intent ranking across segments, willingness to pay by segm
 
 Once you know who you're selling to, validate what they'd pay.
 
-**Run [RightPrice](https://www.rightsuite.co/products/right-price)** with:
+**Run [RightPrice](https://www.rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=quickstart-step2)** with:
 - Your product name and description
 - Your current price
 - Your target audience (what you learned in Step 1)
@@ -54,7 +54,7 @@ You'll get a confidence score, a too high / optimal / too low assessment, a sugg
 
 With audience and price validated, test whether your copy lands.
 
-**Run [RightMessaging](https://www.rightsuite.co/products/right-messaging)** with:
+**Run [RightMessaging](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=quickstart-step3)** with:
 - Your headline
 - Your subheadline and body copy
 - Your CTA
@@ -102,4 +102,4 @@ These are the manual versions of what Right Suite automates. Use them to move fa
 
 1 credit = 1 simulation. Credits work across all 7 products.
 
-[Create your account →](https://www.rightsuite.co){: .btn .btn-green }
+[Create your account →](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=quickstart-bottom-cta){: .btn .btn-green }

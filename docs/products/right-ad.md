@@ -15,7 +15,7 @@ nav_order: 7
 
 Test your ad creative, copy, and targeting against simulated audiences before you spend on media. Know whether your hook stops the scroll before you find out the expensive way.
 
-[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-ad)
+[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-ad)
 
 ---
 
@@ -111,7 +111,7 @@ Run RightChannel first to confirm paid is the right investment for your audience
 
 ## Status
 
-**Live** — available at [www.rightsuite.co/products/right-ad](https://www.rightsuite.co/products/right-ad)
+**Live** — available at [www.rightsuite.co/products/right-ad](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-ad)
 
 ---
 
