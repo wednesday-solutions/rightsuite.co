@@ -3,6 +3,8 @@ description: GTM validation platform — prompts, templates, playbooks, and prod
 url: https://wednesday-solutions.github.io
 baseurl: /rightsuite.co
 
+permalink: pretty
+
 markdown: kramdown
 kramdown:
   input: GFM
