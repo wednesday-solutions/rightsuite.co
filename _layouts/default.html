@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title == "Home" %}Right Suite Docs{% else %}{{ page.title }} — Right Suite Docs{% endif %}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  {% seo %}
+</head>
+<body>
+  <div class="layout">
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-logo">
+        <a href="{{ '/' | relative_url }}">
+          <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="26" height="26">
+          <span class="logo-text">Right Suite <span class="logo-sub">Docs</span></span>
+        </a>
+      </div>
+
+      <nav class="sidebar-nav">
+        {% assign top_pages = site.pages | where_exp: "p", "p.nav_order != nil and p.parent == nil" | sort: "nav_order" %}
+        {% for p in top_pages %}
+          {% assign is_current = false %}
+          {% if page.url == p.url %}{% assign is_current = true %}{% endif %}
+          {% assign in_section = false %}
+          {% if page.parent == p.title %}{% assign in_section = true %}{% endif %}
+
+          <a href="{{ p.url | relative_url }}" class="nav-item{% if is_current %} active{% endif %}{% if in_section %} section-open{% endif %}">
+            {{ p.title }}
+            {% if p.has_children %}
+              <svg class="chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            {% endif %}
+          </a>
+
+          {% if p.has_children %}
+            {% assign children = site.pages | where: "parent", p.title | sort: "nav_order" %}
+            {% if children.size > 0 %}
+              <div class="nav-children{% if in_section or is_current %} open{% endif %}">
+                {% for child in children %}
+                  {% assign child_active = false %}
+                  {% if page.url == child.url %}{% assign child_active = true %}{% endif %}
+                  <a href="{{ child.url | relative_url }}" class="nav-child{% if child_active %} active{% endif %}">
+                    {{ child.title }}
+                  </a>
+                {% endfor %}
+              </div>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </nav>
+
+      <div class="sidebar-footer">
+        <a href="https://www.rightsuite.co" target="_blank" rel="noopener" class="sidebar-cta">
+          <span>Start validating</span>
+          <svg width="12" height="12" viewBox="0 0 12 12" fill="none"><path d="M2 6h8M7 3l3 3-3 3" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </a>
+        <p class="sidebar-copy">© Wednesday Solutions</p>
+      </div>
+    </aside>
+
+    <!-- Main -->
+    <div class="main">
+      {% if page.parent %}
+        <nav class="breadcrumb" aria-label="breadcrumb">
+          <a href="{{ '/' | relative_url }}">Docs</a>
+          <span aria-hidden="true">›</span>
+          {% assign parent_page = site.pages | where: "title", page.parent | first %}
+          {% if parent_page %}
+            <a href="{{ parent_page.url | relative_url }}">{{ page.parent }}</a>
+            <span aria-hidden="true">›</span>
+          {% endif %}
+          <span>{{ page.title }}</span>
+        </nav>
+      {% endif %}
+
+      <article class="content">
+        {{ content }}
+      </article>
+
+      <!-- Prev / Next -->
+      {% if page.parent %}
+        {% assign siblings = site.pages | where: "parent", page.parent | sort: "nav_order" %}
+        {% assign current_index = 0 %}
+        {% for s in siblings %}
+          {% if s.url == page.url %}{% assign current_index = forloop.index0 %}{% endif %}
+        {% endfor %}
+        {% assign prev_index = current_index | minus: 1 %}
+        {% assign next_index = current_index | plus: 1 %}
+        <nav class="page-nav">
+          {% if prev_index >= 0 %}
+            {% assign prev_page = siblings[prev_index] %}
+            {% if prev_page %}
+              <a href="{{ prev_page.url | relative_url }}" class="page-nav-item prev">
+                <span class="page-nav-label">Previous</span>
+                <span class="page-nav-title">{{ prev_page.title }}</span>
+              </a>
+            {% endif %}
+          {% else %}
+            <span></span>
+          {% endif %}
+          {% assign next_page = siblings[next_index] %}
+          {% if next_page %}
+            <a href="{{ next_page.url | relative_url }}" class="page-nav-item next">
+              <span class="page-nav-label">Next</span>
+              <span class="page-nav-title">{{ next_page.title }}</span>
+            </a>
+          {% endif %}
+        </nav>
+      {% endif %}
+    </div>
+  </div>
+</body>
+</html>

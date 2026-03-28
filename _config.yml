@@ -1,39 +1,17 @@
 title: Right Suite Docs
-description: GTM validation platform — prompts, templates, playbooks, and product guides for founders who built something and now need to sell it.
+description: GTM validation platform — prompts, templates, playbooks, and product guides for founders who need to sell what they built.
 url: https://wednesday-solutions.github.io
 baseurl: /rightsuite.co
 
-remote_theme: just-the-docs/just-the-docs@v0.10.0
-
-color_scheme: rightsuite
-
-logo: "/assets/logo.svg"
-
-favicon_ico: "/assets/favicon.ico"
-
-aux_links:
-  "rightsuite.co →":
-    - "https://www.rightsuite.co"
-
-aux_links_new_tab: true
-
-search_enabled: true
-search:
-  heading_level: 2
-  previews: 3
-  preview_words_before: 5
-  preview_words_after: 10
-
-heading_anchors: true
-
-back_to_top: true
-back_to_top_text: "Back to top"
-
-footer_content: "© Wednesday Solutions. All rights reserved."
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 exclude:
   - README.md
@@ -41,3 +19,4 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+  - _sass
