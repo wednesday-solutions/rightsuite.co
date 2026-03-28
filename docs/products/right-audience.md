@@ -95,6 +95,17 @@ You can run any product without RightAudience — but the results will be sharpe
 
 ---
 
+## Who Uses This
+
+RightAudience is used differently depending on where you are:
+
+- [RightAudience for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-audience/) — validate your ICP before you commit to a GTM motion
+- [RightAudience for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-audience/) — find the client segment that values your specific expertise most
+- [RightAudience for Growth Teams](../../use-cases/growth-teams/right-audience/) — catch segment drift before it shows up in win rates
+- [RightAudience for Indie Hackers](../../use-cases/indie-hackers/right-audience/) — know who to build for before you spend 3 months on the wrong audience
+
+---
+
 ## Status
 
 **Live** — available at [www.rightsuite.co/products/right-audience](https://www.rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-audience)

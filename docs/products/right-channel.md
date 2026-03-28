@@ -114,6 +114,15 @@ You don't have to run them in order. But if you're unsure whether to invest in p
 
 ---
 
+## Who Uses This
+
+- [RightChannel for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-channel/) — pick the right first channel before you commit 6 months to the wrong one
+- [RightChannel for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-channel/) — find where your new ideal clients are, not where your old ones came from
+- [RightChannel for Growth Teams](../../use-cases/growth-teams/right-channel/) — validate channel expansion before hiring headcount for it
+- [RightChannel for Indie Hackers](../../use-cases/indie-hackers/right-channel/) — avoid the Twitter/Product Hunt echo chamber and find where your buyers actually are
+
+---
+
 ## Status
 
 **Live** — available at [www.rightsuite.co/products/right-channel](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-channel)

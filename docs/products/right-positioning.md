@@ -95,6 +95,15 @@ Run RightAudience first if you're unsure which segment to position for. Run Righ
 
 ---
 
+## Who Uses This
+
+- [RightPositioning for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-positioning/) — find the unclaimed angle before you write your landing page
+- [RightPositioning for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-positioning/) — discover the differentiation angle competitors haven't claimed
+- [RightPositioning for Growth Teams](../../use-cases/growth-teams/right-positioning/) — catch positioning decay before it shows up in win rates
+- [RightPositioning for Indie Hackers](../../use-cases/indie-hackers/right-positioning/) — compete against funded tools by owning a specific niche angle
+
+---
+
 ## Status
 
 **Live** — available at [www.rightsuite.co/products/right-positioning](https://www.rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-positioning)

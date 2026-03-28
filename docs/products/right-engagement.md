@@ -109,6 +109,15 @@ You can run RightEngagement without the earlier steps — but knowing your ICP a
 
 ---
 
+## Who Uses This
+
+- [RightEngagement for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-engagement/) — validate cold outreach before burning a list you can't easily rebuild
+- [RightEngagement for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-engagement/) — test the new positioning angle in outreach before you commit to it
+- [RightEngagement for Growth Teams](../../use-cases/growth-teams/right-engagement/) — score sequences before they touch your best prospect lists
+- [RightEngagement for Indie Hackers](../../use-cases/indie-hackers/right-engagement/) — don't waste the warm list from your Product Hunt launch
+
+---
+
 ## Status
 
 **Live** — available at [www.rightsuite.co/products/right-engagement](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-engagement)

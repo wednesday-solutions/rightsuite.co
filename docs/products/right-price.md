@@ -97,6 +97,15 @@ You can run RightPrice on its own without running RightAudience first — but th
 
 ---
 
+## Who Uses This
+
+- [RightPrice for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-price/) — validate your launch price before you go to market
+- [RightPrice for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-price/) — reprice as you reposition, backed by data
+- [RightPrice for Growth Teams](../../use-cases/growth-teams/right-price/) — test pricing tier changes before you implement them
+- [RightPrice for Indie Hackers](../../use-cases/indie-hackers/right-price/) — stop underpricing out of fear
+
+---
+
 ## Status
 
 **Live** — available at [www.rightsuite.co/products/right-price](https://www.rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-price)

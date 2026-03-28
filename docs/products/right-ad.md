@@ -109,6 +109,15 @@ Run RightChannel first to confirm paid is the right investment for your audience
 
 ---
 
+## Who Uses This
+
+- [RightAd for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-ad/) — don't burn your first ad budget on creative that won't stop the scroll
+- [RightAd for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-ad/) — test whether your new positioning angle translates into paid creative
+- [RightAd for Growth Teams](../../use-cases/growth-teams/right-ad/) — filter out weak creative before it burns through test budget
+- [RightAd for Indie Hackers](../../use-cases/indie-hackers/right-ad/) — make $200 in ad spend count
+
+---
+
 ## Status
 
 **Live** — available at [www.rightsuite.co/products/right-ad](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-ad)

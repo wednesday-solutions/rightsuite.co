@@ -102,6 +102,15 @@ You can run RightMessaging on its own — but the results compound when your cop
 
 ---
 
+## Who Uses This
+
+- [RightMessaging for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-messaging/) — validate landing page copy before launch
+- [RightMessaging for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-messaging/) — test whether your repositioned site communicates your edge in 10 seconds
+- [RightMessaging for Growth Teams](../../use-cases/growth-teams/right-messaging/) — pre-flight copy variants before you run traffic to them
+- [RightMessaging for Indie Hackers](../../use-cases/indie-hackers/right-messaging/) — make sure your landing page explains what you built to someone who's never heard of you
+
+---
+
 ## Status
 
 **Live** — available at [www.rightsuite.co/products/right-messaging](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-messaging)
