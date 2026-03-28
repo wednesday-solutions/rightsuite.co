@@ -144,23 +144,31 @@
   </script>
 
   <script>
-    // Logo should never be alone — pair it with "Right Suite" text
+    // Logo + product name header — logo left, "RIGHT SUITE" label + h1 stacked right
     var content = document.querySelector('.content');
     if (content) {
       var firstEl = content.firstElementChild;
       if (firstEl && (firstEl.tagName === 'P' || firstEl.tagName === 'DIV')) {
         var img = firstEl.querySelector('img[src*="logo.svg"]');
         if (img && firstEl.children.length === 1) {
+          var h1 = content.querySelector('h1');
           var wrapper = document.createElement('div');
-          wrapper.style.cssText = 'display:flex;align-items:center;gap:10px;margin-bottom:20px;';
-          img.style.cssText = 'border-radius:10px;flex-shrink:0;';
-          img.setAttribute('width', '32');
-          img.setAttribute('height', '32');
-          var label = document.createElement('span');
-          label.textContent = 'Right Suite';
-          label.style.cssText = 'font-family:"DM Sans",sans-serif;font-size:0.875rem;font-weight:600;color:#18181b;letter-spacing:-0.01em;';
+          wrapper.style.cssText = 'display:flex;align-items:center;gap:14px;margin-bottom:28px;';
+          img.style.cssText = 'border-radius:12px;flex-shrink:0;width:48px;height:48px;';
+          var text = document.createElement('div');
+          var label = document.createElement('div');
+          label.textContent = 'RIGHT SUITE';
+          label.style.cssText = 'font-family:"DM Sans",sans-serif;font-size:0.6875rem;font-weight:600;letter-spacing:0.12em;color:#0d9488;margin-bottom:2px;';
+          text.appendChild(label);
+          if (h1) {
+            var title = document.createElement('div');
+            title.textContent = h1.textContent;
+            title.style.cssText = 'font-family:"Instrument Serif",Georgia,serif;font-size:1.875rem;font-weight:400;color:#18181b;letter-spacing:-0.02em;line-height:1.1;';
+            text.appendChild(title);
+            h1.remove();
+          }
           wrapper.appendChild(img);
-          wrapper.appendChild(label);
+          wrapper.appendChild(text);
           firstEl.replaceWith(wrapper);
         }
       }
