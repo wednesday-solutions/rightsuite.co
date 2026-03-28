@@ -117,5 +117,16 @@
       {% endif %}
     </div>
   </div>
+  <script>
+    document.querySelectorAll('.content h2, .content h3, .content h4').forEach(function(heading) {
+      if (!heading.id) return;
+      var anchor = document.createElement('a');
+      anchor.className = 'heading-anchor';
+      anchor.href = '#' + heading.id;
+      anchor.setAttribute('aria-hidden', 'true');
+      anchor.textContent = '#';
+      heading.appendChild(anchor);
+    });
+  </script>
 </body>
 </html>

@@ -462,6 +462,38 @@ a:hover { color: #059669; }
   margin: 0 auto 24px;
 }
 
+/* ── Heading anchors ─────────────────────────────────────── */
+
+.content h2,
+.content h3,
+.content h4 {
+  position: relative;
+}
+
+.heading-anchor {
+  opacity: 0;
+  margin-left: 8px;
+  font-family: 'DM Mono', monospace;
+  font-size: 0.7em;
+  font-weight: 400;
+  color: #d4d4d8;
+  text-decoration: none;
+  border-bottom: none !important;
+  transition: opacity 0.12s ease, color 0.12s ease;
+  user-select: none;
+}
+
+.content h2:hover .heading-anchor,
+.content h3:hover .heading-anchor,
+.content h4:hover .heading-anchor {
+  opacity: 1;
+}
+
+.heading-anchor:hover {
+  color: #4ade80 !important;
+  border-bottom: none !important;
+}
+
 /* ── Highlight / Syntax ──────────────────────────────────── */
 
 .highlight {
