@@ -555,23 +555,105 @@ a:hover { color: #059669; }
   color: #0d9488;
 }
 
+/* ── Mobile top bar ──────────────────────────────────────────── */
+
+.mobile-topbar {
+  display: none;
+}
+
+.mobile-overlay {
+  display: none;
+}
+
 /* ── Responsive ──────────────────────────────────────────── */
 
 @media (max-width: 768px) {
-  .layout {
-    flex-direction: column;
+  /* Top bar */
+  .mobile-topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+    height: 52px;
+    background: #fafafa;
+    border-bottom: 1px solid #e5e5e5;
+    position: sticky;
+    top: 0;
+    z-index: 100;
   }
 
+  .mobile-topbar-logo {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: #18181b;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+  }
+
+  .mobile-topbar-logo img {
+    border-radius: 6px;
+    flex-shrink: 0;
+  }
+
+  .mobile-menu-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border: none;
+    background: transparent;
+    color: #52525b;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 0;
+    transition: background 0.12s ease;
+  }
+
+  .mobile-menu-btn:hover {
+    background: rgba(0, 0, 0, 0.06);
+  }
+
+  /* Overlay */
+  .mobile-overlay {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.35);
+    z-index: 149;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.2s ease;
+  }
+
+  .mobile-overlay.visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  /* Sidebar as drawer */
   .sidebar {
-    width: 100%;
-    height: auto;
-    position: static;
-    border-right: none;
-    border-bottom: 1px solid #e5e5e5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 280px;
+    height: 100vh;
+    z-index: 150;
+    border-right: 1px solid #e5e5e5;
+    transform: translateX(-100%);
+    transition: transform 0.22s ease;
+    overflow-y: auto;
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
   }
 
   .main {
-    padding: 32px 24px 60px;
+    padding: 28px 20px 60px;
   }
 
   .content h1 { font-size: 1.75rem; }
