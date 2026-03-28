@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 <p align="center">
-  <img src="../../assets/logo.svg" alt="Right Suite" width="48" height="48" />
+  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="48" height="48" />
 </p>
 
 # RightPrice
@@ -64,11 +64,11 @@ A structured validation report with an overall sentiment score, confidence ratin
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../assets/before-pricing.svg" alt="Before RightPrice" width="100%" />
+      <img src="{{ '/assets/before-pricing.svg' | relative_url }}" alt="Before RightPrice" width="100%" />
       <br /><sub><b>Before: a price picked on gut feel</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="../../assets/after-pricing.svg" alt="After RightPrice" width="100%" />
+      <img src="{{ '/assets/after-pricing.svg' | relative_url }}" alt="After RightPrice" width="100%" />
       <br /><sub><b>After: confidence score and optimal range</b></sub>
     </td>
   </tr>

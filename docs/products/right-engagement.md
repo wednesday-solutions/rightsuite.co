@@ -6,7 +6,7 @@ nav_order: 5
 ---
 
 <p align="center">
-  <img src="../../assets/logo.svg" alt="Right Suite" width="48" height="48" />
+  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="48" height="48" />
 </p>
 
 # RightEngagement
@@ -62,11 +62,11 @@ Predicted engagement rates, tone diagnosis, objection signals surfaced by your m
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../assets/before-engagement.svg" alt="Before RightEngagement" width="100%" />
+      <img src="{{ '/assets/before-engagement.svg' | relative_url }}" alt="Before RightEngagement" width="100%" />
       <br /><sub><b>Before: sending blind and burning your list</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="../../assets/after-engagement.svg" alt="After RightEngagement" width="100%" />
+      <img src="{{ '/assets/after-engagement.svg' | relative_url }}" alt="After RightEngagement" width="100%" />
       <br /><sub><b>After: knowing what lands before you hit send</b></sub>
     </td>
   </tr>

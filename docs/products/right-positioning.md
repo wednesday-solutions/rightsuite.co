@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 <p align="center">
-  <img src="../../assets/logo.svg" alt="Right Suite" width="48" height="48" />
+  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="48" height="48" />
 </p>
 
 # RightPositioning
@@ -62,11 +62,11 @@ A positioning map showing where buyers mentally place you, which differentiators
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../assets/before-positioning.svg" alt="Before RightPositioning" width="100%" />
+      <img src="{{ '/assets/before-positioning.svg' | relative_url }}" alt="Before RightPositioning" width="100%" />
       <br /><sub><b>Before: positioning that sounds right internally</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="../../assets/after-positioning.svg" alt="After RightPositioning" width="100%" />
+      <img src="{{ '/assets/after-positioning.svg' | relative_url }}" alt="After RightPositioning" width="100%" />
       <br /><sub><b>After: the angle buyers actually respond to</b></sub>
     </td>
   </tr>

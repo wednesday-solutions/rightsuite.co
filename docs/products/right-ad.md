@@ -6,7 +6,7 @@ nav_order: 7
 ---
 
 <p align="center">
-  <img src="../../assets/logo.svg" alt="Right Suite" width="48" height="48" />
+  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="48" height="48" />
 </p>
 
 # RightAd
@@ -61,11 +61,11 @@ Hook strength score, click intent, audience-creative fit, estimated creative fat
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../assets/before-ad.svg" alt="Before RightAd" width="100%" />
+      <img src="{{ '/assets/before-ad.svg' | relative_url }}" alt="Before RightAd" width="100%" />
       <br /><sub><b>Before: launching creative and hoping it stops the scroll</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="../../assets/after-ad.svg" alt="After RightAd" width="100%" />
+      <img src="{{ '/assets/after-ad.svg' | relative_url }}" alt="After RightAd" width="100%" />
       <br /><sub><b>After: knowing your hook strength before you spend</b></sub>
     </td>
   </tr>

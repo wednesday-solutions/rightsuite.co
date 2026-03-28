@@ -6,7 +6,7 @@ nav_order: 6
 ---
 
 <p align="center">
-  <img src="../../assets/logo.svg" alt="Right Suite" width="48" height="48" />
+  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="48" height="48" />
 </p>
 
 # RightChannel
@@ -60,11 +60,11 @@ Channel-by-channel fit scores, effort-to-return estimates, buyer discovery patte
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../assets/before-outreach.svg" alt="Before RightChannel" width="100%" />
+      <img src="{{ '/assets/before-outreach.svg' | relative_url }}" alt="Before RightChannel" width="100%" />
       <br /><sub><b>Before: betting on a channel and hoping</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="../../assets/after-outreach.svg" alt="After RightChannel" width="100%" />
+      <img src="{{ '/assets/after-outreach.svg' | relative_url }}" alt="After RightChannel" width="100%" />
       <br /><sub><b>After: knowing where your buyers are before you commit</b></sub>
     </td>
   </tr>

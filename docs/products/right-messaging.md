@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 <p align="center">
-  <img src="../../assets/logo.svg" alt="Right Suite" width="48" height="48" />
+  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="48" height="48" />
 </p>
 
 # RightMessaging
@@ -63,11 +63,11 @@ A line-by-line breakdown showing conversion likelihood, emotional response at ea
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../assets/before-messaging.svg" alt="Before RightMessaging" width="100%" />
+      <img src="{{ '/assets/before-messaging.svg' | relative_url }}" alt="Before RightMessaging" width="100%" />
       <br /><sub><b>Before: copy that sounds good internally</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="../../assets/after-messaging.svg" alt="After RightMessaging" width="100%" />
+      <img src="{{ '/assets/after-messaging.svg' | relative_url }}" alt="After RightMessaging" width="100%" />
       <br /><sub><b>After: copy validated against real buyer reactions</b></sub>
     </td>
   </tr>

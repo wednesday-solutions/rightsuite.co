@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 <p align="center">
-  <img src="../../assets/logo.svg" alt="Right Suite" width="48" height="48" />
+  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="48" height="48" />
 </p>
 
 # RightAudience
@@ -62,11 +62,11 @@ A ranked scorecard of your candidate segments — by purchase intent, willingnes
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="../../assets/before-audience.svg" alt="Before RightAudience" width="100%" />
+      <img src="{{ '/assets/before-audience.svg' | relative_url }}" alt="Before RightAudience" width="100%" />
       <br /><sub><b>Before: guessing which segment to focus on</b></sub>
     </td>
     <td align="center" width="50%">
-      <img src="../../assets/after-audience.svg" alt="After RightAudience" width="100%" />
+      <img src="{{ '/assets/after-audience.svg' | relative_url }}" alt="After RightAudience" width="100%" />
       <br /><sub><b>After: ranked segment scorecard in minutes</b></sub>
     </td>
   </tr>
