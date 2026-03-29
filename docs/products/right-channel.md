@@ -114,6 +114,14 @@ You don't have to run them in order. But if you're unsure whether to invest in p
 
 ---
 
+## Related Guides
+
+- [Which Marketing Channel Should You Use for Your SaaS]({{ '/guides/which-marketing-channel-for-saas/' | relative_url }})
+- [Your Product Hunt Launch Didn't Work. Now What?]({{ '/guides/product-hunt-launch-didnt-work/' | relative_url }})
+- [SEO vs Paid Ads: Which Is Right for Your Stage]({{ '/guides/seo-vs-paid-ads-for-startups/' | relative_url }})
+
+---
+
 ## Who Uses This
 
 - [RightChannel for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-channel/) — pick the right first channel before you commit 6 months to the wrong one

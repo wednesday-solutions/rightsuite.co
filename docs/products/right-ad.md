@@ -109,6 +109,14 @@ Run RightChannel first to confirm paid is the right investment for your audience
 
 ---
 
+## Related Guides
+
+- [Why Your Facebook Ads Aren't Working]({{ '/guides/facebook-ads-not-working/' | relative_url }})
+- [How to Test Ad Creative Before Spending Your Budget]({{ '/guides/test-ad-creative-before-spending/' | relative_url }})
+- [Why Your Ads Get Clicks But No Conversions]({{ '/guides/ads-clicks-no-conversions/' | relative_url }})
+
+---
+
 ## Who Uses This
 
 - [RightAd for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-ad/) — don't burn your first ad budget on creative that won't stop the scroll

@@ -95,6 +95,14 @@ Run RightAudience first if you're unsure which segment to position for. Run Righ
 
 ---
 
+## Related Guides
+
+- [What to Do When Your SaaS Looks Exactly Like the Competition]({{ '/guides/saas-looks-like-competitors/' | relative_url }})
+- [Why Nobody Is Buying Your SaaS (It's Probably Not the Product)]({{ '/guides/why-is-nobody-buying-my-saas/' | relative_url }})
+- [How to Differentiate a SaaS Product in a Crowded Market]({{ '/guides/how-to-differentiate-a-saas-product/' | relative_url }})
+
+---
+
 ## Who Uses This
 
 - [RightPositioning for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-positioning/) — find the unclaimed angle before you write your landing page

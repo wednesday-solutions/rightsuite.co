@@ -97,6 +97,14 @@ You can run RightPrice on its own without running RightAudience first — but th
 
 ---
 
+## Related Guides
+
+- [What to Do When Your SaaS Pricing Isn't Working]({{ '/guides/saas-pricing-not-working/' | relative_url }})
+- [How to Know If You're Undercharging for Your SaaS]({{ '/guides/am-i-undercharging-for-my-saas/' | relative_url }})
+- [Why Prospects Ask About Price Then Disappear]({{ '/guides/price-objections-saas/' | relative_url }})
+
+---
+
 ## Who Uses This
 
 - [RightPrice for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-price/) — validate your launch price before you go to market
