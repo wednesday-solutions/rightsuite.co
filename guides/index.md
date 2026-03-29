@@ -23,6 +23,9 @@ Powered by [RightAudience]({{ '/docs/products/right-audience/' | relative_url }}
 - [How to Get Your First 10 Customers for a SaaS Product]({{ '/guides/how-to-get-first-10-customers-saas/' | relative_url }})
 - [How to Know If You Have Product-Market Fit]({{ '/guides/how-to-find-product-market-fit/' | relative_url }})
 - [Why Your SaaS Churn Rate Is Too High]({{ '/guides/saas-churn-rate-too-high/' | relative_url }})
+- [How to Niche Down Your SaaS Without Losing Opportunities]({{ '/guides/how-to-niche-down-saas/' | relative_url }})
+- [How to Run Customer Discovery Interviews That Give You Real Signal]({{ '/guides/customer-discovery-interviews/' | relative_url }})
+- [How to Find Early Adopters for Your SaaS]({{ '/guides/early-adopters-saas/' | relative_url }})
 
 ---
 
@@ -35,6 +38,9 @@ Powered by [RightPositioning]({{ '/docs/products/right-positioning/' | relative_
 - [How to Differentiate a SaaS Product in a Crowded Market]({{ '/guides/how-to-differentiate-a-saas-product/' | relative_url }})
 - [How to Write a Value Proposition for Your SaaS]({{ '/guides/how-to-write-value-proposition-saas/' | relative_url }})
 - [How to Write a Positioning Statement for Your SaaS]({{ '/guides/positioning-statement-for-saas/' | relative_url }})
+- [How to Compete With a Bigger SaaS Competitor]({{ '/guides/how-to-compete-with-bigger-competitor/' | relative_url }})
+- [How to Find Your Unique Selling Proposition for SaaS]({{ '/guides/unique-selling-proposition-saas/' | relative_url }})
+- [How to Do Competitive Analysis for Your SaaS]({{ '/guides/competitive-analysis-saas/' | relative_url }})
 
 ---
 
@@ -47,6 +53,9 @@ Powered by [RightPrice]({{ '/docs/products/right-price/' | relative_url }})
 - [Why Prospects Ask About Price Then Disappear]({{ '/guides/price-objections-saas/' | relative_url }})
 - [B2B SaaS Pricing Models Explained (And How to Pick One)]({{ '/guides/b2b-saas-pricing-models/' | relative_url }})
 - [Why Your Free Trial Isn't Converting to Paid]({{ '/guides/free-trial-not-converting/' | relative_url }})
+- [Annual vs Monthly Pricing for SaaS: Which Should You Offer?]({{ '/guides/annual-vs-monthly-pricing-saas/' | relative_url }})
+- [When Should You Raise Your SaaS Prices]({{ '/guides/when-to-raise-saas-prices/' | relative_url }})
+- [Enterprise vs SMB Pricing: Which SaaS Pricing Strategy Is Right]({{ '/guides/enterprise-vs-smb-pricing/' | relative_url }})
 
 ---
 
@@ -58,6 +67,9 @@ Powered by [RightMessaging]({{ '/docs/products/right-messaging/' | relative_url 
 - [How to Check If Your Website Messaging Is Working]({{ '/guides/how-to-check-website-messaging/' | relative_url }})
 - [Why Your Landing Page Isn't Converting]({{ '/guides/landing-page-not-converting/' | relative_url }})
 - [How to Write a SaaS Landing Page That Converts]({{ '/guides/how-to-write-saas-landing-page/' | relative_url }})
+- [How to Write a SaaS Website Headline That Converts]({{ '/guides/how-to-write-saas-headline/' | relative_url }})
+- [What Should Be Above the Fold on Your SaaS Website]({{ '/guides/above-the-fold-saas/' | relative_url }})
+- [Why Your Website Copy Isn't Resonating With Visitors]({{ '/guides/website-copy-not-resonating/' | relative_url }})
 
 ---
 
@@ -70,6 +82,9 @@ Powered by [RightEngagement]({{ '/docs/products/right-engagement/' | relative_ur
 - [How to Write Cold Emails That Actually Get Responses]({{ '/guides/cold-email-that-gets-responses/' | relative_url }})
 - [Why Your LinkedIn Outreach Isn't Working]({{ '/guides/linkedin-outreach-not-working/' | relative_url }})
 - [How to Write a Sales Follow-Up Email That Gets a Response]({{ '/guides/how-to-write-follow-up-email/' | relative_url }})
+- [Cold Email Subject Lines That Get Opens]({{ '/guides/cold-email-subject-lines/' | relative_url }})
+- [How to Build a B2B Outreach Sequence That Converts]({{ '/guides/b2b-sales-sequence/' | relative_url }})
+- [How to Personalize Cold Outreach at Scale]({{ '/guides/how-to-personalize-cold-outreach/' | relative_url }})
 
 ---
 
@@ -81,6 +96,9 @@ Powered by [RightChannel]({{ '/docs/products/right-channel/' | relative_url }})
 - [Your Product Hunt Launch Didn't Work. Now What?]({{ '/guides/product-hunt-launch-didnt-work/' | relative_url }})
 - [SEO vs Paid Ads: Which Is Right for Your Stage]({{ '/guides/seo-vs-paid-ads-for-startups/' | relative_url }})
 - [Content Marketing for SaaS: When It Works and When It Doesn't]({{ '/guides/content-marketing-for-saas/' | relative_url }})
+- [Community-Led Growth for SaaS: When It Works and How to Start]({{ '/guides/community-led-growth-saas/' | relative_url }})
+- [LinkedIn Organic Strategy for B2B SaaS Founders]({{ '/guides/linkedin-organic-strategy-saas/' | relative_url }})
+- [Partnership Marketing for SaaS: How to Build a Co-Marketing GTM]({{ '/guides/partnership-marketing-saas/' | relative_url }})
 
 ---
 
@@ -93,6 +111,9 @@ Powered by [RightAd]({{ '/docs/products/right-ad/' | relative_url }})
 - [Why Your Ads Get Clicks But No Conversions]({{ '/guides/ads-clicks-no-conversions/' | relative_url }})
 - [Google Ads vs Facebook Ads for SaaS: Which Should You Run?]({{ '/guides/google-ads-vs-facebook-ads-saas/' | relative_url }})
 - [How to Write Ad Copy That Actually Converts]({{ '/guides/ad-copy-that-converts/' | relative_url }})
+- [LinkedIn Ads for B2B SaaS: What Works and What Doesn't]({{ '/guides/linkedin-ads-b2b-saas/' | relative_url }})
+- [How to Use Retargeting Ads for SaaS]({{ '/guides/retargeting-ads-saas/' | relative_url }})
+- [How Much Should You Spend on Ads for Your SaaS]({{ '/guides/ad-budget-for-saas/' | relative_url }})
 
 ---
 
