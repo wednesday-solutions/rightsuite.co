@@ -11,6 +11,8 @@ faq:
   - q: "What is a good conversion rate for Facebook ads?"
     a: "It depends on the offer and the funnel stage. For a lead generation campaign sending traffic to a landing page, 2–5% conversion rate is a reasonable baseline for a validated offer. For a direct-to-checkout campaign, 1–3% is more typical. The more important metric at early stages is cost per result relative to your LTV — not the conversion rate in isolation."
 ---
+# Why Your Facebook Ads Aren't Working
+
 
 62% of ad spend goes to creative that never stops the scroll. The failure mode for most Facebook ad campaigns isn't the targeting, the budget, or the bidding strategy. It's the first 2 seconds. Your buyer is mid-scroll, in passive mode, and your ad has one job: interrupt that pattern enough to earn a pause.
 

@@ -11,6 +11,8 @@ faq:
   - q: "How many ad creatives should I test at once?"
     a: "Test one variable at a time with a minimum of 3–5 variations of that variable. If you're testing hooks, run 3–5 different hooks against the same audience with the same landing page. Once you have a winning hook, test 3–5 body copy variations. Testing everything simultaneously means you can't attribute what moved performance. The constraint is deliberate — it's what makes the data useful."
 ---
+# How to Test Ad Creative Before Spending Your Budget
+
 
 The average founder burns $500 learning their ad hook didn't stop the scroll, then another $500 on a revision that makes the same mistake in different words. The feedback loop on paid creative is expensive by design — you only learn what didn't work after you've paid for the lesson.
 

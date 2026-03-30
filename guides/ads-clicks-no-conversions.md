@@ -11,6 +11,8 @@ faq:
   - q: "How do I improve post-click conversion rate?"
     a: "Start with message match. The headline on your landing page should directly answer the promise made in the ad — same language, same framing, same implied outcome. Then check load speed (aim for under 2 seconds on mobile), social proof above the fold (a specific number, a specific testimonial, or a recognizable logo), and CTA clarity (the button should describe what happens next, not just say 'Get Started'). Fix in that order."
 ---
+# Why Your Ads Get Clicks But No Conversions
+
 
 High click-through rate with low conversion is one of the most frustrating failure modes in paid advertising — and one of the most diagnostic. A bad CTR tells you the creative isn't working. A strong CTR with weak conversion tells you the creative is working and something downstream isn't.
 

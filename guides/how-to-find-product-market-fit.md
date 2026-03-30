@@ -11,6 +11,8 @@ faq:
   - q: "How long does it take to find product-market fit?"
     a: "The median time to product-market fit for successful B2B SaaS is 18–24 months from first paying customer. That number hides a wide range — some companies find it in 6 months, others take 3–4 years. The variable that matters most isn't time, it's iteration velocity: how quickly can you talk to customers, form a hypothesis, make a change, and measure the result. Teams that run monthly customer interviews find product-market fit faster than teams that rely on usage data alone."
 ---
+# How to Know If You Have Product-Market Fit
+
 
 Sean Ellis defined product-market fit as 40% of your users saying they'd be "very disappointed" if they couldn't use your product. Most founders don't measure it — they feel for it. The problem with feeling for it is that confidence and fit are easy to confuse when you're close to the product.
 

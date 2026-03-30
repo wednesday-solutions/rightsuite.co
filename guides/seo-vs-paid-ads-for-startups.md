@@ -11,6 +11,8 @@ faq:
   - q: "How much should I spend on paid ads for a new product?"
     a: "Enough to get statistically meaningful data, not enough to scale an unvalidated hypothesis. For most early-stage SaaS, that's $500–$2,000 per test on a controlled variable — one audience, one creative, one landing page. The goal at this stage is not volume, it's learning. Once you have a combination that converts, then you increase spend."
 ---
+# SEO vs Paid Ads: Which Is Right for Your Stage
+
 
 SEO takes 6–18 months to return meaningful signal. Paid ads can return data in under a week. Those two facts alone should drive most of the channel decision for an early-stage product — but most founders treat the choice as a debate about which channel is "better" rather than a question about what they actually need right now.
 

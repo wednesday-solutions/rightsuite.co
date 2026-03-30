@@ -11,6 +11,8 @@ faq:
   - q: "What should I do after a failed Product Hunt launch?"
     a: "Audit who actually signed up. Pull the list and check job titles, company sizes, and whether any of them match your ICP. If the answer is mostly 'other founders and developers,' that tells you the channel worked — it just wasn't your channel. Then go back to first principles: where does your actual ICP go when they have the problem you solve? Start there instead."
 ---
+# Your Product Hunt Launch Didn't Work. Now What?
+
 
 Product Hunt's front page gets roughly 500,000 visitors a month. The majority of them are founders, developers, and people who enjoy discovering new software. If that's your ICP, a strong launch can generate hundreds of signups in a day. If it's not, you've just run a high-effort campaign for an audience that will never buy.
 

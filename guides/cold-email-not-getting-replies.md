@@ -11,6 +11,8 @@ faq:
   - q: "How do I improve my cold email response rate?"
     a: "Start with the message before you touch anything else. Run the one-sentence test: can you describe the specific problem your prospect has, in their words, in one sentence? If you can't, the sequence isn't ready to send. Once the core message is clear, validate it against your actual buyer profile before scaling volume."
 ---
+# Why Your Cold Emails Aren't Getting Replies
+
 
 The average cold email reply rate is 1–3%. Most founders who aren't hitting that number assume the fix is a better subject line, a higher send volume, or a different sequence tool. The problem is almost never any of those things. The gap between a 1% reply rate and an 8% reply rate is almost always message-market fit — you're describing what your product does to someone who hasn't told you they have the problem you're solving.
 

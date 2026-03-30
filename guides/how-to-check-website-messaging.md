@@ -11,6 +11,8 @@ faq:
   - q: "What makes website messaging convert visitors to customers?"
     a: "Copy that matches the language buyers already use to describe the problem converts at up to 3x the rate of copy that leads with features or internal terminology. The goal is to make the reader feel immediately understood — not impressed, not educated, but recognized."
 ---
+# How to Check If Your Website Messaging Is Working
+
 
 The person who built the product is the worst person to write its homepage copy. That's not a criticism — it's a structural problem. You know what the product does, which means you skip the step where you explain why the problem matters. You use the language of your solution, not the language of your buyer's pain. You lead with features because you built them and you know they matter. Your buyers don't know that yet.
 

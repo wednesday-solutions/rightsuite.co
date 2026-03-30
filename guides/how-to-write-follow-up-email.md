@@ -11,6 +11,8 @@ faq:
   - q: "What should I say in a sales follow-up email?"
     a: "Each follow-up in a 5-email sequence should add something different: (1) context for why now is the right moment, (2) social proof from a similar customer with a specific result, (3) a reframe of the problem from a different angle, (4) a smaller ask than your original CTA, (5) an explicit breakup that leaves the door open. The goal isn't to ask the same question louder — it's to give the prospect a new reason to respond."
 ---
+# How to Write a Sales Follow-Up Email That Gets a Response
+
 
 80% of sales require 5 or more follow-ups. 44% of salespeople stop after one. The follow-up is where most deals are won or lost — not because the buyer wasn't interested, but because the timing wasn't right the first time and the follow-up didn't give them a reason to re-engage.
 

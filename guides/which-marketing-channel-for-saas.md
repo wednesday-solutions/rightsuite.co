@@ -11,6 +11,8 @@ faq:
   - q: "Should I start with SEO or paid ads for a new SaaS?"
     a: "It depends on your timeline and what you already know. If you have less than 90 days to get signal and no validated messaging, start with paid — it returns data fast. If you know your messaging converts and you can invest for 12+ months, SEO compounds. Most early-stage founders need signal before they need content. Paid buys you that signal. SEO scales what you already know works."
 ---
+# Which Marketing Channel Should You Use for Your SaaS
+
 
 80% of founders pick the wrong channel first and spend 3–6 months figuring it out. That's not a minor miscalculation — it's a quarter of your runway learning something you could have diagnosed before you started spending. The channel decision isn't about what's trending in founder Twitter threads. It's about where your specific ICP is, what mental mode they're in when they arrive there, and whether your product fits that context.
 

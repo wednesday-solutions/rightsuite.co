@@ -11,6 +11,8 @@ faq:
   - q: "What type of content works best for B2B SaaS?"
     a: "Problem-first content outperforms product-focused content for B2B SaaS because it matches the buyer's search behavior. Buyers search for their problem before they search for a solution. Content that names the problem, diagnoses its cause, and offers a framework for fixing it gets found at the moment of highest intent. Comparison content (your product vs. a competitor) and integration-focused content (how your product works with tools your buyer already uses) also convert well because they capture buyers who are already in evaluation mode."
 ---
+# Content Marketing for SaaS: When It Works and When It Doesn't
+
 
 Content marketing compounds over 12–24 months — which makes it one of the highest-ROI channels for SaaS at scale and one of the worst first bets for a pre-traction company that needs leads in 90 days. Knowing which situation you're in before you invest is the difference between a channel that pays you back for years and one that consumes budget without producing results.
 

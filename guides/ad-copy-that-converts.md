@@ -11,6 +11,8 @@ faq:
   - q: "How do I write a Facebook ad for a SaaS product?"
     a: "Facebook ads for SaaS work when the hook describes the moment before the buyer needed your product — the situation, not the solution. Start with a scenario your buyer recognizes: 'Your sales team closes a deal. Three weeks later, the account goes dark because no one set up the integration.' That line is more stopping than 'Automate your customer onboarding.' From there, agitate the consequence, name the product in one sentence, add one proof point (a number or customer result), and end with a CTA that tells them exactly what clicking will do."
 ---
+# How to Write Ad Copy That Actually Converts
+
 
 The best-performing ads don't describe the product — they describe the moment before the buyer needed it. That shift in framing is the difference between an ad that feels like an interruption and one that feels like the writer was watching over your shoulder.
 

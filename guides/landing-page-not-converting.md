@@ -11,6 +11,8 @@ faq:
   - q: "What should I test first on a landing page?"
     a: "The headline. The first screen of a landing page accounts for 80% of conversion impact, and the headline is the highest-leverage element on that screen. Before testing button colors or layout, validate whether your headline is matching the language and expectations of the buyer you're targeting."
 ---
+# Why Your Landing Page Isn't Converting
+
 
 Most landing page optimization advice tells you to run A/B tests. That's correct advice with a timing problem: you need 1,000 or more monthly visitors for an A/B test to produce statistically meaningful results in a reasonable timeframe. Most early-stage founders don't have that. Running tests without sufficient traffic produces noise that gets mistaken for signal, and founders make changes based on data that doesn't mean anything yet.
 

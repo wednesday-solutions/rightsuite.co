@@ -11,6 +11,8 @@ faq:
   - q: "How long should a cold email be?"
     a: "Under 75 words. Cold emails under 75 words get 2x the reply rate of emails over 150 words. Shorter forces you to be specific. Long emails allow you to hedge, add features, and bury the point. If you can't make the case in 75 words, the case isn't clear enough yet."
 ---
+# How to Write Cold Emails That Actually Get Responses
+
 
 The cold emails that get replies aren't the ones with the best subject lines. They're the ones that prove, in the first sentence, that the sender knows something specific about the recipient's situation. Subject lines earn the open. The opening line earns the read. The pain line earns the reply.
 

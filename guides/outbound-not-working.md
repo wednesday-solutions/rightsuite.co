@@ -11,6 +11,8 @@ faq:
   - q: "Should I give up on outbound if it isn't working?"
     a: "Not before you've correctly diagnosed the problem. Most failed outbound programs fail because of message-market fit, not because the channel doesn't work. The average cold email reply rate is 1–3%, but teams with strong message-market fit regularly reach 6–8%. If you haven't validated your message before scaling, the channel hasn't had a fair test yet."
 ---
+# Why Your Outbound Isn't Working
+
 
 When outbound stops generating pipeline, the default move is to change the channel. Switch from email to LinkedIn. Add phone calls. Try a different sequencing tool. The problem is that channel is almost never the root cause. Switching channels with the wrong message produces the same results on a different platform and costs more time.
 

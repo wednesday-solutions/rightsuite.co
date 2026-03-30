@@ -11,6 +11,8 @@ faq:
   - q: "What is better for SaaS: search ads or social ads?"
     a: "Search ads (Google) are better when your ICP is actively searching for a solution. Social ads (Facebook, LinkedIn) are better when you need to introduce your buyer to a problem they haven't named yet. Most SaaS companies eventually run both — search to capture demand, social to create it. The mistake is running them simultaneously before you've confirmed which one your buyer responds to first."
 ---
+# Google Ads vs Facebook Ads for SaaS: Which Should You Run?
+
 
 Google and Facebook aren't competing channels — they answer different questions at different points in the buyer journey. Google captures existing demand. Facebook creates it. Getting this wrong means spending 6 months optimizing a channel that was never right for your buyer to begin with.
 

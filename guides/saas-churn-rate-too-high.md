@@ -11,6 +11,8 @@ faq:
   - q: "Why are my SaaS customers cancelling?"
     a: "60% of SaaS churn traces back to wrong segment fit or onboarding failure, not product quality. The most common reasons: (1) The customer signed up expecting an outcome your product doesn't deliver. (2) The customer never reached the activation moment — the point where the product proved its value. (3) The customer's situation changed and the product no longer fits their context. (4) A competitor offered a better match for their specific job-to-be-done. Exit interview data is the fastest way to find out which of these applies to your churn."
 ---
+# Why Your SaaS Churn Rate Is Too High
+
 
 Acceptable annual churn is 5–7% for SMB SaaS and under 2% for enterprise. Every point above those numbers is compounding against you — you're filling a leaking bucket faster than your acquisition engine can keep up. At 10% annual churn, you need to replace 10% of revenue before you grow a single dollar.
 

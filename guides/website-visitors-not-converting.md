@@ -11,6 +11,8 @@ faq:
   - q: "What is a good conversion rate for a SaaS landing page?"
     a: "For cold traffic, 2–5% is a typical benchmark. For warm or intent-matched traffic, 8–15% is achievable. If you're below 2%, the problem is almost always messaging, not traffic quality."
 ---
+# Why People Land on Your Website But Don't Convert
+
 
 68% of visitors leave your website without scrolling past the hero. That means most of the people you paid to acquire — through ads, SEO, word of mouth — are making a decision in the first 10 seconds of the page. If you're getting traffic but not signups, the instinct is to question the traffic source. The actual problem is almost always the copy they land on.
 

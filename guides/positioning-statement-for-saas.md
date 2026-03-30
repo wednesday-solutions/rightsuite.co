@@ -11,6 +11,8 @@ faq:
   - q: "What is the Geoffrey Moore positioning template?"
     a: "Geoffrey Moore's positioning template from 'Crossing the Chasm' is: 'For [target customer] who [has this need or opportunity], [Product name] is a [product category] that [key benefit, reason to buy]. Unlike [primary competitive alternative], our product [primary differentiation].' The template works because it forces specificity in four areas where vagueness is most common: who the customer is, what problem they have, what category the product belongs to, and how it differs from the alternative the customer is already using."
 ---
+# How to Write a Positioning Statement for Your SaaS
+
 
 Most SaaS positioning statements are written for the homepage, not as strategic tools. The result is copy that sounds good — differentiated, customer-focused, full of the right buzzwords — but doesn't actually tell your team or your buyer anything about who you're for or why you win. That's not a writing problem. It's a decision problem.
 
