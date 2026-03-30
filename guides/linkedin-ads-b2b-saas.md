@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "LinkedIn Ads for B2B SaaS: What Works and What Doesn't"
 parent: Guides
 description: "LinkedIn ads are the highest-CPM B2B channel and the most precisely targeted. Whether that tradeoff makes sense for your SaaS depends on your ACV, your ICP definition, and your creative. Here's how to decide."

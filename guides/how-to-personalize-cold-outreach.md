@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "How to Personalize Cold Outreach at Scale"
 parent: Guides
 description: "Personalized cold outreach converts at 6x the rate of generic templates — but real personalization doesn't scale. Here's the practical framework for combining individual-level specificity with segment-level efficiency."

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Community-Led Growth for SaaS: When It Works and How to Start"
 parent: Guides
 description: "Community-led growth is the lowest-CAC channel available to SaaS founders — when it fits the product. Here's how to know if it fits yours, and how to build it without burning six months on a ghost town Slack group."

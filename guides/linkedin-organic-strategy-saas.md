@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "LinkedIn Organic Strategy for B2B SaaS Founders"
 parent: Guides
 description: "LinkedIn's organic reach is still the highest of any B2B social platform — and it's narrowing every year. Here's how B2B SaaS founders can build an audience that converts before that window closes."

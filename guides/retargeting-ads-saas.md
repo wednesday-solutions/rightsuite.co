@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "How to Use Retargeting Ads for SaaS (Without Annoying Your Visitors)"
 parent: Guides
 description: "Retargeted visitors convert at 70% higher rates than cold traffic — but running the same ad to all site visitors is one of the most common ways to waste a retargeting budget. Here's how to segment, sequence, and cap your retargeting correctly."

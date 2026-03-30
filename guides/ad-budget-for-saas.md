@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "How Much Should You Spend on Ads for Your SaaS"
 parent: Guides
 description: "The question isn't how much to spend on ads — it's whether you know what a customer is worth before you decide how much to pay for one. Here's the framework for setting a SaaS ad budget that's grounded in your actual unit economics."

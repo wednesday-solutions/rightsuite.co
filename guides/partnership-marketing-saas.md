@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Partnership Marketing for SaaS: How to Build a Co-Marketing GTM"
 parent: Guides
 description: "B2B SaaS companies with active partner ecosystems grow 2x faster than those relying solely on direct sales. Here's how to identify the right partners, start the conversation, and build a co-marketing motion that compounds."
