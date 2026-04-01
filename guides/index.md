@@ -3,12 +3,12 @@ layout: default
 title: Guides
 nav_order: 8
 has_children: true
-description: "Practical guides for founders diagnosing GTM problems — pricing, messaging, outreach, channels, and ad creative."
+description: "Practical guides for founders diagnosing GTM problems - pricing, messaging, outreach, channels, and ad creative."
 ---
 
 # Guides
 
-These guides are problem-first answers for founders diagnosing GTM issues. Each one starts with a specific symptom — low conversion, early churn, cold email silence — and walks through the diagnosis before suggesting a fix. No theory, no filler.
+These guides are problem-first answers for founders diagnosing GTM issues. Each one starts with a specific symptom - low conversion, early churn, cold email silence - and walks through the diagnosis before suggesting a fix. No theory, no filler.
 
 ---
 

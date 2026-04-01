@@ -11,12 +11,12 @@ faq:
   - q: "What should I test first on a landing page?"
     a: "The headline. The first screen of a landing page accounts for 80% of conversion impact, and the headline is the highest-leverage element on that screen. Before testing button colors or layout, validate whether your headline is matching the language and expectations of the buyer you're targeting."
 ---
-# Why Your Landing Page Isn't Converting
 
+# Why Your Landing Page Isn't Converting
 
 Most landing page optimization advice tells you to run A/B tests. That's correct advice with a timing problem: you need 1,000 or more monthly visitors for an A/B test to produce statistically meaningful results in a reasonable timeframe. Most early-stage founders don't have that. Running tests without sufficient traffic produces noise that gets mistaken for signal, and founders make changes based on data that doesn't mean anything yet.
 
-The first screen of your landing page accounts for 80% of conversion impact. Fix it first — before you run ads, before you test, before you redesign anything else.
+The first screen of your landing page accounts for 80% of conversion impact. Fix it first - before you run ads, before you test, before you redesign anything else.
 
 ## Why this happens
 
@@ -37,9 +37,9 @@ Four diagnostics before you change anything:
 
 The sequence matters because some problems mask others.
 
-**Start with traffic source.** If the people landing are fundamentally the wrong audience, fixing the messaging won't save the conversion rate — it will just produce cleaner data on the wrong visitors. Confirm that your traffic source is generating the buyer type you wrote the page for.
+**Start with traffic source.** If the people landing are fundamentally the wrong audience, fixing the messaging won't save the conversion rate - it will just produce cleaner data on the wrong visitors. Confirm that your traffic source is generating the buyer type you wrote the page for.
 
-**Then fix the headline.** Pull three phrases from your best customer conversations that describe the problem before they found you. Use one of them as the basis for your headline. Not a paraphrase — as close to their actual language as you can get without sounding odd.
+**Then fix the headline.** Pull three phrases from your best customer conversations that describe the problem before they found you. Use one of them as the basis for your headline. Not a paraphrase - as close to their actual language as you can get without sounding odd.
 
 **Then fix the offer.** Map your CTA commitment level to your traffic temperature. Cold traffic needs a small ask. Warm traffic (returning visitors, referrals) can handle a larger ask. If you're running cold paid traffic to a "book a demo" CTA, the mismatch is costing you conversions.
 
@@ -47,10 +47,10 @@ The sequence matters because some problems mask others.
 
 ## Remove the guesswork
 
-The diagnostic process above requires judgment calls that are hard to make objectively when you wrote the page. [RightMessaging]({{ '/docs/products/right-messaging/' | relative_url }}) tests your landing page headline, CTA, and copy against simulated buyers matched to your target ICP. It returns a conversion likelihood score, clarity rating, emotional resonance score, and the specific objection signals your current copy is triggering — so you can see what's breaking before you pay to send traffic to it.
+The diagnostic process above requires judgment calls that are hard to make objectively when you wrote the page. [RightMessaging]({{ '/docs/products/right-messaging/' | relative_url }}) tests your landing page headline, CTA, and copy against simulated buyers matched to your target ICP. It returns a conversion likelihood score, clarity rating, emotional resonance score, and the specific objection signals your current copy is triggering - so you can see what's breaking before you pay to send traffic to it.
 
-[Test your landing page with RightMessaging →](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-landing-page-not-converting){: .btn .btn-green }
+[Test your landing page with RightMessaging](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-landing-page-not-converting){: .btn .btn-green }
 
 ---
 
-**Related:** [Why People Land on Your Website But Don't Convert]({{ '/guides/website-visitors-not-converting/' | relative_url }}) · [RightMessaging product overview]({{ '/docs/products/right-messaging/' | relative_url }})
+Related: [Why People Land on Your Website But Don't Convert]({{ '/guides/website-visitors-not-converting/' | relative_url }}) - [RightMessaging product overview]({{ '/docs/products/right-messaging/' | relative_url }})
