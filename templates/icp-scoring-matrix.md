@@ -13,7 +13,7 @@ nav_order: 1
 
 **How to use it:** Fill in one column per segment. Score each row 1-5. Total the scores. The highest total is your beachhead segment.
 
-[← Back to Right Suite](../README.md) | [Automate this with RightAudience →](https://www.rightsuite.co/products/right-audience)
+[← Back to Right Suite](../README.md) | [Automate this with RightAudience](https://www.rightsuite.co/products/right-audience)
 
 ---
 

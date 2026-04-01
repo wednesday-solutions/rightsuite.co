@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "01 — ICP Validation"
+title: "01 - ICP Validation"
 parent: Prompts
 nav_order: 1
 ---
 
-# Prompt 01 — ICP Validation
+# Prompt 01 - ICP Validation
 
 **The decision:** Who should I sell to?
 
@@ -31,7 +31,7 @@ Stage: [pre-launch / just launched / early traction]
 I'm considering targeting these buyer segments:
 Segment A: [job title, company type, company size]
 Segment B: [job title, company type, company size]
-Segment C: [job title, company type, company size — optional]
+Segment C: [job title, company type, company size - optional]
 
 For each segment, give me a structured analysis with exactly these sections:
 
@@ -67,7 +67,7 @@ End with:
 
 **Purchase intent score 5-7:** They have the problem but it's not urgent enough to act. You'll need demand-gen content before direct outreach.
 
-**Purchase intent score below 5:** Wrong segment or wrong timing. Don't try to create urgency — find the segment that already has it.
+**Purchase intent score below 5:** Wrong segment or wrong timing. Don't try to create urgency - find the segment that already has it.
 
 **The "buying trigger" is the most important output.** This is what your cold outreach, ads, and landing page should reference. If you can speak to the trigger, you'll outperform generic value-prop messaging every time.
 
@@ -77,7 +77,7 @@ End with:
 
 - Use the top-ranked segment as your input for [Prompt 02 (Positioning Audit)](./02-positioning-audit.md) and [Prompt 03 (Price Sensitivity)](./03-price-sensitivity.md)
 - Use the "what they need to hear" line as the starting point for your hero headline in [Prompt 04 (Copy Scorecard)](./04-copy-scorecard.md)
-- Use the "buying trigger" in your cold outreach — run it through [Prompt 05 (Cold Outreach Diagnostic)](./05-cold-outreach-diagnostic.md)
+- Use the "buying trigger" in your cold outreach - run it through [Prompt 05 (Cold Outreach Diagnostic)](./05-cold-outreach-diagnostic.md)
 
 ---
 
@@ -85,7 +85,7 @@ End with:
 
 ```
 Product name: Waitroom
-What it does: Adds a live demo booking widget to SaaS landing pages — no code, 5-minute setup
+What it does: Adds a live demo booking widget to SaaS landing pages - no code, 5-minute setup
 Core problem: Founders lose inbound leads because there's no easy way to book a live demo from a landing page
 Current price: $49/mo
 Stage: Just launched

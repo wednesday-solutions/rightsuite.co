@@ -43,7 +43,7 @@ These are the manual versions of what [Right Suite](https://www.rightsuite.co) a
 4. Paste into your AI of choice
 5. Get a structured output you can act on
 
-Run them in order (1 → 7) for a complete GTM analysis. Each prompt builds on the last — your ICP from prompt 1 becomes an input to prompts 2, 3, 4, 5, and 6.
+Run them in order (1-7) for a complete GTM analysis. Each prompt builds on the last — your ICP from prompt 1 becomes an input to prompts 2, 3, 4, 5, and 6.
 
 ---
 

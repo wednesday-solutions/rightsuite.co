@@ -1,15 +1,15 @@
 ---
 layout: default
-title: "06 — Channel Fit Analysis"
+title: "06 - Channel Fit Analysis"
 parent: Prompts
 nav_order: 6
 ---
 
-# Prompt 06 — Channel Fit Analysis
+# Prompt 06 - Channel Fit Analysis
 
 **The decision:** Where should I show up?
 
-**When to use this:** You need to decide where to invest your distribution effort. You're considering 3-5 channels and you want to know which one to go deep on first — before you spend 3 months on the wrong one.
+**When to use this:** You need to decide where to invest your distribution effort. You're considering 3-5 channels and you want to know which one to go deep on first - before you spend 3 months on the wrong one.
 
 [← Back to prompt library](./README.md)
 
@@ -29,15 +29,15 @@ My product:
 My target buyer:
 - Job title: [TITLE]
 - Company type and size: [TYPE, SIZE]
-- Where they currently spend time online: [your best guess — LinkedIn / Twitter / specific Subreddits / Slack communities / Hacker News / etc.]
+- Where they currently spend time online: [your best guess - LinkedIn / Twitter / specific Subreddits / Slack communities / Hacker News / etc.]
 - How they currently discover new tools: [word of mouth / Google search / newsletters / Product Hunt / other]
 
 Channels I'm considering:
-1. [Channel 1 — e.g. LinkedIn organic]
-2. [Channel 2 — e.g. Cold email]
-3. [Channel 3 — e.g. SEO / content]
-4. [Channel 4 — e.g. Product Hunt]
-5. [Channel 5 — optional]
+1. [Channel 1 - e.g. LinkedIn organic]
+2. [Channel 2 - e.g. Cold email]
+3. [Channel 3 - e.g. SEO / content]
+4. [Channel 4 - e.g. Product Hunt]
+5. [Channel 5 - optional]
 
 For each channel, give me:
 
@@ -67,7 +67,7 @@ End with:
 
 ## Channel fit vs. channel execution
 
-This prompt tests channel fit — whether the channel is structurally right for your product and buyer. It doesn't test whether you can execute on the channel well.
+This prompt tests channel fit - whether the channel is structurally right for your product and buyer. It doesn't test whether you can execute on the channel well.
 
 A founder with a large LinkedIn following will outperform channel fit predictions on LinkedIn. A developer with GitHub credibility will get more traction from an open-source play than someone without it.
 
@@ -78,7 +78,7 @@ My unfair distribution advantages:
 - [e.g. 5,000 Twitter followers in the devtools space]
 - [e.g. I'm active in 3 Slack communities where my buyers hang out]
 - [e.g. I've been writing about this problem on my blog for 2 years]
-- [e.g. None — starting from zero]
+- [e.g. None - starting from zero]
 ```
 
 ---
@@ -87,9 +87,9 @@ My unfair distribution advantages:
 
 The best channel strategy for early-stage is almost never "pick one and go deep forever." It's:
 
-1. **Validation channel** — Fast, direct, feedback-rich. Usually cold outreach or a community you're already in. Goal: first 10 customers, not scalability.
-2. **Primary growth channel** — The scalable channel you go deep on once you have proof. Goal: predictable acquisition.
-3. **Secondary channel** — The compound channel that builds over time. Usually content/SEO or community. Goal: organic inbound that reduces CAC over 12-24 months.
+1. **Validation channel** - Fast, direct, feedback-rich. Usually cold outreach or a community you're already in. Goal: first 10 customers, not scalability.
+2. **Primary growth channel** - The scalable channel you go deep on once you have proof. Goal: predictable acquisition.
+3. **Secondary channel** - The compound channel that builds over time. Usually content/SEO or community. Goal: organic inbound that reduces CAC over 12-24 months.
 
 Add this to your prompt to get a sequenced plan:
 
@@ -104,7 +104,7 @@ Give me a 3-channel sequencing plan:
 
 ## What to do next
 
-- Once you've picked your primary channel, check whether your copy is calibrated for that channel's context — run it through [Prompt 04 (Copy Scorecard)](./04-copy-scorecard.md) with the channel in mind
+- Once you've picked your primary channel, check whether your copy is calibrated for that channel's context - run it through [Prompt 04 (Copy Scorecard)](./04-copy-scorecard.md) with the channel in mind
 - If paid ads is in your top 3, run your ad creative through [Prompt 07 (Ad Creative Review)](./07-ad-creative-review.md) before spending
 - If cold outreach is your validation channel, run your message through [Prompt 05 (Cold Outreach Diagnostic)](./05-cold-outreach-diagnostic.md) first
 

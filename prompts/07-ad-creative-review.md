@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "07 — Ad Creative Review"
+title: "07 - Ad Creative Review"
 parent: Prompts
 nav_order: 7
 ---
 
-# Prompt 07 — Ad Creative Review
+# Prompt 07 - Ad Creative Review
 
 **The decision:** Will my ad stop the scroll?
 
@@ -18,7 +18,7 @@ nav_order: 7
 ## The Prompt
 
 ```
-You are a paid media creative director who has reviewed thousands of B2B SaaS ads across Meta, LinkedIn, Google, and TikTok. You think like someone mid-scroll — you have 2 seconds before you move on, you've seen every SaaS ad cliche, and you have a finely tuned filter for what makes you stop vs. what you ignore.
+You are a paid media creative director who has reviewed thousands of B2B SaaS ads across Meta, LinkedIn, Google, and TikTok. You think like someone mid-scroll - you have 2 seconds before you move on, you've seen every SaaS ad cliche, and you have a finely tuned filter for what makes you stop vs. what you ignore.
 
 My target buyer:
 - Job title: [TITLE]
@@ -82,10 +82,10 @@ If you were art directing this ad, what visual concept would you pair with the r
 The first frame of a video or the top 20% of an image has to do all the work. Buyers don't read body copy on Meta until the hook earns it. Lead with the pain or the outcome, never the product name or logo.
 
 **LinkedIn**
-B2B buyers on LinkedIn are in "professional browsing" mode — they're more willing to read than on Meta, but they're also more skeptical of anything that looks like an ad. Native-feeling content (text-heavy, no logo watermarks, first-person voice) outperforms polished ad creative for most B2B SaaS at the indie scale.
+B2B buyers on LinkedIn are in "professional browsing" mode - they're more willing to read than on Meta, but they're also more skeptical of anything that looks like an ad. Native-feeling content (text-heavy, no logo watermarks, first-person voice) outperforms polished ad creative for most B2B SaaS at the indie scale.
 
 **Google Search**
-You're not stopping a scroll — you're winning a comparison at the exact moment someone is searching. The job of search copy is to be the most specific, most credible result for the query. Headline 1 should contain the keyword. Headline 2 should contain the differentiated claim. Description should handle the top objection.
+You're not stopping a scroll - you're winning a comparison at the exact moment someone is searching. The job of search copy is to be the most specific, most credible result for the query. Headline 1 should contain the keyword. Headline 2 should contain the differentiated claim. Description should handle the top objection.
 
 **TikTok**
 The first 3 seconds have to be the most interesting 3 seconds. Hook formats that work for B2B SaaS: "I stopped doing X and started doing Y" / "The mistake every [JOB TITLE] makes" / showing the result before the explanation. Talking head with captions outperforms polished brand video.
@@ -95,9 +95,9 @@ The first 3 seconds have to be the most interesting 3 seconds. Hook formats that
 ## The test before the test
 
 Before spending on a creative, post it organically first:
-- LinkedIn post with the same copy — does it get engagement?
-- Tweet/X post — do people click the link?
-- Share it in a relevant community — do people ask follow-up questions?
+- LinkedIn post with the same copy - does it get engagement?
+- Tweet/X post - do people click the link?
+- Share it in a relevant community - do people ask follow-up questions?
 
 Organic engagement is a cheap signal for paid creative performance. If nobody engages organically, the paid version won't save it.
 
@@ -105,8 +105,8 @@ Organic engagement is a cheap signal for paid creative performance. If nobody en
 
 ## What to do next
 
-- If the platform fit score is low, the creative may be fine but on the wrong channel — run [Prompt 06 (Channel Fit)](./06-channel-fit.md) to confirm paid is the right channel for your buyer
-- If the cliche check surfaces problems, those same cliches are probably on your landing page — run [Prompt 04 (Copy Scorecard)](./04-copy-scorecard.md)
+- If the platform fit score is low, the creative may be fine but on the wrong channel - run [Prompt 06 (Channel Fit)](./06-channel-fit.md) to confirm paid is the right channel for your buyer
+- If the cliche check surfaces problems, those same cliches are probably on your landing page - run [Prompt 04 (Copy Scorecard)](./04-copy-scorecard.md)
 - Test the three hook variants as separate ad sets with identical everything else. Let the data pick the winner after 500+ impressions per variant.
 
 ---

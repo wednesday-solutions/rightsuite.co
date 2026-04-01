@@ -13,7 +13,7 @@ Every GTM guide you've found starts with "analyse your best customers." This one
 
 This is the procedure for the pre-customer stage. Seven decisions, in the right order, with the specific action to take at each step.
 
-[← Back to Right Suite](../README.md) | [Automate the validation →](https://www.rightsuite.co)
+[← Back to Right Suite](../README.md) | [Automate the validation](https://www.rightsuite.co)
 
 ---
 
@@ -46,7 +46,7 @@ You can't shortcut the order. Decision 5 (cold outreach) is less effective if yo
 
 ---
 
-## Decision 1: WHO — Find Your Highest-Intent Segment
+## Decision 1: WHO - Find Your Highest-Intent Segment
 
 ### The question
 Which type of buyer has the most urgent need for what I built, right now, at a price they'll pay without friction?
@@ -54,13 +54,13 @@ Which type of buyer has the most urgent need for what I built, right now, at a p
 ### The common mistake
 Selling to whoever will talk to you.
 
-Early-stage founders talk to friends, ex-colleagues, and warm intros. Those people are nice. They give feedback. They sometimes say "I'd pay for that." Then they don't. Because they were your customer because they knew you — not because they had the problem you solve.
+Early-stage founders talk to friends, ex-colleagues, and warm intros. Those people are nice. They give feedback. They sometimes say "I'd pay for that." Then they don't. Because they were your customer because they knew you - not because they had the problem you solve.
 
 Your actual ICP is defined by the urgency of the problem, not the warmth of the relationship.
 
 ### What to do
 
-1. Write down 3 candidate segments — specific job titles at specific company types and sizes. Example: "Head of Sales at 10-30 person B2B SaaS" not "sales teams."
+1. Write down 3 candidate segments - specific job titles at specific company types and sizes. Example: "Head of Sales at 10-30 person B2B SaaS" not "sales teams."
 
 2. For each segment, answer:
    - How urgently do they feel the pain I solve? (1-10)
@@ -68,7 +68,7 @@ Your actual ICP is defined by the urgency of the problem, not the warmth of the 
    - How do they currently solve this without a tool like mine?
    - What's happening in their world right now that would make them actively search for a solution?
 
-3. Score and rank. The segment with the highest urgency AND the clearest buying trigger is your beachhead. Not the biggest market — the most urgent problem.
+3. Score and rank. The segment with the highest urgency AND the clearest buying trigger is your beachhead. Not the biggest market - the most urgent problem.
 
 **Use:** [ICP Scoring Matrix template](../templates/icp-scoring-matrix.md) | [ICP Validation prompt](../prompts/01-icp-validation.md) | [RightAudience](https://www.rightsuite.co/products/right-audience)
 
@@ -79,7 +79,7 @@ Write it down. Every subsequent decision uses this as an input.
 
 ---
 
-## Decision 2: WHY ME — Find Your Positioning Angle
+## Decision 2: WHY ME - Find Your Positioning Angle
 
 ### The question
 When a buyer in my target segment evaluates my product alongside the alternatives, what makes me the obvious choice?
@@ -87,15 +87,15 @@ When a buyer in my target segment evaluates my product alongside the alternative
 ### The common mistake
 Listing features as differentiation.
 
-"We have X integration" is not a positioning angle. "We're the only tool that does Y for Z" is a positioning angle — if it's true, if Y matters to your segment, and if your competitors don't claim it.
+"We have X integration" is not a positioning angle. "We're the only tool that does Y for Z" is a positioning angle - if it's true, if Y matters to your segment, and if your competitors don't claim it.
 
 The other mistake: treating "simpler than X" as a position. Everyone says they're simpler. You need a specific axis of simplicity tied to a specific pain.
 
 ### What to do
 
-1. List your 3 main competitors — including the status quo (how buyers solve this without a tool). What does each one claim?
+1. List your 3 main competitors - including the status quo (how buyers solve this without a tool). What does each one claim?
 
-2. Map your product against each competitor on the dimensions your target buyer actually cares about. Not the dimensions you think matter — the dimensions they search for when evaluating tools in your category.
+2. Map your product against each competitor on the dimensions your target buyer actually cares about. Not the dimensions you think matter - the dimensions they search for when evaluating tools in your category.
 
 3. Find the gap. What angle does no current player own? That's your positioning.
 
@@ -104,11 +104,11 @@ The other mistake: treating "simpler than X" as a position. Everyone says they'r
 **Use:** [Positioning Audit prompt](../prompts/02-positioning-audit.md) | [RightPositioning](https://www.rightsuite.co/products/right-positioning)
 
 ### Output from this step
-One positioning statement and one differentiator angle — the thing you'll lead with in every conversation, every email, every piece of content.
+One positioning statement and one differentiator angle - the thing you'll lead with in every conversation, every email, every piece of content.
 
 ---
 
-## Decision 3: PRICE — Set a Price You Can Defend
+## Decision 3: PRICE - Set a Price You Can Defend
 
 ### The question
 Is my price in the range where my target segment will pay without friction, or am I leaving money on the table / pricing myself out?
@@ -116,7 +116,7 @@ Is my price in the range where my target segment will pay without friction, or a
 ### The common mistake
 Copying a competitor's price.
 
-A competitor's price reflects their customer segment, their cost structure, their brand equity, and their conversion funnel — none of which you have yet. Copying their price doesn't mean your buyers will respond the same way.
+A competitor's price reflects their customer segment, their cost structure, their brand equity, and their conversion funnel - none of which you have yet. Copying their price doesn't mean your buyers will respond the same way.
 
 The second mistake: pricing for sustainability before you've validated conversion. If you're pre-10 customers, price for conversion first. You can raise prices once you have proof.
 
@@ -133,11 +133,11 @@ The second mistake: pricing for sustainability before you've validated conversio
 **Use:** [Price Sensitivity Test prompt](../prompts/03-price-sensitivity.md) | [RightPrice](https://www.rightsuite.co/products/right-price)
 
 ### Output from this step
-A defended price (not just a number — a rationale), a trial strategy, and the top price objection your copy needs to address.
+A defended price (not just a number - a rationale), a trial strategy, and the top price objection your copy needs to address.
 
 ---
 
-## Decision 4: COPY — Write a Landing Page That Converts Cold Traffic
+## Decision 4: COPY - Write a Landing Page That Converts Cold Traffic
 
 ### The question
 If someone who has never heard of me lands on my page, will they understand what I do, believe the claim, and take the action I want?
@@ -145,7 +145,7 @@ If someone who has never heard of me lands on my page, will they understand what
 ### The common mistake
 Writing for people who already understand the context.
 
-Founders write copy that makes sense to them — because they've been living with the product for months. A cold visitor has none of that context. They're scanning, not reading. They're looking for their problem, not your solution. If your hero doesn't reference their specific situation in the first sentence, they're gone.
+Founders write copy that makes sense to them - because they've been living with the product for months. A cold visitor has none of that context. They're scanning, not reading. They're looking for their problem, not your solution. If your hero doesn't reference their specific situation in the first sentence, they're gone.
 
 ### What to do
 
@@ -162,32 +162,32 @@ A landing page that a cold visitor can understand in 5 seconds, with a hero that
 
 ---
 
-## Decision 5: REACH — Start Conversations Before You Have a Channel
+## Decision 5: REACH - Start Conversations Before You Have a Channel
 
 ### The question
 How do I get in front of my target buyers right now, before I've built a channel or an audience?
 
 ### The why-it-matters
-Before you have a scalable channel, you need signal. Signal comes from conversations with real buyers. The fastest way to get conversations is direct outreach — cold email, LinkedIn DMs, community posts. This is your validation channel, not your growth channel.
+Before you have a scalable channel, you need signal. Signal comes from conversations with real buyers. The fastest way to get conversations is direct outreach - cold email, LinkedIn DMs, community posts. This is your validation channel, not your growth channel.
 
 The goal of Decision 5 is not to get 100 customers. It's to get 10 conversations that tell you whether your positioning, price, and copy are right.
 
 ### The common mistake
 Sending templates.
 
-Every founder has the same 5 cold email templates. Buyers have seen all of them. Generic personalisation ("I love what you're building at [Company]") makes it worse — it signals you're blasting a list.
+Every founder has the same 5 cold email templates. Buyers have seen all of them. Generic personalisation ("I love what you're building at [Company]") makes it worse - it signals you're blasting a list.
 
 The only thing that works: a real reason to reach out to this specific person at this specific company right now.
 
 ### What to do
 
-1. Find 20 people who match your ICP exactly. Not vaguely — exactly. Use LinkedIn, Apollo, or manual research.
+1. Find 20 people who match your ICP exactly. Not vaguely - exactly. Use LinkedIn, Apollo, or manual research.
 
 2. For each person, find one specific, real reason to reach out that relates to your product's value prop. A job posting, a recent tweet, a company announcement, a product update.
 
 3. Write one email that opens with that observation, connects it to the problem you solve in one sentence, and ends with one binary ask (not "let me know if you're interested").
 
-4. Send 20 manually. Judge the response rate after 20 — not 5.
+4. Send 20 manually. Judge the response rate after 20 - not 5.
 
 **Use:** [Cold Email Swipe File template](../templates/cold-email-swipe-file.md) | [Cold Outreach Diagnostic prompt](../prompts/05-cold-outreach-diagnostic.md) | [RightEngagement](https://www.rightsuite.co/products/right-engagement)
 
@@ -196,7 +196,7 @@ A proven outreach message (one that got a reply rate above 15%) and a documented
 
 ---
 
-## Decision 6: CHANNEL — Pick the One Channel to Go Deep On
+## Decision 6: CHANNEL - Pick the One Channel to Go Deep On
 
 ### The question
 Once I've validated the offer through direct outreach, which channel should I invest in for repeatable, scalable acquisition?
@@ -235,13 +235,13 @@ One primary channel with a 60-day experiment plan, and one compound channel you'
 
 ---
 
-## Decision 7: ADS — Test Before You Spend
+## Decision 7: ADS - Test Before You Spend
 
 ### The question
 If I decide to run paid ads, will my creative actually stop the scroll before I find out the expensive way?
 
 ### When to make this decision
-After Decision 6. Paid ads are a distribution channel — you should only consider them once you've validated that your copy converts, your price is right, and you know which channel your buyers are on. Running ads before validating those upstream decisions is paying to send traffic to a funnel that doesn't work.
+After Decision 6. Paid ads are a distribution channel - you should only consider them once you've validated that your copy converts, your price is right, and you know which channel your buyers are on. Running ads before validating those upstream decisions is paying to send traffic to a funnel that doesn't work.
 
 ### The common mistake
 Optimising the ad before optimising the landing page.
@@ -250,14 +250,14 @@ A great ad that sends traffic to a weak landing page loses to a mediocre ad that
 
 ### What to do
 
-1. Write 3 versions of your hook — the first line or frame that has to stop the scroll:
+1. Write 3 versions of your hook - the first line or frame that has to stop the scroll:
    - Pain-first: lead with the situation the buyer is in ("Still pricing your SaaS based on what your competitors charge?")
-   - Outcome-first: lead with the specific result ("Know if your price is right before you launch — in 10 minutes")
+   - Outcome-first: lead with the specific result ("Know if your price is right before you launch - in 10 minutes")
    - Pattern-interrupt: lead with something unexpected ("The average SaaS company spends 8 hours on pricing. Total. Ever.")
 
 2. Test all three with equal budget. Let the data pick the winner after 500+ impressions per variant.
 
-3. Don't iterate on the winner until it stops working. Creative fatigue is real but it takes longer than you think — resist the urge to change what's working.
+3. Don't iterate on the winner until it stops working. Creative fatigue is real but it takes longer than you think - resist the urge to change what's working.
 
 **Use:** [Ad Creative Review prompt](../prompts/07-ad-creative-review.md) | [RightAd](https://www.rightsuite.co/products/right-ad)
 
@@ -291,13 +291,13 @@ You get social proof by launching. Launch without it, get it from the first 3 cu
 
 | Decision | Status | Key output | Date completed |
 |----------|--------|-----------|----------------|
-| 1. WHO — ICP | Not started | Target segment definition | |
-| 2. WHY ME — Positioning | Not started | Positioning statement + differentiator | |
-| 3. PRICE — Pricing | Not started | Defended price + trial model | |
-| 4. COPY — Messaging | Not started | Landing page that passes 5-second test | |
-| 5. REACH — Outreach | Not started | Proven message with >15% reply rate | |
-| 6. CHANNEL — Distribution | Not started | Primary channel + 60-day plan | |
-| 7. ADS — Creative | Not started | 3 hook variants to test | |
+| 1. WHO - ICP | Not started | Target segment definition | |
+| 2. WHY ME - Positioning | Not started | Positioning statement + differentiator | |
+| 3. PRICE - Pricing | Not started | Defended price + trial model | |
+| 4. COPY - Messaging | Not started | Landing page that passes 5-second test | |
+| 5. REACH - Outreach | Not started | Proven message with >15% reply rate | |
+| 6. CHANNEL - Distribution | Not started | Primary channel + 60-day plan | |
+| 7. ADS - Creative | Not started | 3 hook variants to test | |
 
 ---
 
@@ -305,10 +305,10 @@ You get social proof by launching. Launch without it, get it from the first 3 cu
 
 You work through these 7 decisions. You validate each one. You get to 10 customers.
 
-Then the playbook changes. You now have data. You can analyse your best customers, find the pattern, and double down. Everything from this point is a different problem — a better problem.
+Then the playbook changes. You now have data. You can analyse your best customers, find the pattern, and double down. Everything from this point is a different problem - a better problem.
 
 But you can't get there without getting here first.
 
 ---
 
-*Right Suite automates the validation at each step — simulated buyer reactions, scored reports, specific recommendations. [Start here](https://www.rightsuite.co).*
+*Right Suite automates the validation at each step - simulated buyer reactions, scored reports, specific recommendations. [Start here](https://www.rightsuite.co).*

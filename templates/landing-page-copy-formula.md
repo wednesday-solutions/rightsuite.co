@@ -11,7 +11,7 @@ nav_order: 2
 
 **How to use it:** Work top to bottom. Write the hero last (it's easier once you've written the rest). Each section has the formula, an example, and notes on common mistakes.
 
-[← Back to Right Suite](../README.md) | [Score your copy with RightMessaging →](https://www.rightsuite.co/products/right-messaging)
+[← Back to Right Suite](../README.md) | [Score your copy with RightMessaging](https://www.rightsuite.co/products/right-messaging)
 
 ---
 
@@ -29,15 +29,15 @@ nav_order: 2
 
 ---
 
-## Section 01 — Hero
+## Section 01 - Hero
 
-**Job:** The first thing a cold visitor sees. You have 5 seconds to make them decide to keep reading. This is not where you explain your product — it's where you earn the right to explain your product.
+**Job:** The first thing a cold visitor sees. You have 5 seconds to make them decide to keep reading. This is not where you explain your product - it's where you earn the right to explain your product.
 
 **Formula:**
 ```
 Headline: [The painful situation] → [The outcome you enable]
 Subhead: [Who this is for] + [how it works] + [the key differentiator]
-CTA: [Specific verb] + [what they get] — not "Get started" or "Sign up"
+CTA: [Specific verb] + [what they get] - not "Get started" or "Sign up"
 ```
 
 **Examples:**
@@ -51,8 +51,8 @@ CTA: Get started
 
 Good:
 ```
-Headline: You built the product. Now find out if your price, message, and audience are right — before you launch.
-Subhead: Right Suite simulates how real buyers respond to every GTM decision. Pricing, copy, ICP, outreach — validated in minutes, not weeks.
+Headline: You built the product. Now find out if your price, message, and audience are right - before you launch.
+Subhead: Right Suite simulates how real buyers respond to every GTM decision. Pricing, copy, ICP, outreach - validated in minutes, not weeks.
 CTA: Run your first simulation free
 ```
 
@@ -64,23 +64,23 @@ CTA: Run your first simulation free
 
 ---
 
-## Section 02 — Problem
+## Section 02 - Problem
 
 **Job:** Make them feel like you understand their situation better than they've articulated it themselves. No product yet. Just the problem.
 
 **Formula:**
 ```
 [The thing they're doing right now that isn't working].
-[Why it isn't working — the root cause, not the symptom].
-[The cost of continuing to do it that way — specific if possible].
+[Why it isn't working - the root cause, not the symptom].
+[The cost of continuing to do it that way - specific if possible].
 [The thing they've tried that didn't solve it].
-[The implication: there's a better way — set up the next section].
+[The implication: there's a better way - set up the next section].
 ```
 
 **Example:**
 ```
 Most founders pick their price by looking at what competitors charge and splitting the difference.
-That means your price is based on what other founders guessed — not what your buyers would actually pay.
+That means your price is based on what other founders guessed - not what your buyers would actually pay.
 A 1% improvement in pricing drives 12.7% more profit (Price Intelligently). Wrong pricing costs more than most founders realise.
 You could run a survey. But surveys require a sample size you don't have yet, and they take weeks.
 There's a faster way.
@@ -90,35 +90,35 @@ There's a faster way.
 
 ---
 
-## Section 03 — How It Works
+## Section 03 - How It Works
 
 **Job:** Remove uncertainty about what the product actually does. Three steps, no jargon. After reading this, the visitor should be able to explain your product to a friend.
 
 **Formula:**
 ```
-Step 1: [What they put in — the input]
-Step 2: [What happens — keep it non-technical]
-Step 3: [What they get out — the output]
+Step 1: [What they put in - the input]
+Step 2: [What happens - keep it non-technical]
+Step 3: [What they get out - the output]
 ```
 
 **Example:**
 ```
-1. Describe your offer — your product, price, and who you're selling to. Takes 3 minutes.
-2. The simulation runs — your offer is tested against synthetic buyers modeled on your target segment.
-3. Read your report — scores, objections, and specific recommendations. Ready in minutes.
+1. Describe your offer - your product, price, and who you're selling to. Takes 3 minutes.
+2. The simulation runs - your offer is tested against synthetic buyers modeled on your target segment.
+3. Read your report - scores, objections, and specific recommendations. Ready in minutes.
 ```
 
 **Common mistake:** "Our AI-powered platform uses machine learning to analyse your..." No. Say what it does, not how it does it.
 
 ---
 
-## Section 04 — What You Get
+## Section 04 - What You Get
 
 **Job:** Translate features into outcomes. Each bullet should answer "so what?" for the visitor.
 
 **Formula:**
 ```
-[Feature] — [the outcome it enables, in the buyer's language]
+[Feature] - [the outcome it enables, in the buyer's language]
 ```
 
 **Example:**
@@ -133,48 +133,48 @@ Bad:
 
 Good:
 ```
-- Know if you're priced too high, too low, or in the optimal range — before you launch
+- Know if you're priced too high, too low, or in the optimal range - before you launch
 - See how 12 different buyer types respond to your offer, including what objections they raise
 - Understand how your price positions against what the market expects in your category
-- Get a specific recommendation on free trial vs. freemium vs. paid pilot — with the reasoning
+- Get a specific recommendation on free trial vs. freemium vs. paid pilot - with the reasoning
 ```
 
 **Common mistake:** Nouns. "Dashboard," "analytics," "insights." These are feature names, not outcomes. Every bullet should end in something the buyer actually wants.
 
 ---
 
-## Section 05 — Social Proof
+## Section 05 - Social Proof
 
 **Job:** Make the claim believable. One specific testimonial with a name, company, and result beats ten vague "this is great!" quotes.
 
 **Formula:**
 ```
-"[Specific result they got] — [Name], [Title] at [Company]"
+"[Specific result they got] - [Name], [Title] at [Company]"
 ```
 
 **If you don't have testimonials yet:**
 
 Use a benchmark stat instead:
 ```
-"The average SaaS company spends 8 hours total on pricing. Total. Ever." — Price Intelligently
+"The average SaaS company spends 8 hours total on pricing. Total. Ever." - Price Intelligently
 ```
 
 Or use a specific outcome from a beta user (with their permission):
 ```
-"Found out my $49 price was 40% below what my target buyers expected to pay. Relaunched at $79. Same conversion rate." — Beta user, SaaS founder
+"Found out my $49 price was 40% below what my target buyers expected to pay. Relaunched at $79. Same conversion rate." - Beta user, SaaS founder
 ```
 
 **Common mistake:** "I love this tool! Very helpful." This is worthless. What specifically did they love? What specifically was helpful? Push for the number.
 
 ---
 
-## Section 06 — Pricing
+## Section 06 - Pricing
 
 **Job:** Give the visitor enough information to decide, and address the top 3 objections before they have to ask.
 
 **Formula:**
 ```
-[Plan name] — $[PRICE]/mo
+[Plan name] - $[PRICE]/mo
 [One line: who this is for]
 [3-5 specific things included]
 [CTA]
@@ -190,14 +190,14 @@ Or use a specific outcome from a beta user (with their permission):
 
 ---
 
-## Section 07 — Final CTA
+## Section 07 - Final CTA
 
 **Job:** Catch the visitors who read everything and need one more nudge. Restate the value prop in a single line and give them a clear button.
 
 **Formula:**
 ```
 Headline: [What they'll know / have / feel after using it]
-Subhead: [Remove the last objection — usually risk or time]
+Subhead: [Remove the last objection - usually risk or time]
 CTA: [Same specific verb as the hero CTA]
 ```
 
@@ -214,13 +214,13 @@ CTA: Run my first simulation free
 
 Write sections in this order (not top-to-bottom):
 
-1. **What you get** (section 4) — clarifies what you're actually selling
-2. **How it works** (section 3) — forces you to explain it simply
-3. **Problem** (section 2) — now you know what problem to name
-4. **Pricing** (section 6) — now you know what you're justifying
-5. **Social proof** (section 5) — now you know what outcome to find a quote about
-6. **Final CTA** (section 7) — restate what you now know
-7. **Hero** (section 1) — write this last. It should compress everything above into 2 sentences.
+1. **What you get** (section 4) - clarifies what you're actually selling
+2. **How it works** (section 3) - forces you to explain it simply
+3. **Problem** (section 2) - now you know what problem to name
+4. **Pricing** (section 6) - now you know what you're justifying
+5. **Social proof** (section 5) - now you know what outcome to find a quote about
+6. **Final CTA** (section 7) - restate what you now know
+7. **Hero** (section 1) - write this last. It should compress everything above into 2 sentences.
 
 ---
 

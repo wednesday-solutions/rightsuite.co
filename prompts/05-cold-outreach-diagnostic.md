@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "05 — Cold Outreach Diagnostic"
+title: "05 - Cold Outreach Diagnostic"
 parent: Prompts
 nav_order: 5
 ---
 
-# Prompt 05 — Cold Outreach Diagnostic
+# Prompt 05 - Cold Outreach Diagnostic
 
 **The decision:** Will they respond?
 
@@ -18,13 +18,13 @@ nav_order: 5
 ## The Prompt
 
 ```
-You are a cold outreach coach who has reviewed 10,000+ cold emails. You think like the recipient — someone who gets 30+ cold emails a day and has developed a finely tuned filter for what gets deleted vs. what gets a reply.
+You are a cold outreach coach who has reviewed 10,000+ cold emails. You think like the recipient - someone who gets 30+ cold emails a day and has developed a finely tuned filter for what gets deleted vs. what gets a reply.
 
 My target recipient:
 - Job title: [TITLE]
 - Company type: [TYPE]
 - Company size: [SIZE]
-- Their likely pain right now: [1 sentence — what problem are they dealing with that my product solves]
+- Their likely pain right now: [1 sentence - what problem are they dealing with that my product solves]
 
 Here is my outreach message:
 
@@ -75,13 +75,13 @@ SUBJECT LINE VARIANTS
 The recipient does not care about your product, your company, or your launch. They care about their problem. Every sentence that's about you is a sentence they're not reading.
 
 **Rule 2: Specificity is the only personalization that works.**
-"I saw you work in [industry]" is not specific. "I noticed you're hiring 3 SDRs this quarter — that usually means the current outreach process is breaking down" is specific. AI has commoditized fake personalization. Real specificity is the only thing that still cuts through.
+"I saw you work in [industry]" is not specific. "I noticed you're hiring 3 SDRs this quarter - that usually means the current outreach process is breaking down" is specific. AI has commoditized fake personalization. Real specificity is the only thing that still cuts through.
 
 **Rule 3: One ask, clearly stated.**
 The biggest single improvement most founders can make to their cold outreach: end with a binary question, not an open-ended "would love to connect." "Do you have 15 minutes Thursday?" converts better than "let me know if you'd like to chat."
 
 **Rule 4: The subject line is a promise.**
-It shouldn't describe your email — it should promise something the recipient wants. "Quick question" is tired. "[Their company name] + [your product category]" works because it signals relevance before they open.
+It shouldn't describe your email - it should promise something the recipient wants. "Quick question" is tired. "[Their company name] + [your product category]" works because it signals relevance before they open.
 
 ---
 
@@ -104,7 +104,7 @@ In addition to the standard diagnostic, tell me:
 
 ## What to do next
 
-- If the relevance score is below 6, the problem is likely your ICP — run [Prompt 01](./01-icp-validation.md) again and confirm you're targeting the right segment
+- If the relevance score is below 6, the problem is likely your ICP - run [Prompt 01](./01-icp-validation.md) again and confirm you're targeting the right segment
 - If the tone diagnosis is "salesy" or "robotic," read the rewrite aloud. If you wouldn't say it in person, don't send it
 - Use the rewritten version as a starting point, not a final draft. Edit it until it sounds like you.
 

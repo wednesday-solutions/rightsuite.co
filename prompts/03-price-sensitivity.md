@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "03 — Price Sensitivity Test"
+title: "03 - Price Sensitivity Test"
 parent: Prompts
 nav_order: 3
 ---
 
-# Prompt 03 — Price Sensitivity Test
+# Prompt 03 - Price Sensitivity Test
 
 **The decision:** What should I charge?
 
@@ -24,14 +24,14 @@ I'm selling:
 
 Product: [NAME]
 What it does: [1-2 sentence description]
-The specific outcome it delivers: [what the buyer has after using it — be concrete]
+The specific outcome it delivers: [what the buyer has after using it - be concrete]
 My target buyer: [job title, company type, company size]
-Current price: [PRICE/mo] — or "undecided" if you haven't set one
+Current price: [PRICE/mo] - or "undecided" if you haven't set one
 Business model: [SaaS subscription / one-time / usage-based / agency retainer]
 
 Competitors and their prices:
-- [Competitor 1]: $[PRICE]/mo — [what they offer]
-- [Competitor 2]: $[PRICE]/mo — [what they offer]
+- [Competitor 1]: $[PRICE]/mo - [what they offer]
+- [Competitor 2]: $[PRICE]/mo - [what they offer]
 - Status quo (no tool): [time/cost the buyer spends doing this manually]
 
 Simulate how my target buyer reacts to three price points: $[LOW], $[MID], $[HIGH].
@@ -46,7 +46,7 @@ For each price point give me:
    Does this price feel consistent with the quality/outcome I described, or does it signal something wrong?
 
 3. OBJECTIONS AT THIS PRICE
-   Specific concerns this price triggers — not generic "too expensive" but the actual thought process.
+   Specific concerns this price triggers - not generic "too expensive" but the actual thought process.
 
 4. WHO BUYS AT THIS PRICE
    The specific sub-segment of my target buyer who would pay this without much friction.
@@ -58,7 +58,7 @@ For each price point give me:
    10 = they pay immediately, no hesitation. 1 = this price kills the deal.
 
 End with:
-- The optimal price point for maximum conversion (not maximum revenue — explain the difference)
+- The optimal price point for maximum conversion (not maximum revenue - explain the difference)
 - The optimal price point for maximum revenue
 - Your recommended trial or onboarding model (free trial / freemium / paid pilot / demo-first) with reasoning
 - The one pricing change that would have the most impact on conversion right now
@@ -70,9 +70,9 @@ End with:
 
 **"Immediate gut reaction"** is what your pricing page has to overcome. If the gut reaction is "that seems steep for a tool I haven't tried," you have a trial model problem, not a price problem.
 
-**"Maximum conversion vs. maximum revenue" is the key split.** Early-stage: optimise for conversion — you need proof, testimonials, and case studies more than you need margin. Post-traction: optimise for revenue. Most founders price for conversion but think they're pricing for revenue, and end up underpriced for too long.
+**"Maximum conversion vs. maximum revenue" is the key split.** Early-stage: optimise for conversion - you need proof, testimonials, and case studies more than you need margin. Post-traction: optimise for revenue. Most founders price for conversion but think they're pricing for revenue, and end up underpriced for too long.
 
-**The trial model recommendation matters as much as the price.** A wrong trial model kills conversion at any price. "Free trial converts at 15-25% for B2B SaaS. Freemium converts at 2-5%. If your time-to-value is under 30 minutes, free trial dominates." — Price Intelligently, 2024.
+**The trial model recommendation matters as much as the price.** A wrong trial model kills conversion at any price. "Free trial converts at 15-25% for B2B SaaS. Freemium converts at 2-5%. If your time-to-value is under 30 minutes, free trial dominates." - Price Intelligently, 2024.
 
 ---
 
@@ -90,13 +90,13 @@ Also give me Van Westendorp estimates for my product:
 State each as a specific dollar amount, not a range.
 ```
 
-Van Westendorp is a survey methodology for mapping price sensitivity. These estimates from an AI are rough proxies — but they'll tell you if you're wildly outside the zone.
+Van Westendorp is a survey methodology for mapping price sensitivity. These estimates from an AI are rough proxies - but they'll tell you if you're wildly outside the zone.
 
 ---
 
 ## What to do next
 
-- Use the optimal price in your copy — run your pricing section through [Prompt 04 (Copy Scorecard)](./04-copy-scorecard.md)
+- Use the optimal price in your copy - run your pricing section through [Prompt 04 (Copy Scorecard)](./04-copy-scorecard.md)
 - Use the "objections at this price" as the things your FAQ and landing page copy need to address
 - If the trial model recommendation contradicts what you're currently doing, that's the highest-priority change
 
