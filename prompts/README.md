@@ -15,7 +15,7 @@ has_children: true
 
 Copy any prompt into Claude, ChatGPT, or Gemini. Fill in the brackets. Get a structured analysis in under 2 minutes.
 
-These are the manual versions of what [Right Suite](https://www.rightsuite.co) automates. Each prompt gives you one AI's perspective. Right Suite runs 100+ simulated buyer interactions and returns a scored report. Use these to move fast; use Right Suite when you need signal you can act on.
+These are the manual versions of what [Right Suite](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-homepage) automates. Each prompt gives you one AI's perspective. Right Suite runs 100+ simulated buyer interactions and returns a scored report. Use these to move fast; use Right Suite when you need signal you can act on.
 
 [← Back to Right Suite](../README.md)
 
@@ -51,10 +51,10 @@ Run them in order (1-7) for a complete GTM analysis. Each prompt builds on the l
 
 These prompts give you one model's best guess based on your description. That's useful for moving fast and gut-checking your thinking.
 
-It's not the same as running 100+ synthetic buyer simulations with varied personas, different pain levels, and competitive context built in. The prompts will catch obvious mistakes. [Right Suite](https://www.rightsuite.co) catches the non-obvious ones — the segment you didn't consider, the objection you didn't anticipate, the positioning angle your competitors haven't claimed yet.
+It's not the same as running 100+ synthetic buyer simulations with varied personas, different pain levels, and competitive context built in. The prompts will catch obvious mistakes. [Right Suite](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-homepage) catches the non-obvious ones — the segment you didn't consider, the objection you didn't anticipate, the positioning angle your competitors haven't claimed yet.
 
 Use these to start. Use Right Suite when the decision matters.
 
 ---
 
-*Part of the [Right Suite GTM toolkit](https://www.rightsuite.co). Free to use, fork, and share.*
+*Part of the [Right Suite GTM toolkit](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-homepage). Free to use, fork, and share.*

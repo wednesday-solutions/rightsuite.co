@@ -60,4 +60,4 @@ Picking a pricing model without knowing how real buyers respond to each option i
 
 ---
 
-Related: [Why Your SaaS Pricing Isn't Working]({{ '/guides/saas-pricing-not-working/' | relative_url }}) - [RightPrice product page]({{ '/docs/products/right-price/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price)
+Related: [Why Your SaaS Pricing Isn't Working]({{ '/guides/saas-pricing-not-working/' | relative_url }}) - [RightPrice product page]({{ '/docs/products/right-price/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-price)

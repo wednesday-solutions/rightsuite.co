@@ -52,4 +52,4 @@ A ranked set of positioning angles by buyer resonance, with the language buyers 
 
 Start with [RightAudience for Indie Hackers](right-audience/) to confirm who you're positioning against. Then take the differentiation angles from RightPositioning into [RightMessaging for Indie Hackers](right-messaging/) to make sure they land in your first 10 seconds of copy.
 
-[Calculate your ROI with RightPositioning](https://www.rightsuite.co/roi/right-positioning)
+[Calculate your ROI with RightPositioning](https://www.rightsuite.co/roi/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-positioning)

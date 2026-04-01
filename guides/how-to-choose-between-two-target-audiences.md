@@ -52,4 +52,4 @@ If after 90 days the primary segment isn't converting, you'll have clean data on
 
 ---
 
-Related: [How to Find Your ICP When You Have No Customers Yet]({{ '/guides/how-to-find-your-icp/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience)
+Related: [How to Find Your ICP When You Have No Customers Yet]({{ '/guides/how-to-find-your-icp/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-audience)

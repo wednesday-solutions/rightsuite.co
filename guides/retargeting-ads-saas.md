@@ -54,4 +54,4 @@ Knowing which retargeting segments and creative variations actually produce cust
 
 ---
 
-Related: [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }}) - [How to test ad creative before spending]({{ '/guides/test-ad-creative-before-spending/' | relative_url }}) - [RightAd ROI Calculator](https://www.rightsuite.co/roi/right-ad)
+Related: [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }}) - [How to test ad creative before spending]({{ '/guides/test-ad-creative-before-spending/' | relative_url }}) - [RightAd ROI Calculator](https://www.rightsuite.co/roi/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-ad)

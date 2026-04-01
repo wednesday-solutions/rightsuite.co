@@ -11,7 +11,7 @@ nav_order: 2
 
 **How to use it:** Work top to bottom. Write the hero last (it's easier once you've written the rest). Each section has the formula, an example, and notes on common mistakes.
 
-[← Back to Right Suite](../README.md) | [Score your copy with RightMessaging](https://www.rightsuite.co/products/right-messaging)
+[← Back to Right Suite](../README.md) | [Score your copy with RightMessaging](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=template-right-messaging)
 
 ---
 
@@ -224,4 +224,4 @@ Write sections in this order (not top-to-bottom):
 
 ---
 
-*For simulated buyer reactions with line-by-line conversion scores and copy rewrites, use [RightMessaging](https://www.rightsuite.co/products/right-messaging).*
+*For simulated buyer reactions with line-by-line conversion scores and copy rewrites, use [RightMessaging](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=template-right-messaging).*

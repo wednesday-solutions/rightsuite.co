@@ -55,4 +55,4 @@ Finding early adopters manually is slow, and your intuition about which segment 
 
 ---
 
-Related: [How to validate your SaaS idea]({{ '/guides/how-to-validate-saas-idea/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience)
+Related: [How to validate your SaaS idea]({{ '/guides/how-to-validate-saas-idea/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-audience)

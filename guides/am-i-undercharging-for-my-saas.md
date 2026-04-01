@@ -59,4 +59,4 @@ The Van Westendorp model requires enough buyer conversations to be statistically
 
 ---
 
-Related: [RightPrice: how it works]({{ '/docs/products/right-price/' | relative_url }}) - [What to do when your SaaS pricing isn't working]({{ '/guides/saas-pricing-not-working/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price)
+Related: [RightPrice: how it works]({{ '/docs/products/right-price/' | relative_url }}) - [What to do when your SaaS pricing isn't working]({{ '/guides/saas-pricing-not-working/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-price)

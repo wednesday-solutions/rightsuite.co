@@ -50,4 +50,4 @@ A primary channel recommendation backed by your specific buyer profile. A ranked
 
 Channel determines where your buyers are - but audience determines who they are: [RightAudience for Indie Hackers](right-audience/). Once you've confirmed the channel, make sure your paid creative is ready if ads are part of the plan: [RightAd for Indie Hackers](right-ad/).
 
-[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel)
+[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-channel)

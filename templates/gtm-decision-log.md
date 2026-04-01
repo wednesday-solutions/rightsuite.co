@@ -111,4 +111,4 @@ At the end of each month, answer these:
 
 ---
 
-*For validated signal on each decision before you commit, use [Right Suite](https://www.rightsuite.co).*
+*For validated signal on each decision before you commit, use [Right Suite](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=template-homepage).*

@@ -52,4 +52,4 @@ The output feeds directly into every other GTM decision. Get the segment right f
 
 Next: [RightPrice for Indie Hackers](right-price/) - once you know who's buying, find out what they'll actually pay.
 
-[Calculate your ROI with RightAudience](https://www.rightsuite.co/roi/right-audience)
+[Calculate your ROI with RightAudience](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-audience)

@@ -66,4 +66,4 @@ That's the value: not perfect prediction, but a much better filter than "we like
 
 [← RightChannel for Growth Teams](right-channel/) | [Growth Teams hub](../)
 
-[Calculate your ROI with RightAd](https://www.rightsuite.co/roi/right-ad)
+[Calculate your ROI with RightAd](https://www.rightsuite.co/roi/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-ad)

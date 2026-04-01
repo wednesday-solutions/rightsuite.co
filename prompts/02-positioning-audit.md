@@ -87,4 +87,4 @@ Analyse my positioning from the buyer's perspective. Give me exactly these secti
 
 ---
 
-*For simulated buyer conversations comparing you to competitors, use [RightPositioning](https://www.rightsuite.co/products/right-positioning).*
+*For simulated buyer conversations comparing you to competitors, use [RightPositioning](https://www.rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-right-positioning).*

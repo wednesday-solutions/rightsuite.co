@@ -91,4 +91,4 @@ Typical improvement from one round of this prompt: 20-40% better clarity score. 
 
 ---
 
-*For simulated buyer reactions with emotional resonance scores and persona-level breakdowns, use [RightMessaging](https://www.rightsuite.co/products/right-messaging).*
+*For simulated buyer reactions with emotional resonance scores and persona-level breakdowns, use [RightMessaging](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-right-messaging).*

@@ -62,4 +62,4 @@ RightEngagement treats the list as the scarce resource it is. Run the sequence f
 
 [← RightMessaging for Growth Teams](right-messaging/) | [RightChannel for Growth Teams](right-channel/)
 
-[Calculate your ROI with RightEngagement](https://www.rightsuite.co/roi/right-engagement)
+[Calculate your ROI with RightEngagement](https://www.rightsuite.co/roi/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-engagement)

@@ -111,4 +111,4 @@ Organic engagement is a cheap signal for paid creative performance. If nobody en
 
 ---
 
-*For scroll-stop scores across 7 platforms with creative fatigue predictions and winning variant recommendations, use [RightAd](https://www.rightsuite.co/products/right-ad).*
+*For scroll-stop scores across 7 platforms with creative fatigue predictions and winning variant recommendations, use [RightAd](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-right-ad).*

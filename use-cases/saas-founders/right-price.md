@@ -72,4 +72,4 @@ Once you have a price that makes sense for your segment, RightMessaging tests wh
 
 [Run RightPrice](https://www.rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=right-price-saas-founders){: .btn .btn-green }
 
-[Calculate your ROI with RightPrice](https://www.rightsuite.co/roi/right-price)
+[Calculate your ROI with RightPrice](https://www.rightsuite.co/roi/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-price)

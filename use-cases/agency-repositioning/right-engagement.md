@@ -69,4 +69,4 @@ Once outreach is validated, [RightChannel for Agency Founders](right-channel/) t
 
 [← Agency Founders Repositioning hub](../)
 
-[Calculate your ROI with RightEngagement](https://www.rightsuite.co/roi/right-engagement)
+[Calculate your ROI with RightEngagement](https://www.rightsuite.co/roi/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-engagement)

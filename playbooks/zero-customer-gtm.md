@@ -13,7 +13,7 @@ Every GTM guide you've found starts with "analyse your best customers." This one
 
 This is the procedure for the pre-customer stage. Seven decisions, in the right order, with the specific action to take at each step.
 
-[← Back to Right Suite](../README.md) | [Automate the validation](https://www.rightsuite.co)
+[← Back to Right Suite](../README.md) | [Automate the validation](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=playbook-homepage)
 
 ---
 
@@ -70,7 +70,7 @@ Your actual ICP is defined by the urgency of the problem, not the warmth of the 
 
 3. Score and rank. The segment with the highest urgency AND the clearest buying trigger is your beachhead. Not the biggest market - the most urgent problem.
 
-**Use:** [ICP Scoring Matrix template](../templates/icp-scoring-matrix.md) | [ICP Validation prompt](../prompts/01-icp-validation.md) | [RightAudience](https://www.rightsuite.co/products/right-audience)
+**Use:** [ICP Scoring Matrix template](../templates/icp-scoring-matrix.md) | [ICP Validation prompt](../prompts/01-icp-validation.md) | [RightAudience](https://www.rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=playbook-right-audience)
 
 ### Output from this step
 One specific segment definition: "[Job title] at [company type], [company size], who is currently [situation that makes them urgently need your product]."
@@ -101,7 +101,7 @@ The other mistake: treating "simpler than X" as a position. Everyone says they'r
 
 4. Write your positioning statement: "[Product] is the [category] for [specific segment] who [specific situation], unlike [alternatives] which [limitation]."
 
-**Use:** [Positioning Audit prompt](../prompts/02-positioning-audit.md) | [RightPositioning](https://www.rightsuite.co/products/right-positioning)
+**Use:** [Positioning Audit prompt](../prompts/02-positioning-audit.md) | [RightPositioning](https://www.rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=playbook-right-positioning)
 
 ### Output from this step
 One positioning statement and one differentiator angle - the thing you'll lead with in every conversation, every email, every piece of content.
@@ -130,7 +130,7 @@ The second mistake: pricing for sustainability before you've validated conversio
 
 4. Check your trial model: for B2B SaaS at sub-$100/mo, free trial converts at 15-25%. Freemium converts at 2-5%. If your time-to-value is under 30 minutes, you should almost certainly be running a free trial, not requiring a credit card upfront.
 
-**Use:** [Price Sensitivity Test prompt](../prompts/03-price-sensitivity.md) | [RightPrice](https://www.rightsuite.co/products/right-price)
+**Use:** [Price Sensitivity Test prompt](../prompts/03-price-sensitivity.md) | [RightPrice](https://www.rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=playbook-right-price)
 
 ### Output from this step
 A defended price (not just a number - a rationale), a trial strategy, and the top price objection your copy needs to address.
@@ -155,7 +155,7 @@ Founders write copy that makes sense to them - because they've been living with 
 
 3. Check that your copy handles the top 3 objections your segment has. These came out of Decision 1 (ICP). If you don't address them on the page, buyers leave with unresolved doubt.
 
-**Use:** [Landing Page Copy Formula template](../templates/landing-page-copy-formula.md) | [Copy Scorecard prompt](../prompts/04-copy-scorecard.md) | [RightMessaging](https://www.rightsuite.co/products/right-messaging)
+**Use:** [Landing Page Copy Formula template](../templates/landing-page-copy-formula.md) | [Copy Scorecard prompt](../prompts/04-copy-scorecard.md) | [RightMessaging](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=playbook-right-messaging)
 
 ### Output from this step
 A landing page that a cold visitor can understand in 5 seconds, with a hero that references their specific situation and a CTA that says what happens next.
@@ -189,7 +189,7 @@ The only thing that works: a real reason to reach out to this specific person at
 
 4. Send 20 manually. Judge the response rate after 20 - not 5.
 
-**Use:** [Cold Email Swipe File template](../templates/cold-email-swipe-file.md) | [Cold Outreach Diagnostic prompt](../prompts/05-cold-outreach-diagnostic.md) | [RightEngagement](https://www.rightsuite.co/products/right-engagement)
+**Use:** [Cold Email Swipe File template](../templates/cold-email-swipe-file.md) | [Cold Outreach Diagnostic prompt](../prompts/05-cold-outreach-diagnostic.md) | [RightEngagement](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=playbook-right-engagement)
 
 ### Output from this step
 A proven outreach message (one that got a reply rate above 15%) and a documented understanding of what objections come up in conversations.
@@ -228,7 +228,7 @@ The right channel depends on where your specific buyers are, what mode they're i
 
 3. Pick one compound channel to start building in parallel (usually content/SEO or community). Don't expect results for 6+ months. Start anyway.
 
-**Use:** [Channel Fit Analysis prompt](../prompts/06-channel-fit.md) | [RightChannel](https://www.rightsuite.co/products/right-channel)
+**Use:** [Channel Fit Analysis prompt](../prompts/06-channel-fit.md) | [RightChannel](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=playbook-right-channel)
 
 ### Output from this step
 One primary channel with a 60-day experiment plan, and one compound channel you're starting to build.
@@ -259,7 +259,7 @@ A great ad that sends traffic to a weak landing page loses to a mediocre ad that
 
 3. Don't iterate on the winner until it stops working. Creative fatigue is real but it takes longer than you think - resist the urge to change what's working.
 
-**Use:** [Ad Creative Review prompt](../prompts/07-ad-creative-review.md) | [RightAd](https://www.rightsuite.co/products/right-ad)
+**Use:** [Ad Creative Review prompt](../prompts/07-ad-creative-review.md) | [RightAd](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=playbook-right-ad)
 
 ### Output from this step
 A proven hook and a tested creative that you can scale with confidence.
@@ -311,4 +311,4 @@ But you can't get there without getting here first.
 
 ---
 
-*Right Suite automates the validation at each step - simulated buyer reactions, scored reports, specific recommendations. [Start here](https://www.rightsuite.co).*
+*Right Suite automates the validation at each step - simulated buyer reactions, scored reports, specific recommendations. [Start here](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=playbook-homepage).*

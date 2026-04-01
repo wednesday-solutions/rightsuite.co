@@ -11,7 +11,7 @@ nav_order: 3
 
 **What this is not:** Templates to copy and send as-is. Every email here needs your specific product, your specific buyer, and your specific voice. Generic = deleted.
 
-[← Back to Right Suite](../README.md) | [Test your outreach with RightEngagement](https://www.rightsuite.co/products/right-engagement)
+[← Back to Right Suite](../README.md) | [Test your outreach with RightEngagement](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=template-right-engagement)
 
 ---
 
@@ -285,4 +285,4 @@ If you know someone dealing with [the problem], I'd appreciate the intro.
 
 ---
 
-*For predicted reply rates on your specific emails across 100+ simulated buyer reactions, use [RightEngagement](https://www.rightsuite.co/products/right-engagement).*
+*For predicted reply rates on your specific emails across 100+ simulated buyer reactions, use [RightEngagement](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=template-right-engagement).*

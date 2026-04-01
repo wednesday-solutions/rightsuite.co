@@ -66,4 +66,4 @@ A value proposition that sounds right internally may not land with buyers the wa
 
 ---
 
-Related: [Why Your SaaS Looks Like Your Competitors]({{ '/guides/saas-looks-like-competitors/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning)
+Related: [Why Your SaaS Looks Like Your Competitors]({{ '/guides/saas-looks-like-competitors/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-positioning)

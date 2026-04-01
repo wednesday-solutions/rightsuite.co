@@ -52,4 +52,4 @@ Finding product-market fit faster requires knowing which customers are closest t
 
 ---
 
-Related: [Why Your SaaS Customers Are Churning in the First 60 Days]({{ '/guides/saas-customers-churning-early/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience)
+Related: [Why Your SaaS Customers Are Churning in the First 60 Days]({{ '/guides/saas-customers-churning-early/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-audience)

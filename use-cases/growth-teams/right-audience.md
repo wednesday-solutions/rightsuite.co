@@ -62,4 +62,4 @@ If your segment is still right, you'll know that too - and you can move forward 
 
 [← Growth Teams hub](../) | [RightPositioning for Growth Teams](right-positioning/)
 
-[Calculate your ROI with RightAudience](https://www.rightsuite.co/roi/right-audience)
+[Calculate your ROI with RightAudience](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-audience)

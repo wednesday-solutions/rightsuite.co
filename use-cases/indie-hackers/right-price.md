@@ -50,4 +50,4 @@ A specific optimal price range with a confidence score. The price point where yo
 
 Get the segment right first: [RightAudience for Indie Hackers](right-audience/). Then take your price into [RightMessaging for Indie Hackers](right-messaging/) to make sure your landing page communicates the value that justifies it.
 
-[Calculate your ROI with RightPrice](https://www.rightsuite.co/roi/right-price)
+[Calculate your ROI with RightPrice](https://www.rightsuite.co/roi/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-price)

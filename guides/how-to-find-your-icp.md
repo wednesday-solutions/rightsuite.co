@@ -54,4 +54,4 @@ The goal is to arrive at one primary segment with evidence behind it, not a hunc
 
 ---
 
-Related: [How to Choose Between Two Target Audiences]({{ '/guides/how-to-choose-between-two-target-audiences/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience)
+Related: [How to Choose Between Two Target Audiences]({{ '/guides/how-to-choose-between-two-target-audiences/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-audience)

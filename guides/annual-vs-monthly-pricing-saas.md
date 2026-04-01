@@ -49,4 +49,4 @@ Choosing your discount depth and pricing structure without testing it means gues
 
 ---
 
-Related: [When your SaaS pricing isn't working]({{ '/guides/saas-pricing-not-working/' | relative_url }}) - [RightPrice product page]({{ '/docs/products/right-price/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price)
+Related: [When your SaaS pricing isn't working]({{ '/guides/saas-pricing-not-working/' | relative_url }}) - [RightPrice product page]({{ '/docs/products/right-price/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-price)

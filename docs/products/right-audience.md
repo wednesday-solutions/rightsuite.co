@@ -120,7 +120,7 @@ Live - [www.rightsuite.co/products/right-audience](https://www.rightsuite.co/pro
 
 ## Calculate Your ROI
 
-[RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience){: .btn .btn-green }
+[RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-productdoc-right-audience){: .btn .btn-green }
 
 ---
 

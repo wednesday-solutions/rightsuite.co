@@ -62,4 +62,4 @@ Two variables determine whether direct outreach works: knowing which person to t
 
 ---
 
-Related: [Why Your Cold Email Isn't Getting Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience)
+Related: [Why Your Cold Email Isn't Getting Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-audience)

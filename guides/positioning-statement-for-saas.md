@@ -58,4 +58,4 @@ Writing a positioning statement your team will actually use requires knowing whi
 
 ---
 
-Related: [How to Write a Value Proposition for Your SaaS]({{ '/guides/how-to-write-value-proposition-saas/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning)
+Related: [How to Write a Value Proposition for Your SaaS]({{ '/guides/how-to-write-value-proposition-saas/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-positioning)

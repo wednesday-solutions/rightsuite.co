@@ -56,4 +56,4 @@ The difference between a follow-up sequence that converts and one that gets igno
 
 ---
 
-Related: [How to Write a Cold Email That Gets Responses]({{ '/guides/cold-email-that-gets-responses/' | relative_url }}) - [RightEngagement product overview]({{ '/docs/products/right-engagement/' | relative_url }}) - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement)
+Related: [How to Write a Cold Email That Gets Responses]({{ '/guides/cold-email-that-gets-responses/' | relative_url }}) - [RightEngagement product overview]({{ '/docs/products/right-engagement/' | relative_url }}) - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-engagement)

@@ -54,4 +54,4 @@ Knowing which segments and which personalization approaches are actually driving
 
 ---
 
-Related: [RightEngagement product overview]({{ '/docs/products/right-engagement/' | relative_url }}) - [Cold email that gets responses]({{ '/guides/cold-email-that-gets-responses/' | relative_url }}) - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement)
+Related: [RightEngagement product overview]({{ '/docs/products/right-engagement/' | relative_url }}) - [Cold email that gets responses]({{ '/guides/cold-email-that-gets-responses/' | relative_url }}) - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-engagement)

@@ -110,4 +110,4 @@ In addition to the standard diagnostic, tell me:
 
 ---
 
-*For predicted reply rates across 100+ simulated buyer reactions with sequence drop-off analysis, use [RightEngagement](https://www.rightsuite.co/products/right-engagement).*
+*For predicted reply rates across 100+ simulated buyer reactions with sequence drop-off analysis, use [RightEngagement](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-right-engagement).*

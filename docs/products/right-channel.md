@@ -139,7 +139,7 @@ Live - [www.rightsuite.co/products/right-channel](https://www.rightsuite.co/prod
 
 ## Calculate Your ROI
 
-[RightChannel ROI Calculator](https://www.rightsuite.co/roi/right-channel){: .btn .btn-green }
+[RightChannel ROI Calculator](https://www.rightsuite.co/roi/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-productdoc-right-channel){: .btn .btn-green }
 
 ---
 

@@ -49,4 +49,4 @@ Manual competitive analysis tells you where competitors are theoretically weak. 
 
 ---
 
-Related: [How to compete with a bigger SaaS competitor]({{ '/guides/how-to-compete-with-bigger-competitor/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning)
+Related: [How to compete with a bigger SaaS competitor]({{ '/guides/how-to-compete-with-bigger-competitor/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-positioning)

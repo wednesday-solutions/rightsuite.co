@@ -61,4 +61,4 @@ Once you have segment clarity, [RightPositioning for Agency Founders](right-posi
 
 [← Agency Founders Repositioning hub](../)
 
-[Calculate your ROI with RightAudience](https://www.rightsuite.co/roi/right-audience)
+[Calculate your ROI with RightAudience](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-audience)

@@ -58,4 +58,4 @@ The channel decision changes based on your specific offer, ICP, and stage. [Righ
 
 ---
 
-Related: [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [Which Marketing Channel Should You Use for Your SaaS]({{ '/guides/which-marketing-channel-for-saas/' | relative_url }}) - [RightChannel ROI Calculator](https://www.rightsuite.co/roi/right-channel)
+Related: [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [Which Marketing Channel Should You Use for Your SaaS]({{ '/guides/which-marketing-channel-for-saas/' | relative_url }}) - [RightChannel ROI Calculator](https://www.rightsuite.co/roi/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-channel)

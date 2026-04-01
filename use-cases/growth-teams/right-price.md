@@ -65,4 +65,4 @@ RightPrice gives you a directional confidence score in 15 minutes. It doesn't re
 
 [← RightMessaging for Growth Teams](right-messaging/) | [RightAd for Growth Teams](right-ad/)
 
-[Calculate your ROI with RightPrice](https://www.rightsuite.co/roi/right-price)
+[Calculate your ROI with RightPrice](https://www.rightsuite.co/roi/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-price)

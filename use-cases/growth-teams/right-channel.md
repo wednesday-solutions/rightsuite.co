@@ -62,4 +62,4 @@ RightChannel doesn't guarantee a new channel will work. What it does is eliminat
 
 [← RightAudience for Growth Teams](right-audience/) | [RightAd for Growth Teams](right-ad/)
 
-[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel)
+[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-channel)

@@ -48,4 +48,4 @@ A scored assessment of your current copy's clarity and conversion likelihood. Se
 
 Price shapes whether your copy needs to justify premium value or emphasize accessibility: [RightPrice for Indie Hackers](right-price/). Once your copy is sharp, test the outreach that will drive people to the page: [RightEngagement for Indie Hackers](right-engagement/).
 
-[Calculate your ROI with RightMessaging](https://www.rightsuite.co/roi/right-messaging)
+[Calculate your ROI with RightMessaging](https://www.rightsuite.co/roi/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-messaging)

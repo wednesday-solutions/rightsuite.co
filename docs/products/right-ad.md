@@ -134,7 +134,7 @@ Live - [www.rightsuite.co/products/right-ad](https://www.rightsuite.co/products/
 
 ## Calculate Your ROI
 
-[RightAd ROI Calculator](https://www.rightsuite.co/roi/right-ad){: .btn .btn-green }
+[RightAd ROI Calculator](https://www.rightsuite.co/roi/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-productdoc-right-ad){: .btn .btn-green }
 
 ---
 

@@ -54,4 +54,4 @@ Choosing the wrong channel doesn't just waste budget - it generates misleading d
 
 ---
 
-Related: [Which Marketing Channel Is Right for Your SaaS?]({{ '/guides/which-marketing-channel-for-saas/' | relative_url }}) - [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }}) - [RightAd ROI Calculator](https://www.rightsuite.co/roi/right-ad)
+Related: [Which Marketing Channel Is Right for Your SaaS?]({{ '/guides/which-marketing-channel-for-saas/' | relative_url }}) - [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }}) - [RightAd ROI Calculator](https://www.rightsuite.co/roi/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-ad)

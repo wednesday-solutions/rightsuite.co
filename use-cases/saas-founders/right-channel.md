@@ -72,4 +72,4 @@ If the recommended channel includes paid advertising, run RightAd before you spe
 
 [Run RightChannel](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=right-channel-saas-founders){: .btn .btn-green }
 
-[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel)
+[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-channel)

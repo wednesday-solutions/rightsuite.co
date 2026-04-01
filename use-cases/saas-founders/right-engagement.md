@@ -72,4 +72,4 @@ Once your outreach is working, you need to know where to send it.
 
 [Run RightEngagement](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=right-engagement-saas-founders){: .btn .btn-green }
 
-[Calculate your ROI with RightEngagement](https://www.rightsuite.co/roi/right-engagement)
+[Calculate your ROI with RightEngagement](https://www.rightsuite.co/roi/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-engagement)

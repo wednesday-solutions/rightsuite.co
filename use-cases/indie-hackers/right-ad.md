@@ -46,4 +46,4 @@ A scroll-stop score on your current hook. Alternative hooks ranked by simulated 
 
 Confirm you're running ads on the right channel first: [RightChannel for Indie Hackers](right-channel/). Or go back to the full overview: [Vibe Coders & Indie Hackers hub](../).
 
-[Calculate your ROI with RightAd](https://www.rightsuite.co/roi/right-ad)
+[Calculate your ROI with RightAd](https://www.rightsuite.co/roi/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-ad)

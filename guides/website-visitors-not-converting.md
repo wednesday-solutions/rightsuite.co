@@ -53,4 +53,4 @@ The hardest part of fixing landing page copy is that you can't audit your own wr
 
 ---
 
-Related: [How to Check If Your Website Messaging Is Working]({{ '/guides/how-to-check-website-messaging/' | relative_url }}) - [RightMessaging product overview]({{ '/docs/products/right-messaging/' | relative_url }}) - [RightMessaging ROI Calculator](https://www.rightsuite.co/roi/right-messaging)
+Related: [How to Check If Your Website Messaging Is Working]({{ '/guides/how-to-check-website-messaging/' | relative_url }}) - [RightMessaging product overview]({{ '/docs/products/right-messaging/' | relative_url }}) - [RightMessaging ROI Calculator](https://www.rightsuite.co/roi/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-messaging)

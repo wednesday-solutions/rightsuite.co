@@ -102,4 +102,4 @@ Van Westendorp is a survey methodology for mapping price sensitivity. These esti
 
 ---
 
-*For 100+ simulated buyer reactions across 12 personas with a confidence score and official price range, use [RightPrice](https://www.rightsuite.co/products/right-price).*
+*For 100+ simulated buyer reactions across 12 personas with a confidence score and official price range, use [RightPrice](https://www.rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-right-price).*

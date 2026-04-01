@@ -97,4 +97,4 @@ Segment C: Marketing managers at PLG SaaS companies
 
 ---
 
-*For 100+ buyer simulations with scored outputs, use [RightAudience](https://www.rightsuite.co/products/right-audience).*
+*For 100+ buyer simulations with scored outputs, use [RightAudience](https://www.rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-right-audience).*

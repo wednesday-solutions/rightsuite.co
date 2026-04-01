@@ -110,4 +110,4 @@ Give me a 3-channel sequencing plan:
 
 ---
 
-*For channel fit scores across 12+ distribution channels with effort-to-return matrices and buyer discovery patterns, use [RightChannel](https://www.rightsuite.co/products/right-channel).*
+*For channel fit scores across 12+ distribution channels with effort-to-return matrices and buyer discovery patterns, use [RightChannel](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=prompt-right-channel).*

@@ -69,4 +69,4 @@ Run RightChannel after [RightAudience for Agency Founders](right-audience/) - yo
 
 [← Agency Founders Repositioning hub](../)
 
-[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel)
+[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-usecase-right-channel)

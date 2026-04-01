@@ -52,4 +52,4 @@ Choosing the right content topics is a channel decision as much as a writing dec
 
 ---
 
-Related: [SEO vs Paid Ads for Startups: Which Comes First?]({{ '/guides/seo-vs-paid-ads-for-startups/' | relative_url }}) - [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [RightChannel ROI Calculator](https://www.rightsuite.co/roi/right-channel)
+Related: [SEO vs Paid Ads for Startups: Which Comes First?]({{ '/guides/seo-vs-paid-ads-for-startups/' | relative_url }}) - [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [RightChannel ROI Calculator](https://www.rightsuite.co/roi/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-channel)

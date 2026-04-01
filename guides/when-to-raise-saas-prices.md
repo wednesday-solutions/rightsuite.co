@@ -47,4 +47,4 @@ Knowing when to raise prices is one problem. Knowing exactly how much room you h
 
 ---
 
-Related: If you're not sure whether your current prices are already too low, start with [Am I Undercharging for My SaaS?]({{ '/guides/am-i-undercharging-for-my-saas/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price)
+Related: If you're not sure whether your current prices are already too low, start with [Am I Undercharging for My SaaS?]({{ '/guides/am-i-undercharging-for-my-saas/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-price)
