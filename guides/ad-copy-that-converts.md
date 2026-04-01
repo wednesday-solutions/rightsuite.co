@@ -58,4 +58,4 @@ Most ad copy problems are positioning problems in disguise. If you don't know ex
 
 ---
 
-Related: [How to Test Ad Creative Before You Spend]({{ '/guides/test-ad-creative-before-spending/' | relative_url }}) - [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }})
+Related: [How to Test Ad Creative Before You Spend]({{ '/guides/test-ad-creative-before-spending/' | relative_url }}) - [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }}) - [RightAd ROI Calculator](https://www.rightsuite.co/roi/right-ad)

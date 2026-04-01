@@ -66,3 +66,5 @@ For agencies specifically, this surfaces things that are hard to get any other w
 Run RightPrice after [RightPositioning for Agency Founders](right-positioning/). You need to know your positioning angle before you can test whether pricing holds within that angle. Then take the validated rate into [RightMessaging for Agency Founders](right-messaging/) - your site copy needs to justify the price before a prospect ever sees a proposal.
 
 [← Agency Founders Repositioning hub](../)
+
+[Calculate your ROI with RightPrice](https://www.rightsuite.co/roi/right-price)

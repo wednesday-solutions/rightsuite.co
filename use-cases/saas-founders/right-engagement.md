@@ -71,3 +71,5 @@ Once your outreach is working, you need to know where to send it.
 **Next step:** [RightChannel for SaaS Founders](right-channel/) - find out which channel your buyers are actually in before you double down on outreach.
 
 [Run RightEngagement](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=right-engagement-saas-founders){: .btn .btn-green }
+
+[Calculate your ROI with RightEngagement](https://www.rightsuite.co/roi/right-engagement)

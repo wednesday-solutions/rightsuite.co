@@ -47,4 +47,4 @@ Choosing the right tier is easier when you can see how comparable companies posi
 
 ---
 
-Related: Once you've picked your tier, see [B2B SaaS Pricing Models]({{ '/guides/b2b-saas-pricing-models/' | relative_url }}) to choose the right structure within it.
+Related: Once you've picked your tier, see [B2B SaaS Pricing Models]({{ '/guides/b2b-saas-pricing-models/' | relative_url }}) to choose the right structure within it. - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price)

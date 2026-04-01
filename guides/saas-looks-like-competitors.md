@@ -56,4 +56,4 @@ Finding your wedge through customer interviews and homepage rewrites takes weeks
 
 ---
 
-Related: [RightPositioning: how it works]({{ '/docs/products/right-positioning/' | relative_url }}) - [Why nobody is buying your SaaS]({{ '/guides/why-is-nobody-buying-my-saas/' | relative_url }})
+Related: [RightPositioning: how it works]({{ '/docs/products/right-positioning/' | relative_url }}) - [Why nobody is buying your SaaS]({{ '/guides/why-is-nobody-buying-my-saas/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning)

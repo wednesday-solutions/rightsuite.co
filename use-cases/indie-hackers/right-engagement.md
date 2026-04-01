@@ -49,3 +49,5 @@ A reply-intent score on your current outreach. Line-by-line feedback on where th
 ---
 
 Make sure the page they land on converts: [RightMessaging for Indie Hackers](right-messaging/). And before you decide which list to prioritize, confirm where your buyers actually spend time: [RightChannel for Indie Hackers](right-channel/).
+
+[Calculate your ROI with RightEngagement](https://www.rightsuite.co/roi/right-engagement)

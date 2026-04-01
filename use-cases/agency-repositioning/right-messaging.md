@@ -66,3 +66,5 @@ RightMessaging tells you which parts of your copy do that and which parts fight 
 RightMessaging comes after [RightPositioning for Agency Founders](right-positioning/) - you need the positioning angle before you can test whether the copy communicates it. Once your site copy is validated, [RightEngagement for Agency Founders](right-engagement/) tests whether your outreach copy carries the same positioning into cold conversations.
 
 [← Agency Founders Repositioning hub](../)
+
+[Calculate your ROI with RightMessaging](https://www.rightsuite.co/roi/right-messaging)

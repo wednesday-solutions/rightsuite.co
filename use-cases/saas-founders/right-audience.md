@@ -69,3 +69,5 @@ Every other product in the Right Suite sequence - pricing, positioning, messagin
 [Price your product with RightPrice](right-price/)
 
 [Run RightAudience](https://www.rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=right-audience-saas-founders){: .btn .btn-green }
+
+[Calculate your ROI with RightAudience](https://www.rightsuite.co/roi/right-audience)

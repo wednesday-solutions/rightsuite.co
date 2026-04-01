@@ -58,4 +58,4 @@ Diagnosing whether your price objections are a value problem, a segment problem,
 
 ---
 
-Related: [RightPrice: how it works]({{ '/docs/products/right-price/' | relative_url }}) - [What to do when your SaaS pricing isn't working]({{ '/guides/saas-pricing-not-working/' | relative_url }})
+Related: [RightPrice: how it works]({{ '/docs/products/right-price/' | relative_url }}) - [What to do when your SaaS pricing isn't working]({{ '/guides/saas-pricing-not-working/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price)

@@ -60,4 +60,4 @@ The difference between a message that gets a reply and one that gets ignored is 
 
 ---
 
-Related: [Why Your Cold Email Isn't Getting Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}) - [RightEngagement product page]({{ '/docs/products/right-engagement/' | relative_url }})
+Related: [Why Your Cold Email Isn't Getting Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}) - [RightEngagement product page]({{ '/docs/products/right-engagement/' | relative_url }}) - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement)

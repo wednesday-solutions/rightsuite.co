@@ -58,4 +58,4 @@ Running through pricing diagnostics manually - customer interviews, cohort analy
 
 ---
 
-Related: [RightPrice: how it works]({{ '/docs/products/right-price/' | relative_url }}) - [How to know if you're undercharging for your SaaS]({{ '/guides/am-i-undercharging-for-my-saas/' | relative_url }})
+Related: [RightPrice: how it works]({{ '/docs/products/right-price/' | relative_url }}) - [How to know if you're undercharging for your SaaS]({{ '/guides/am-i-undercharging-for-my-saas/' | relative_url }}) - [RightPrice ROI Calculator](https://www.rightsuite.co/roi/right-price)

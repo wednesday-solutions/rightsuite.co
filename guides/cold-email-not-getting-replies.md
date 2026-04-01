@@ -57,4 +57,4 @@ Validating a cold email sequence before you scale it is hard when you wrote it -
 
 ---
 
-Related: [Why Your Outbound Isn't Working]({{ '/guides/outbound-not-working/' | relative_url }}) - [RightEngagement product overview]({{ '/docs/products/right-engagement/' | relative_url }})
+Related: [Why Your Outbound Isn't Working]({{ '/guides/outbound-not-working/' | relative_url }}) - [RightEngagement product overview]({{ '/docs/products/right-engagement/' | relative_url }}) - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement)

@@ -54,4 +54,4 @@ Partnerships generate pipeline that's hard to track without the right instrument
 
 ---
 
-Related: [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [Which marketing channel is right for your SaaS?]({{ '/guides/which-marketing-channel-for-saas/' | relative_url }})
+Related: [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [Which marketing channel is right for your SaaS?]({{ '/guides/which-marketing-channel-for-saas/' | relative_url }}) - [RightChannel ROI Calculator](https://www.rightsuite.co/roi/right-channel)

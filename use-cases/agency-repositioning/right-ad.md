@@ -66,3 +66,5 @@ RightAd is the final step in the repositioning sequence. By the time you reach i
 Run it after [RightChannel for Agency Founders](right-channel/) - you need to know which channels you're advertising in before you can test whether the creative format and message works for those specific contexts.
 
 [← Agency Founders Repositioning hub](../)
+
+[Calculate your ROI with RightAd](https://www.rightsuite.co/roi/right-ad)

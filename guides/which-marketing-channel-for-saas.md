@@ -58,4 +58,4 @@ Choosing a channel based on instinct is how you lose 3-6 months. [RightChannel](
 
 ---
 
-Related: [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [SEO vs Paid Ads: Which Is Right for Your Stage]({{ '/guides/seo-vs-paid-ads-for-startups/' | relative_url }})
+Related: [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [SEO vs Paid Ads: Which Is Right for Your Stage]({{ '/guides/seo-vs-paid-ads-for-startups/' | relative_url }}) - [RightChannel ROI Calculator](https://www.rightsuite.co/roi/right-channel)

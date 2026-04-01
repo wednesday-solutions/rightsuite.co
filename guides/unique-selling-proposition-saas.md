@@ -51,4 +51,4 @@ Talking to 10 customers gives you signal from 10 data points. [RightPositioning]
 
 ---
 
-Related: [How to write your value proposition]({{ '/guides/how-to-write-value-proposition-saas/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }})
+Related: [How to write your value proposition]({{ '/guides/how-to-write-value-proposition-saas/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning)

@@ -56,4 +56,4 @@ LinkedIn organic can drive pipeline, but only if you know which posts, which fol
 
 ---
 
-Related: [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [Content marketing for SaaS]({{ '/guides/content-marketing-for-saas/' | relative_url }})
+Related: [RightChannel product overview]({{ '/docs/products/right-channel/' | relative_url }}) - [Content marketing for SaaS]({{ '/guides/content-marketing-for-saas/' | relative_url }}) - [RightChannel ROI Calculator](https://www.rightsuite.co/roi/right-channel)

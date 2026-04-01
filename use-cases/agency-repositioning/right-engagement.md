@@ -68,3 +68,5 @@ Run RightEngagement after [RightMessaging for Agency Founders](right-messaging/)
 Once outreach is validated, [RightChannel for Agency Founders](right-channel/) tells you which distribution channels reach your repositioned target segment most efficiently - so you know where to send that validated message.
 
 [← Agency Founders Repositioning hub](../)
+
+[Calculate your ROI with RightEngagement](https://www.rightsuite.co/roi/right-engagement)

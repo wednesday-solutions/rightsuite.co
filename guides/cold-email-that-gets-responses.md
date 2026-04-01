@@ -55,4 +55,4 @@ Knowing whether a cold email lands before you send it at volume is nearly imposs
 
 ---
 
-Related: [Why Your Cold Emails Aren't Getting Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}) - [RightEngagement product overview]({{ '/docs/products/right-engagement/' | relative_url }})
+Related: [Why Your Cold Emails Aren't Getting Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}) - [RightEngagement product overview]({{ '/docs/products/right-engagement/' | relative_url }}) - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement)

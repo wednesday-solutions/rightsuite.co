@@ -60,4 +60,4 @@ Organic testing gives you directional signal, but it doesn't simulate the compet
 
 ---
 
-Related: [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }}) - [Why Your Facebook Ads Aren't Working]({{ '/guides/facebook-ads-not-working/' | relative_url }})
+Related: [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }}) - [Why Your Facebook Ads Aren't Working]({{ '/guides/facebook-ads-not-working/' | relative_url }}) - [RightAd ROI Calculator](https://www.rightsuite.co/roi/right-ad)

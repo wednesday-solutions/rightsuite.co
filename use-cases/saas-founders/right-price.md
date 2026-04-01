@@ -71,3 +71,5 @@ Once you have a price that makes sense for your segment, RightMessaging tests wh
 **Next step:** [RightMessaging for SaaS Founders](right-messaging/) - test whether your copy communicates enough value to justify the price you're charging.
 
 [Run RightPrice](https://www.rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=right-price-saas-founders){: .btn .btn-green }
+
+[Calculate your ROI with RightPrice](https://www.rightsuite.co/roi/right-price)

@@ -68,3 +68,5 @@ This is different from asking clients what they value about you. Client feedback
 RightPositioning follows [RightAudience for Agency Founders](right-audience/) - you need segment clarity before you can evaluate competitive perception within that segment. Once you have your positioning angle, [RightMessaging for Agency Founders](right-messaging/) tests whether your website copy actually communicates it in the first 10 seconds.
 
 [← Agency Founders Repositioning hub](../)
+
+[Calculate your ROI with RightPositioning](https://www.rightsuite.co/roi/right-positioning)

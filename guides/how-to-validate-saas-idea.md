@@ -60,4 +60,4 @@ Knowing which segment to validate first - and whether your read on their urgency
 
 ---
 
-Related: [How to Find Your ICP]({{ '/guides/how-to-find-your-icp/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }})
+Related: [How to Find Your ICP]({{ '/guides/how-to-find-your-icp/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience)

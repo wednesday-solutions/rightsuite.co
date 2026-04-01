@@ -47,4 +47,4 @@ Choosing your beachhead on intuition means betting on a feeling. [RightAudience]
 
 ---
 
-Related: [How to find your ICP]({{ '/guides/how-to-find-your-icp/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }})
+Related: [How to find your ICP]({{ '/guides/how-to-find-your-icp/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience)

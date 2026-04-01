@@ -68,3 +68,5 @@ RightChannel surfaces four things:
 Run RightChannel after [RightAudience for Agency Founders](right-audience/) - you need to know who you're targeting before you can determine where they are. Once you know the right channels, [RightAd for Agency Founders](right-ad/) tests whether paid creative in those channels communicates your new positioning angle in a way that stops the scroll.
 
 [← Agency Founders Repositioning hub](../)
+
+[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel)

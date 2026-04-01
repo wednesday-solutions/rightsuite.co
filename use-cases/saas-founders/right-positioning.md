@@ -68,3 +68,5 @@ Your positioning then informs your pricing (what you can charge depends partly o
 **Next step:** [RightMessaging for SaaS Founders](right-messaging/) - test whether your homepage actually executes on your positioning angle.
 
 [Run RightPositioning](https://www.rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=right-positioning-saas-founders){: .btn .btn-green }
+
+[Calculate your ROI with RightPositioning](https://www.rightsuite.co/roi/right-positioning)

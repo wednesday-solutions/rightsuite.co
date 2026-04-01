@@ -58,4 +58,4 @@ Figuring out whether you have a positioning, segment, or channel problem through
 
 ---
 
-Related: [RightPositioning: how it works]({{ '/docs/products/right-positioning/' | relative_url }}) - [What to do when your SaaS looks exactly like the competition]({{ '/guides/saas-looks-like-competitors/' | relative_url }})
+Related: [RightPositioning: how it works]({{ '/docs/products/right-positioning/' | relative_url }}) - [What to do when your SaaS looks exactly like the competition]({{ '/guides/saas-looks-like-competitors/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning)

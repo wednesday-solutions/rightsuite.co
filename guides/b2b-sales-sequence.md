@@ -53,4 +53,4 @@ Knowing whether your sequence structure is the problem - versus your targeting, 
 
 ---
 
-Related: If your sequence is structured but still not getting responses, see [Cold Email That Gets Responses]({{ '/guides/cold-email-that-gets-responses/' | relative_url }}) to diagnose the message itself.
+Related: If your sequence is structured but still not getting responses, see [Cold Email That Gets Responses]({{ '/guides/cold-email-that-gets-responses/' | relative_url }}) to diagnose the message itself. - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement)

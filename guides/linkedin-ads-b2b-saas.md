@@ -52,4 +52,4 @@ LinkedIn attribution is notoriously unreliable without dedicated instrumentation
 
 ---
 
-Related: [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }}) - [Google Ads vs Facebook Ads for SaaS]({{ '/guides/google-ads-vs-facebook-ads-saas/' | relative_url }})
+Related: [RightAd product overview]({{ '/docs/products/right-ad/' | relative_url }}) - [Google Ads vs Facebook Ads for SaaS]({{ '/guides/google-ads-vs-facebook-ads-saas/' | relative_url }}) - [RightAd ROI Calculator](https://www.rightsuite.co/roi/right-ad)

@@ -60,4 +60,4 @@ Finding your wedge through customer interviews and won-deal analysis gives you d
 
 ---
 
-Related: [RightPositioning: how it works]({{ '/docs/products/right-positioning/' | relative_url }}) - [What to do when your SaaS looks exactly like the competition]({{ '/guides/saas-looks-like-competitors/' | relative_url }})
+Related: [RightPositioning: how it works]({{ '/docs/products/right-positioning/' | relative_url }}) - [What to do when your SaaS looks exactly like the competition]({{ '/guides/saas-looks-like-competitors/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning)

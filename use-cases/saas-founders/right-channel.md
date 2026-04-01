@@ -71,3 +71,5 @@ If the recommended channel includes paid advertising, run RightAd before you spe
 **Next step:** [RightAd for SaaS Founders](right-ad/) - if paid is part of your channel plan, test your creative before you spend.
 
 [Run RightChannel](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=right-channel-saas-founders){: .btn .btn-green }
+
+[Calculate your ROI with RightChannel](https://www.rightsuite.co/roi/right-channel)

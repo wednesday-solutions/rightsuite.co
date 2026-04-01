@@ -69,3 +69,5 @@ This is the last product in the pre-traction sequence. If you've run from RightA
 **Done with the sequence?** [Back to the SaaS Founders Pre-Traction hub](../) to see the full picture.
 
 [Run RightAd](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=right-ad-saas-founders){: .btn .btn-green }
+
+[Calculate your ROI with RightAd](https://www.rightsuite.co/roi/right-ad)

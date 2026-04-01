@@ -54,4 +54,4 @@ Open rate is one number. Reply rate, meeting booked rate, and sequence conversio
 
 ---
 
-Related: Once your subject lines are landing opens, see [Cold Email That Gets Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}) to fix what happens after they open.
+Related: Once your subject lines are landing opens, see [Cold Email That Gets Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}) to fix what happens after they open. - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement)
