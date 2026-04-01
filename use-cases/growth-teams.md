@@ -6,7 +6,7 @@ nav_order: 3
 description: "Right Suite for post-traction growth teams with plateaued numbers. Test pricing changes, messaging variants, and outreach sequences before you run traffic or burn your list."
 faq:
   - q: "How does Right Suite speed up growth team feedback loops?"
-    a: "Right Suite replaces 4 to 6 week A/B test cycles with minutes-fast simulation. Instead of running paid traffic to a copy variant to find out it does not convert, you test the variant against synthetic buyers first and only run traffic to the versions that pass. The same logic applies to pricing changes, outreach sequences, and ad creative."
+    a: "Right Suite replaces 4-6 week A/B test cycles with minutes-fast simulation. Instead of running paid traffic to a copy variant to find out it does not convert, you test the variant against synthetic buyers first and only run traffic to the versions that pass. The same logic applies to pricing changes, outreach sequences, and ad creative."
   - q: "Can Right Suite replace A/B testing?"
     a: "No, and it is not meant to. Right Suite is the pre-flight layer before you run a live test. It filters out the variants that would have failed anyway, so your actual test budget and traffic go to genuine contenders. Real-world tests still provide the confirmation, but you start with better inputs."
   - q: "Which Right Suite products are most useful for a post-traction growth team?"
@@ -23,7 +23,7 @@ You have traction. Customers are paying, churn is manageable, the product works.
 
 Post-traction plateaus are different from pre-traction problems. You're not asking "will this sell?" anymore. You're asking "which change, across which variable, unlocks the next growth phase?" The pricing tier you launched with might be suppressing expansion revenue. The messaging angle that converted your first 100 customers might be wrong for the next 1,000. The cold outreach that worked 18 months ago might be burning goodwill in a market that's seen the same sequence 40 times.
 
-The challenge isn't ideas — growth teams have plenty of those. The challenge is the feedback loop. A real-world pricing test takes 4–6 weeks to produce a signal. A copy test on paid traffic costs real money to run at statistical significance. A cold email sequence test burns a real list.
+The challenge isn't ideas - growth teams have plenty of those. The challenge is the feedback loop. A real-world pricing test takes 4-6 weeks to produce a signal. A copy test on paid traffic costs real money to run at statistical significance. A cold email sequence test burns a real list.
 
 ---
 
@@ -31,7 +31,7 @@ The challenge isn't ideas — growth teams have plenty of those. The challenge i
 
 Slow feedback loops kill iteration velocity. If you can run one pricing test per quarter, you'll test 4 hypotheses per year. If your competitor can run one per week, they'll test 52. At that rate, they find what works and you're still guessing.
 
-The instinct is to run tests faster by reducing sample size — but smaller samples produce noisier signals. You end up either going too slow (waiting for significance) or going too fast (acting on noise). Neither gets you to the answer.
+The instinct is to run tests faster by reducing sample size - but smaller samples produce noisier signals. You end up either going too slow (waiting for significance) or going too fast (acting on noise). Neither gets you to the answer.
 
 The other problem: some decisions are too expensive to test live. Changing a pricing tier mid-quarter creates billing edge cases, support tickets, and churn risk. Running a new ad creative before you know if the hook works wastes budget on a losing variant. You need signal before you build, before you run, before you send.
 
@@ -39,7 +39,7 @@ The other problem: some decisions are too expensive to test live. Changing a pri
 
 ## How Right Suite helps
 
-Right Suite replaces slow feedback loops with simulation. The tradeoff is explicit: synthetic signal is faster and cheaper than live signal, but it works best for directional decisions — should you pursue this pricing angle or that one, does this hook outperform that one, does this sequence get replies or does it get ignored.
+Right Suite replaces slow feedback loops with simulation. The tradeoff is explicit: synthetic signal is faster and cheaper than live signal, but it works best for directional decisions - should you pursue this pricing angle or that one, does this hook outperform that one, does this sequence get replies or does it get ignored.
 
 **RightPrice for pricing changes.** Before you change a tier, add a new plan, or test an annual-vs-monthly nudge, run it through simulation. You'll see how your existing segment responds to the change, whether it increases or decreases willingness to pay, and how it maps against what competitors charge. This takes minutes, not quarters.
 
@@ -53,11 +53,11 @@ Right Suite replaces slow feedback loops with simulation. The tradeoff is explic
 
 ## What you walk away with
 
-- A read on your next pricing change before you implement it — willingness to pay, expansion risk, and competitive context
-- A ranked comparison of 2–3 message variants for your specific segment, with objection mapping for each
+- A read on your next pricing change before you implement it - willingness to pay, expansion risk, and competitive context
+- A ranked comparison of 2-3 message variants for your specific segment, with objection mapping for each
 - A pre-send read on your outreach sequence: reply intent, friction points, and which messages to cut or rewrite
 - Hook strength scores for up to 3 ad creative variants before you spend on them
-- A channel prioritization update — which distribution bet is worth doubling down on given your current traction
+- A channel prioritization update - which distribution bet is worth doubling down on given your current traction
 
 ---
 
@@ -75,4 +75,4 @@ Right Suite replaces slow feedback loops with simulation. The tradeoff is explic
 
 ---
 
-[Start validating →](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=usecase-growth-teams){: .btn .btn-green }
+[Start validating](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=usecase-growth-teams){: .btn .btn-green }
