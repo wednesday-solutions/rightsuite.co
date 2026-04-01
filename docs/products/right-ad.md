@@ -15,15 +15,15 @@ nav_order: 7
 
 Test your ad creative, copy, and targeting against simulated audiences before you spend on media. Know whether your hook stops the scroll before you find out the expensive way.
 
-[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-ad)
+[← Back to Right Suite](../../README.md) | [Run a simulation](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-ad)
 
 ---
 
 ## The Problem
 
-Most founders launch ads based on what looks good in Canva, what they saw a competitor do, or what the platform's creative best practices suggest. The result is wasted spend on creative that doesn't resonate — discovered only after burning through a test budget with no signal.
+Most founders launch ads based on what looks good in Canva, what they saw a competitor run, or what the platform's creative best practices suggest. The result is wasted spend on creative that doesn't resonate - discovered only after burning through a test budget with no signal.
 
-Paid creative has a brutal feedback loop. You spend $500 to learn the hook didn't land. You spend another $500 on a revised version. By the time you have a creative that converts, you've spent more on testing than on actual acquisition.
+Paid creative has a brutal feedback loop. You spend $500 to learn the hook didn't land. You spend another $500 on a revised version. By the time you have creative that converts, you've spent more on testing than on acquisition.
 
 > 62% of ad budget is spent on creative that never stopped the scroll. You have 2 seconds before a mid-scroll buyer is gone.
 
@@ -35,7 +35,7 @@ Paid creative has a brutal feedback loop. You spend $500 to learn the hook didn'
 Share your ad copy (headline, body, CTA), a description of the visual or video concept, your target audience definition, and the platform you're running on.
 
 **2. Simulation runs**
-The simulation models how your target buyers behave mid-scroll on that specific platform. Buyers encounter your creative in a realistic feed context — they have 2 seconds before moving on. The simulation measures whether they stop, what they think, whether they click, and what objections or confusion your creative creates.
+The simulation models how your target buyers behave mid-scroll on that specific platform. Buyers encounter your creative in a realistic feed context - they have 2 seconds before moving on. The simulation measures whether they stop, what they think, whether they click, and what objections or confusion your creative creates.
 
 **3. Read your report**
 Hook strength score, click intent, audience-creative fit, estimated creative fatigue curve, and a winning variant recommendation if you submitted multiple versions.
@@ -91,7 +91,7 @@ Hook strength score, click intent, audience-creative fit, estimated creative fat
 
 | | RightAd | RightMessaging | RightEngagement |
 |---|---|---|---|
-| **Context** | Paid feed — competing for attention | Your own surface — they came to you | Their inbox — uninvited |
+| **Context** | Paid feed - competing for attention | Your own surface - they came to you | Their inbox - uninvited |
 | **Buyer mode** | Passive scroll, 2 seconds to decide | Active interest, willing to read | High resistance, default to delete |
 | **Primary variable** | Scroll-stop, hook strength | Conversion, clarity | Reply intent, tone |
 | **Use for** | Meta ads, Google ads, LinkedIn ads | Landing pages, email to list | Cold email, DMs, sequences |
@@ -100,10 +100,10 @@ Hook strength score, click intent, audience-creative fit, estimated creative fat
 
 ## Where RightAd Fits
 
-RightAd is step 7 in the GTM journey — the last validation before you spend:
+RightAd is step 7 in the GTM journey - the last validation before you spend:
 
-6. **RightChannel** — Decide whether paid is the right channel for your ICP
-7. **RightAd** — Test whether your specific creative will work on that channel
+6. **RightChannel** - Decide whether paid is the right channel for your ICP
+7. **RightAd** - Test whether your specific creative will work on that channel
 
 Run RightChannel first to confirm paid is the right investment for your audience. Then run RightAd to validate the creative before you commit media budget.
 
@@ -119,16 +119,16 @@ Run RightChannel first to confirm paid is the right investment for your audience
 
 ## Who Uses This
 
-- [RightAd for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-ad/) — don't burn your first ad budget on creative that won't stop the scroll
-- [RightAd for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-ad/) — test whether your new positioning angle translates into paid creative
-- [RightAd for Growth Teams](../../use-cases/growth-teams/right-ad/) — filter out weak creative before it burns through test budget
-- [RightAd for Indie Hackers](../../use-cases/indie-hackers/right-ad/) — make $200 in ad spend count
+- [RightAd for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-ad/) - don't burn your first ad budget on creative that won't stop the scroll
+- [RightAd for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-ad/) - test whether your new positioning angle translates into paid creative
+- [RightAd for Growth Teams](../../use-cases/growth-teams/right-ad/) - filter out weak creative before it burns through test budget
+- [RightAd for Indie Hackers](../../use-cases/indie-hackers/right-ad/) - make $200 in ad spend count
 
 ---
 
 ## Status
 
-**Live** — available at [www.rightsuite.co/products/right-ad](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-ad)
+Live - [www.rightsuite.co/products/right-ad](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-ad)
 
 ---
 

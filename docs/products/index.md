@@ -7,11 +7,11 @@ has_children: true
 
 # Products
 
-7 AI-powered tools. Every go-to-market decision, validated before you commit.
+Every go-to-market comes down to 7 decisions. Right Suite validates all of them before you commit.
 
-Run them individually or in sequence. Each product builds on the last — audience informs positioning, positioning informs price, price informs copy.
+Run them individually or in sequence. Each product builds on the last - audience informs positioning, positioning informs price, price informs copy.
 
-[Start at rightsuite.co →](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-hero){: .btn .btn-green }
+[Start at rightsuite.co](https://www.rightsuite.co?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-hero){: .btn .btn-green }
 
 ---
 
@@ -60,11 +60,13 @@ Run them individually or in sequence. Each product builds on the last — audien
 
 ---
 
-## RightAudience — Who should you sell to?
+## RightAudience - Who should you sell to?
 
-72% of early-stage deals are lost to segment mismatch, not product quality. The segment with the highest purchase intent is rarely the one you started with. RightAudience runs your offer across dozens of buyer personas and ranks them by purchase intent, willingness to pay, and conversion likelihood.
+72% of early-stage deals are lost to segment mismatch, not product quality. The segment with the highest purchase intent is rarely the one you started with.
 
-**What you get:** Segment purchase intent ranking · Willingness to pay by segment · Objection breakdown by segment · ICP clarity score · Expansion map · Go-to-market sequencing
+RightAudience runs your offer across dozens of buyer personas and ranks them by purchase intent, willingness to pay, and conversion likelihood. You find out which segment to target first - before you write a single line of copy.
+
+**What you get:** Segment purchase intent ranking - willingness to pay by segment - objection breakdown by segment - ICP clarity score - expansion map - go-to-market sequencing
 
 <table>
   <tr>
@@ -73,15 +75,17 @@ Run them individually or in sequence. Each product builds on the last — audien
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-audience' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightaudience){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-audience' | relative_url }}){: .btn } [Run a simulation](https://www.rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightaudience){: .btn .btn-green }
 
 ---
 
-## RightPositioning — How do buyers see you?
+## RightPositioning - How do buyers see you?
 
-77% of buyers compare at least 3 options before deciding. 68% of lost deals come down to unclear differentiation, not price. RightPositioning shows you how your ideal customer compares you to competitors — what makes you stand out, what makes you blend in, and the angle that makes you the obvious choice.
+77% of buyers compare at least 3 options before deciding. 68% of lost deals come down to unclear differentiation, not price.
 
-**What you get:** Perceived positioning map · Differentiator strength scores · Competitive blind spots · Buyer language · Positioning gaps competitors haven't claimed · Messaging recommendations
+RightPositioning shows you how your ideal customer compares you to competitors - what makes you stand out, what makes you blend in, and the angle that makes you the obvious choice.
+
+**What you get:** Perceived positioning map - differentiator strength scores - competitive blind spots - buyer language - positioning gaps competitors haven't claimed - messaging recommendations
 
 <table>
   <tr>
@@ -90,15 +94,17 @@ Run them individually or in sequence. Each product builds on the last — audien
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-positioning' | relative_url }}){: .btn } [Find your angle →](https://www.rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightpositioning){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-positioning' | relative_url }}){: .btn } [Find your angle](https://www.rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightpositioning){: .btn .btn-green }
 
 ---
 
-## RightPrice — Is your price right?
+## RightPrice - Is your price right?
 
-The average SaaS company spends 8 hours total on pricing. Ever. A 1% price improvement drives 12.7% more profit. RightPrice simulates how your target audience responds to your price — you get a confidence score, a suggested optimal range, and a trial strategy recommendation in minutes.
+The average SaaS company spends 8 hours total on pricing. Ever. A 1% price improvement drives 12.7% more profit than a 1% reduction in costs.
 
-**What you get:** Confidence score · Price assessment · Suggested price range · 12 buyer personas · Trial strategy recommendation · Competitive context · Actionable next steps
+RightPrice simulates how your target audience responds to your price - you get a confidence score, a suggested optimal range, and a trial strategy recommendation in minutes.
+
+**What you get:** Confidence score - price assessment (too high / optimal / too low) - suggested price range - 12 buyer persona reactions - trial strategy recommendation - competitive context - actionable next steps
 
 <table>
   <tr>
@@ -107,15 +113,17 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-price' | relative_url }}){: .btn } [Validate your price →](https://www.rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightprice){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-price' | relative_url }}){: .btn } [Validate your price](https://www.rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightprice){: .btn .btn-green }
 
 ---
 
-## RightMessaging — Does your copy convert?
+## RightMessaging - Does your copy convert?
 
-68% of visitors leave without scrolling past the hero. You have 10 seconds before a visitor decides whether your page is worth their time. RightMessaging tests your headlines, CTAs, and landing page sections against simulated buyers — see exactly where they drop off and which rewrites would improve conversion.
+68% of visitors leave without scrolling past the hero. You have 10 seconds before a visitor decides whether your page is worth their time.
 
-**What you get:** Conversion likelihood score · Emotional resonance · Clarity score · CTA effectiveness · Objection signals · Alternative copy suggestions · Persona breakdown
+RightMessaging tests your headlines, CTAs, and landing page sections against simulated buyers - you see exactly where they drop off and which rewrites would move conversion.
+
+**What you get:** Conversion likelihood score - emotional resonance - clarity score - CTA effectiveness - objection signals - alternative copy suggestions - persona breakdown
 
 <table>
   <tr>
@@ -124,15 +132,17 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-messaging' | relative_url }}){: .btn } [Test your messaging →](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightmessaging){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-messaging' | relative_url }}){: .btn } [Test your messaging](https://www.rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightmessaging){: .btn .btn-green }
 
 ---
 
-## RightEngagement — Will they respond?
+## RightEngagement - Will they respond?
 
-85% of cold outreach is deleted before the second sentence. RightEngagement simulates how your target buyers respond to cold emails, LinkedIn DMs, X DMs, and multi-step sequences. Know what lands before you hit send.
+85% of cold outreach is deleted before the second sentence.
 
-**What you get:** Predicted open rate · Reply intent score · Sequence drop-off analysis · Tone diagnosis · Objection signals · Optimized variants with projected uplift
+RightEngagement simulates how your target buyers respond to cold emails, LinkedIn DMs, X DMs, and multi-step sequences. You find out what lands before you hit send - before you burn the list.
+
+**What you get:** Predicted open rate - reply intent score - sequence drop-off analysis - tone diagnosis - objection signals - optimized variants with projected uplift
 
 <table>
   <tr>
@@ -141,15 +151,17 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-engagement' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightengagement){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-engagement' | relative_url }}){: .btn } [Run a simulation](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightengagement){: .btn .btn-green }
 
 ---
 
-## RightChannel — Where should you show up?
+## RightChannel - Where should you show up?
 
-80% of founders bet on the wrong channel first and burn 3-6 months finding out. RightChannel evaluates every distribution channel against your ICP — SEO, communities, Product Hunt, LinkedIn, paid, partnerships — and ranks them by where your buyers actually pay attention.
+80% of founders bet on the wrong channel first and burn 3-6 months finding out.
 
-**What you get:** Channel conversion rankings · Effort-to-return matrix · Buyer discovery patterns · Channel-message fit scores · Community and partnership signals · Channel sequencing recommendation
+RightChannel evaluates every distribution channel against your ICP - SEO, communities, Product Hunt, LinkedIn, paid, partnerships - and ranks them by where your buyers actually pay attention.
+
+**What you get:** Channel conversion rankings - effort-to-return matrix - buyer discovery patterns - channel-message fit scores - community and partnership signals - channel sequencing recommendation
 
 <table>
   <tr>
@@ -158,15 +170,17 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-channel' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightchannel){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-channel' | relative_url }}){: .btn } [Run a simulation](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightchannel){: .btn .btn-green }
 
 ---
 
-## RightAd — Will your ad work?
+## RightAd - Will your ad work?
 
-62% of ad budget is spent on creative that never stopped the scroll. You have 2 seconds before a mid-scroll buyer is gone. RightAd simulates whether your paid creative stops the scroll across Meta, Google Ads, LinkedIn, TikTok, and more. Test before you spend.
+62% of ad budget is spent on creative that never stopped the scroll. You have 2 seconds before a mid-scroll buyer is gone.
 
-**What you get:** Hook strength score · Click intent score · Audience-creative fit · Creative fatigue prediction · Objection triggers · Copy clarity score · Winning variant recommendation
+RightAd simulates whether your paid creative stops the scroll across Meta, Google Ads, LinkedIn, TikTok, and more. Test before you spend.
+
+**What you get:** Hook strength score - click intent score - audience-creative fit - creative fatigue prediction - objection triggers - copy clarity score - winning variant recommendation
 
 <table>
   <tr>
@@ -175,4 +189,4 @@ The average SaaS company spends 8 hours total on pricing. Ever. A 1% price impro
   </tr>
 </table>
 
-[Full docs]({{ '/docs/products/right-ad' | relative_url }}){: .btn } [Run a simulation →](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightad){: .btn .btn-green }
+[Full docs]({{ '/docs/products/right-ad' | relative_url }}){: .btn } [Run a simulation](https://www.rightsuite.co/products/right-ad?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=products-rightad){: .btn .btn-green }

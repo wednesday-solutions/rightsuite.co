@@ -13,29 +13,29 @@ nav_order: 6
 
 **Where should you show up?**
 
-Test which channels — SEO, paid ads, communities, Product Hunt, partnerships — bring the buyers most likely to convert for your specific offer. Stop betting on a channel and find out before you commit 6 months to it.
+Test which channels - SEO, paid ads, communities, Product Hunt, partnerships - bring the buyers most likely to convert for your specific offer. Stop betting on a channel and find out before you commit 6 months to it.
 
-[← Back to Right Suite](../../README.md) | [→ Run a simulation](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-channel)
+[← Back to Right Suite](../../README.md) | [Run a simulation](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-channel)
 
 ---
 
 ## The Problem
 
-Every founder is told to "pick one channel and go deep." That advice is right. But which channel?
+Every founder is told to pick one channel and go deep. That's right. But which channel?
 
-The answer depends on where your specific audience spends time, how they discover products like yours, and whether they're in buying mode when they're there. The wrong channel doesn't just waste spend — it wastes the months you spend building an audience that doesn't convert. By the time you realize it, the opportunity cost is gone.
+The answer depends on where your specific audience spends time, how they discover products like yours, and whether they're in buying mode when they're there. The wrong channel doesn't just waste spend - it wastes the months you spend building an audience that doesn't convert. By the time you realize it, the opportunity cost is gone.
 
-> 80% of founders bet on the wrong channel first and burn 3-6 months finding out. 4x faster traction when your first channel matches where your buyers already are.
+> 80% of founders bet on the wrong channel first and burn 3-6 months finding out. Traction comes 4x faster when your first channel matches where your buyers already are.
 
 ---
 
 ## How It Works
 
 **1. Describe your offer, audience, and candidate channels**
-Share what you're building, who your ICP is, and the channels you're considering — or let the simulation suggest candidates based on your audience profile.
+Share what you're building, who your ICP is, and the channels you're considering - or let the simulation suggest candidates based on your audience profile.
 
 **2. Simulation runs**
-The simulation models how your target buyers behave across simulated channel environments — search, communities, LinkedIn, paid, content, partnerships, and more. It evaluates where buyers in your category actually discover new tools, what mode they're in when they encounter them, and how well your offer fits each channel's context.
+The simulation models how your target buyers behave across simulated channel environments - search, communities, LinkedIn, paid, content, partnerships, and more. It evaluates where buyers in your category actually discover new tools, what mode they're in when they encounter them, and how well your offer fits each channel's context.
 
 **3. Read your report**
 Channel-by-channel fit scores, effort-to-return estimates, buyer discovery patterns, and a recommended sequencing for which channels to attack first.
@@ -78,7 +78,7 @@ Channel-by-channel fit scores, effort-to-return estimates, buyer discovery patte
 - LinkedIn (organic and paid)
 - Product Hunt
 - Reddit and niche communities
-- X (Twitter) — organic and paid
+- X (Twitter) - organic and paid
 - Meta Ads (Facebook / Instagram)
 - Google Ads
 - TikTok
@@ -106,11 +106,11 @@ Run RightChannel first to decide whether paid is the right channel. Then run Rig
 
 RightChannel is step 6 in the GTM journey:
 
-5. **RightEngagement** — Test cold outreach before burning your list
-6. **RightChannel** — Decide where to invest distribution
-7. **RightAd** — Test paid creative before spending media budget
+5. **RightEngagement** - Test cold outreach before burning your list
+6. **RightChannel** - Decide where to invest distribution
+7. **RightAd** - Test paid creative before spending media budget
 
-You don't have to run them in order. But if you're unsure whether to invest in paid ads vs. community vs. SEO, start with RightChannel — it gives the channel decision the same data-backed confidence that RightPrice gives pricing.
+If you're unsure whether to invest in paid vs. community vs. SEO, start with RightChannel. It gives the channel decision the same data-backed confidence that RightPrice gives pricing.
 
 ---
 
@@ -124,16 +124,16 @@ You don't have to run them in order. But if you're unsure whether to invest in p
 
 ## Who Uses This
 
-- [RightChannel for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-channel/) — pick the right first channel before you commit 6 months to the wrong one
-- [RightChannel for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-channel/) — find where your new ideal clients are, not where your old ones came from
-- [RightChannel for Growth Teams](../../use-cases/growth-teams/right-channel/) — validate channel expansion before hiring headcount for it
-- [RightChannel for Indie Hackers](../../use-cases/indie-hackers/right-channel/) — avoid the Twitter/Product Hunt echo chamber and find where your buyers actually are
+- [RightChannel for SaaS Founders Pre-Traction](../../use-cases/saas-founders/right-channel/) - pick the right first channel before you commit 6 months to the wrong one
+- [RightChannel for Agency Founders Repositioning](../../use-cases/agency-repositioning/right-channel/) - find where your new ideal clients are, not where your old ones came from
+- [RightChannel for Growth Teams](../../use-cases/growth-teams/right-channel/) - validate channel expansion before hiring headcount for it
+- [RightChannel for Indie Hackers](../../use-cases/indie-hackers/right-channel/) - avoid the Twitter/Product Hunt echo chamber and find where your buyers actually are
 
 ---
 
 ## Status
 
-**Live** — available at [www.rightsuite.co/products/right-channel](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-channel)
+Live - [www.rightsuite.co/products/right-channel](https://www.rightsuite.co/products/right-channel?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=productdoc-right-channel)
 
 ---
 
