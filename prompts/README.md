@@ -6,7 +6,7 @@ has_children: true
 ---
 
 <p align="center">
-  <img src="../assets/logo.svg" alt="Right Suite" width="48" height="48" />
+  <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="48" height="48" />
 </p>
 
 # GTM Validation Prompt Library
