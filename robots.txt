@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wednesday-solutions.github.io/rightsuite.co/sitemap.xml
+Sitemap: https://docs.rightsuite.co/sitemap.xml
