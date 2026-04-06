@@ -126,7 +126,7 @@
 </head>
 <body>
   <!-- Mobile top bar -->
-  <header class="mobile-topbar">
+  <header class="mobile-topbar" data-pagefind-ignore>
     <a href="{{ '/' | relative_url }}" class="mobile-topbar-logo">
       <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="24" height="24">
       <span>Right Suite <span class="logo-sub">Docs</span></span>
@@ -144,7 +144,7 @@
   <div class="layout">
 
     <!-- Sidebar -->
-    <aside class="sidebar" id="sidebar">
+    <aside class="sidebar" id="sidebar" data-pagefind-ignore>
       <div class="sidebar-logo">
         <a href="{{ '/' | relative_url }}">
           <img src="{{ '/assets/logo.svg' | relative_url }}" alt="Right Suite" width="26" height="26">
@@ -226,7 +226,7 @@
         </nav>
       {% endif %}
 
-      <article class="content">
+      <article class="content" data-pagefind-body>
         {{ content }}
       </article>
 
@@ -312,7 +312,7 @@
       gap: 8px;
       width: 100%;
       padding: 7px 10px;
-      margin: 8px 0 4px;
+      margin: 16px 0 12px;
       background: #f4f4f5;
       border: 1px solid #e4e4e7;
       border-radius: 8px;
@@ -345,56 +345,102 @@
       display: flex;
       align-items: flex-start;
       justify-content: center;
-      padding-top: 80px;
+      padding-top: 72px;
     }
     .search-modal[hidden] { display: none; }
     .search-modal-backdrop {
-      position: absolute;
+      position: fixed;
       inset: 0;
-      background: rgba(0,0,0,0.4);
+      background: rgba(0,0,0,0.45);
+      backdrop-filter: blur(2px);
+      -webkit-backdrop-filter: blur(2px);
     }
     .search-modal-box {
       position: relative;
+      z-index: 1;
       width: 100%;
-      max-width: 560px;
-      margin: 0 16px;
+      max-width: 580px;
+      margin: 0 20px;
       background: #fff;
-      border-radius: 12px;
-      box-shadow: 0 20px 60px rgba(0,0,0,0.18);
+      border-radius: 14px;
+      box-shadow: 0 24px 80px rgba(0,0,0,0.22);
       overflow: hidden;
     }
-    #pagefind-search .pagefind-ui__form { border-bottom: 1px solid #f0f0f0; }
+    /* Pagefind UI overrides */
+    #pagefind-search { --pagefind-ui-font: "DM Sans", sans-serif; }
+    #pagefind-search .pagefind-ui__form::before { display: none; }
     #pagefind-search .pagefind-ui__search-input {
-      font-family: "DM Sans", sans-serif;
-      font-size: 1rem;
-      padding: 16px 20px;
-      border: none;
-      outline: none;
-      width: 100%;
-      background: transparent;
+      font-family: "DM Sans", sans-serif !important;
+      font-size: 1rem !important;
+      padding: 18px 20px 18px 48px !important;
+      border: none !important;
+      border-bottom: 1px solid #f0f0f0 !important;
+      border-radius: 0 !important;
+      outline: none !important;
+      box-shadow: none !important;
+      background: transparent !important;
+      width: 100% !important;
+      color: #18181b !important;
     }
-    #pagefind-search .pagefind-ui__results {
-      max-height: 420px;
-      overflow-y: auto;
-      padding: 8px 0;
-    }
-    #pagefind-search .pagefind-ui__result {
-      padding: 10px 20px;
-    }
-    #pagefind-search .pagefind-ui__result:hover { background: #f9fafb; }
-    #pagefind-search .pagefind-ui__result-title {
-      font-family: "DM Sans", sans-serif;
-      font-size: 0.9375rem;
-      font-weight: 500;
-      color: #18181b;
-    }
-    #pagefind-search .pagefind-ui__result-excerpt {
+    #pagefind-search .pagefind-ui__search-clear {
       font-family: "DM Sans", sans-serif;
       font-size: 0.8125rem;
       color: #71717a;
-      margin-top: 2px;
+      background: #f4f4f5;
+      border: none;
+      border-radius: 6px;
+      padding: 4px 10px;
+      cursor: pointer;
+      margin-right: 12px;
     }
-    #pagefind-search mark { background: #ccfbf1; color: #0f766e; border-radius: 2px; }
+    #pagefind-search .pagefind-ui__results-area { margin: 0; padding: 0; }
+    #pagefind-search .pagefind-ui__results {
+      max-height: 440px;
+      overflow-y: auto;
+      padding: 6px 0 10px;
+      margin: 0;
+    }
+    #pagefind-search .pagefind-ui__result {
+      padding: 12px 20px;
+      border-bottom: 1px solid #f4f4f5;
+      list-style: none;
+    }
+    #pagefind-search .pagefind-ui__result:last-child { border-bottom: none; }
+    #pagefind-search .pagefind-ui__result:hover { background: #f9fafb; }
+    #pagefind-search .pagefind-ui__result-link {
+      font-family: "DM Sans", sans-serif !important;
+      font-size: 0.9375rem !important;
+      font-weight: 500 !important;
+      color: #18181b !important;
+      text-decoration: none !important;
+    }
+    #pagefind-search .pagefind-ui__result-link:hover { color: #0d9488 !important; }
+    #pagefind-search .pagefind-ui__result-excerpt {
+      font-family: "DM Sans", sans-serif !important;
+      font-size: 0.8125rem !important;
+      color: #71717a !important;
+      margin-top: 3px !important;
+      line-height: 1.5 !important;
+    }
+    #pagefind-search .pagefind-ui__message {
+      font-family: "DM Sans", sans-serif;
+      font-size: 0.875rem;
+      color: #71717a;
+      padding: 16px 20px;
+    }
+    #pagefind-search .pagefind-ui__button {
+      font-family: "DM Sans", sans-serif;
+      font-size: 0.875rem;
+      color: #0d9488;
+      background: none;
+      border: 1px solid #0d9488;
+      border-radius: 8px;
+      padding: 8px 16px;
+      margin: 8px 20px 16px;
+      cursor: pointer;
+      display: block;
+    }
+    #pagefind-search mark { background: #ccfbf1; color: #0f766e; border-radius: 2px; padding: 0 2px; }
   </style>
 
   <!-- PostHog Analytics — autocapture off to preserve event quota -->
