@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css">
   <link rel="icon" href="{{ '/assets/favicon.ico' | relative_url }}" sizes="any">
   <link rel="icon" href="{{ '/assets/logo.svg' | relative_url }}" type="image/svg+xml">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon-32x32.png' | relative_url }}">
@@ -151,6 +152,22 @@
         </a>
       </div>
 
+      <button class="search-trigger" id="searchTrigger" aria-label="Search docs">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+          <circle cx="6" cy="6" r="4.5" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M9.5 9.5L12 12" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <span>Search</span>
+        <kbd>⌘K</kbd>
+      </button>
+
+      <div id="searchModal" class="search-modal" role="dialog" aria-modal="true" aria-label="Search" hidden>
+        <div class="search-modal-backdrop" id="searchBackdrop"></div>
+        <div class="search-modal-box">
+          <div id="pagefind-search"></div>
+        </div>
+      </div>
+
       <nav class="sidebar-nav">
         {% assign top_pages = site.pages | where_exp: "p", "p.nav_order != nil and p.parent == nil" | sort: "nav_order" %}
         {% for p in top_pages %}
@@ -245,6 +262,141 @@
       {% endif %}
     </div>
   </div>
+  <script src="/pagefind/pagefind-ui.js"></script>
+  <script>
+    (function() {
+      var modal = document.getElementById('searchModal');
+      var trigger = document.getElementById('searchTrigger');
+      var backdrop = document.getElementById('searchBackdrop');
+      var pf = null;
+
+      function openSearch() {
+        modal.hidden = false;
+        document.body.style.overflow = 'hidden';
+        if (!pf) {
+          pf = new PagefindUI({
+            element: '#pagefind-search',
+            showImages: false,
+            showSubResults: false,
+            resetStyles: false
+          });
+        }
+        setTimeout(function() {
+          var input = modal.querySelector('input[type=text]');
+          if (input) input.focus();
+        }, 50);
+      }
+
+      function closeSearch() {
+        modal.hidden = true;
+        document.body.style.overflow = '';
+      }
+
+      if (trigger) trigger.addEventListener('click', openSearch);
+      if (backdrop) backdrop.addEventListener('click', closeSearch);
+
+      document.addEventListener('keydown', function(e) {
+        if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+          e.preventDefault();
+          modal.hidden ? openSearch() : closeSearch();
+        }
+        if (e.key === 'Escape' && !modal.hidden) closeSearch();
+      });
+    })();
+  </script>
+
+  <style>
+    .search-trigger {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      width: 100%;
+      padding: 7px 10px;
+      margin: 8px 0 4px;
+      background: #f4f4f5;
+      border: 1px solid #e4e4e7;
+      border-radius: 8px;
+      color: #71717a;
+      font-size: 0.8125rem;
+      font-family: "DM Sans", sans-serif;
+      cursor: pointer;
+      text-align: left;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .search-trigger:hover {
+      background: #efefef;
+      border-color: #d4d4d8;
+      color: #52525b;
+    }
+    .search-trigger span { flex: 1; }
+    .search-trigger kbd {
+      font-size: 0.6875rem;
+      font-family: "DM Mono", monospace;
+      background: #fff;
+      border: 1px solid #e4e4e7;
+      border-radius: 4px;
+      padding: 1px 5px;
+      color: #a1a1aa;
+    }
+    .search-modal {
+      position: fixed;
+      inset: 0;
+      z-index: 1000;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      padding-top: 80px;
+    }
+    .search-modal[hidden] { display: none; }
+    .search-modal-backdrop {
+      position: absolute;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+    }
+    .search-modal-box {
+      position: relative;
+      width: 100%;
+      max-width: 560px;
+      margin: 0 16px;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.18);
+      overflow: hidden;
+    }
+    #pagefind-search .pagefind-ui__form { border-bottom: 1px solid #f0f0f0; }
+    #pagefind-search .pagefind-ui__search-input {
+      font-family: "DM Sans", sans-serif;
+      font-size: 1rem;
+      padding: 16px 20px;
+      border: none;
+      outline: none;
+      width: 100%;
+      background: transparent;
+    }
+    #pagefind-search .pagefind-ui__results {
+      max-height: 420px;
+      overflow-y: auto;
+      padding: 8px 0;
+    }
+    #pagefind-search .pagefind-ui__result {
+      padding: 10px 20px;
+    }
+    #pagefind-search .pagefind-ui__result:hover { background: #f9fafb; }
+    #pagefind-search .pagefind-ui__result-title {
+      font-family: "DM Sans", sans-serif;
+      font-size: 0.9375rem;
+      font-weight: 500;
+      color: #18181b;
+    }
+    #pagefind-search .pagefind-ui__result-excerpt {
+      font-family: "DM Sans", sans-serif;
+      font-size: 0.8125rem;
+      color: #71717a;
+      margin-top: 2px;
+    }
+    #pagefind-search mark { background: #ccfbf1; color: #0f766e; border-radius: 2px; }
+  </style>
+
   <!-- PostHog Analytics — autocapture off to preserve event quota -->
   <script>
     !function(t,e){var o,n,p,r;e.__SV||(window.posthog=e,e._i=[],e.init=function(i,s,a){function g(t,e){var o=e.split(".");2==o.length&&(t=t[o[0]],e=o[1]),t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}}(p=t.createElement("script")).type="text/javascript",p.crossOrigin="anonymous",p.async=!0,p.src=s.api_host.replace(".i.posthog.com","-assets.i.posthog.com")+"/static/array.js",(r=t.getElementsByTagName("script")[0]).parentNode.insertBefore(p,r);var u=e;for(void 0!==a?u=e[a]=[]:a="posthog",u.people=u.people||[],u.toString=function(t){var e="posthog";return"posthog"!==a&&(e+="."+a),t||(e+=" (stub)"),e},u.people.toString=function(){return u.toString(1)+" (stub)"},o="capture identify alias reset opt_in_capturing opt_out_capturing has_opted_in_capturing has_opted_out_capturing init".split(" "),n=0;n<o.length;n++)g(u,o[n]);e._i.push([i,s,a])},e.__SV=1)}(document,window.posthog||[]);
