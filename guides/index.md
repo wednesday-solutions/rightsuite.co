@@ -8,7 +8,18 @@ description: "Practical guides for founders diagnosing GTM problems - pricing, m
 
 # Guides
 
-These guides are problem-first answers for founders diagnosing GTM issues. Each one starts with a specific symptom - low conversion, early churn, cold email silence - and walks through the diagnosis before suggesting a fix. No theory, no filler.
+Guides for founders diagnosing GTM problems and finding the right tool to fix them. Each guide covers a specific decision - pricing, messaging, audience, outreach, channel, or ad creative - and shows how Right Suite validates it before you spend.
+
+---
+
+## GTM Simulation
+
+- [What Is GTM Simulation (And How AI Does It)]({{ '/guides/what-is-gtm-simulation/' | relative_url }})
+- [Synthetic Buyer Simulation: What It Is and How It Works]({{ '/guides/synthetic-buyer-simulation/' | relative_url }})
+- [SaaS Pre-Launch GTM Checklist: 7 Things to Validate Before You Spend]({{ '/guides/saas-pre-launch-gtm-checklist/' | relative_url }})
+- [How to Validate a Go-to-Market Strategy Before You Commit]({{ '/guides/how-to-validate-go-to-market-strategy/' | relative_url }})
+- [AI Tools for GTM Validation: What Actually Works]({{ '/guides/ai-tools-gtm-validation/' | relative_url }})
+- [How to Simulate Buyer Reactions Before You Launch]({{ '/guides/simulate-buyer-reactions-before-launch/' | relative_url }})
 
 ---
 
@@ -16,6 +27,9 @@ These guides are problem-first answers for founders diagnosing GTM issues. Each 
 
 Powered by [RightAudience]({{ '/docs/products/right-audience/' | relative_url }})
 
+- [ICP Validation Tool for SaaS: Find Your Best Segment Before You Spend]({{ '/guides/icp-validation-tool/' | relative_url }})
+- [How to Validate Your ICP Before You Spend on Marketing]({{ '/guides/how-to-validate-icp/' | relative_url }})
+- [AI Tools for ICP Validation: How to Find Your Best Customer Segment Faster]({{ '/guides/ai-tools-icp-validation/' | relative_url }})
 - [How to Find Your ICP When You Have No Customers Yet]({{ '/guides/how-to-find-your-icp/' | relative_url }})
 - [Why Your SaaS Customers Are Churning Early]({{ '/guides/saas-customers-churning-early/' | relative_url }})
 - [How to Choose Between Two Target Audiences]({{ '/guides/how-to-choose-between-two-target-audiences/' | relative_url }})
@@ -29,10 +43,13 @@ Powered by [RightAudience]({{ '/docs/products/right-audience/' | relative_url }}
 
 ---
 
-## Differentiation
+## Differentiation & Positioning
 
 Powered by [RightPositioning]({{ '/docs/products/right-positioning/' | relative_url }})
 
+- [SaaS Positioning Tool: See How Buyers Compare You to Competitors]({{ '/guides/saas-positioning-tool/' | relative_url }})
+- [How to Validate Your SaaS Positioning Before You Publish It]({{ '/guides/how-to-validate-saas-positioning/' | relative_url }})
+- [AI Tools for SaaS Positioning and Competitive Differentiation]({{ '/guides/ai-tools-saas-positioning/' | relative_url }})
 - [What to Do When Your SaaS Looks Exactly Like the Competition]({{ '/guides/saas-looks-like-competitors/' | relative_url }})
 - [Why Nobody Is Buying Your SaaS]({{ '/guides/why-is-nobody-buying-my-saas/' | relative_url }})
 - [How to Differentiate a SaaS Product in a Crowded Market]({{ '/guides/how-to-differentiate-a-saas-product/' | relative_url }})
@@ -48,6 +65,11 @@ Powered by [RightPositioning]({{ '/docs/products/right-positioning/' | relative_
 
 Powered by [RightPrice]({{ '/docs/products/right-price/' | relative_url }})
 
+- [SaaS Pricing Tool: Validate Your Price Before Your Next Sales Call]({{ '/guides/saas-pricing-tool/' | relative_url }})
+- [How to Price a New SaaS Product From Scratch]({{ '/guides/how-to-price-a-new-saas-product/' | relative_url }})
+- [How to Run a Price Sensitivity Analysis for Your SaaS]({{ '/guides/price-sensitivity-analysis-saas/' | relative_url }})
+- [AI Tools for SaaS Pricing: What Works and What Doesn't]({{ '/guides/ai-tools-saas-pricing/' | relative_url }})
+- [How to Choose the Right Pricing Model for Your SaaS]({{ '/guides/how-to-choose-saas-pricing-model/' | relative_url }})
 - [What to Do When Your SaaS Pricing Isn't Working]({{ '/guides/saas-pricing-not-working/' | relative_url }})
 - [How to Know If You're Undercharging]({{ '/guides/am-i-undercharging-for-my-saas/' | relative_url }})
 - [Why Prospects Ask About Price Then Disappear]({{ '/guides/price-objections-saas/' | relative_url }})
@@ -59,10 +81,13 @@ Powered by [RightPrice]({{ '/docs/products/right-price/' | relative_url }})
 
 ---
 
-## Website Copy
+## Website Copy & Messaging
 
 Powered by [RightMessaging]({{ '/docs/products/right-messaging/' | relative_url }})
 
+- [SaaS Messaging Tool: Test Your Landing Page Copy Before You Run Traffic]({{ '/guides/saas-messaging-tool/' | relative_url }})
+- [How to Test Your SaaS Messaging Before It Goes Live]({{ '/guides/how-to-test-saas-messaging/' | relative_url }})
+- [AI Tools for Testing SaaS Landing Pages and Website Copy]({{ '/guides/ai-tools-saas-landing-page-testing/' | relative_url }})
 - [Why People Land on Your Website But Don't Convert]({{ '/guides/website-visitors-not-converting/' | relative_url }})
 - [How to Check If Your Website Messaging Is Working]({{ '/guides/how-to-check-website-messaging/' | relative_url }})
 - [Why Your Landing Page Isn't Converting]({{ '/guides/landing-page-not-converting/' | relative_url }})
@@ -77,6 +102,9 @@ Powered by [RightMessaging]({{ '/docs/products/right-messaging/' | relative_url 
 
 Powered by [RightEngagement]({{ '/docs/products/right-engagement/' | relative_url }})
 
+- [Cold Email Testing Tool: Simulate Buyer Reactions Before You Hit Send]({{ '/guides/cold-email-testing-tool/' | relative_url }})
+- [How to Test Cold Email Before You Send It]({{ '/guides/how-to-test-cold-email-before-sending/' | relative_url }})
+- [AI Tools for Cold Email Testing: How to Validate Outreach Before You Hit Send]({{ '/guides/ai-tools-cold-email-testing/' | relative_url }})
 - [Why Your Cold Emails Aren't Getting Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }})
 - [Why Your Outbound Isn't Working]({{ '/guides/outbound-not-working/' | relative_url }})
 - [How to Write Cold Emails That Actually Get Responses]({{ '/guides/cold-email-that-gets-responses/' | relative_url }})
@@ -88,10 +116,13 @@ Powered by [RightEngagement]({{ '/docs/products/right-engagement/' | relative_ur
 
 ---
 
-## Distribution
+## Distribution & Channel
 
 Powered by [RightChannel]({{ '/docs/products/right-channel/' | relative_url }})
 
+- [Marketing Channel Selection Tool for SaaS: Know Where Your Buyers Are Before You Commit]({{ '/guides/marketing-channel-tool/' | relative_url }})
+- [How to Validate a Marketing Channel Before You Commit 3 Months to It]({{ '/guides/how-to-validate-marketing-channel/' | relative_url }})
+- [AI Tools for Choosing the Right Marketing Channel for Your SaaS]({{ '/guides/ai-tools-marketing-channel-selection/' | relative_url }})
 - [Which Marketing Channel Should You Use for Your SaaS]({{ '/guides/which-marketing-channel-for-saas/' | relative_url }})
 - [Your Product Hunt Launch Didn't Work. Now What?]({{ '/guides/product-hunt-launch-didnt-work/' | relative_url }})
 - [SEO vs Paid Ads: Which Is Right for Your Stage]({{ '/guides/seo-vs-paid-ads-for-startups/' | relative_url }})
@@ -106,6 +137,8 @@ Powered by [RightChannel]({{ '/docs/products/right-channel/' | relative_url }})
 
 Powered by [RightAd]({{ '/docs/products/right-ad/' | relative_url }})
 
+- [Ad Creative Testing Tool: Know If Your Ad Will Work Before You Spend]({{ '/guides/ad-creative-testing-tool/' | relative_url }})
+- [AI Tools for Ad Creative Testing: How to Know If Your Ad Will Work Before You Spend]({{ '/guides/ai-tools-ad-creative-testing/' | relative_url }})
 - [Why Your Facebook Ads Aren't Working]({{ '/guides/facebook-ads-not-working/' | relative_url }})
 - [How to Test Ad Creative Before Spending Your Budget]({{ '/guides/test-ad-creative-before-spending/' | relative_url }})
 - [Why Your Ads Get Clicks But No Conversions]({{ '/guides/ads-clicks-no-conversions/' | relative_url }})
