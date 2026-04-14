@@ -16,6 +16,10 @@ Guides for founders diagnosing GTM problems and finding the right tool to fix th
 
 - [What Is GTM Simulation (And How AI Does It)]({{ '/guides/what-is-gtm-simulation/' | relative_url }})
 - [Synthetic Buyer Simulation: What It Is and How It Works]({{ '/guides/synthetic-buyer-simulation/' | relative_url }})
+- [How to Run Your First GTM Simulation: A Step-by-Step Guide]({{ '/guides/how-to-run-your-first-gtm-simulation/' | relative_url }})
+- [GTM Validation Tools for SaaS Founders: What to Use for Each Decision]({{ '/guides/gtm-validation-tools-saas/' | relative_url }})
+- [Synthetic Buyers vs User Research: Which Should You Use for GTM Validation?]({{ '/guides/synthetic-buyers-vs-user-research/' | relative_url }})
+- [GTM Simulation vs Traditional Market Research: What's Actually Different]({{ '/guides/gtm-simulation-vs-traditional-testing/' | relative_url }})
 - [SaaS Pre-Launch GTM Checklist: 7 Things to Validate Before You Spend]({{ '/guides/saas-pre-launch-gtm-checklist/' | relative_url }})
 - [How to Validate a Go-to-Market Strategy Before You Commit]({{ '/guides/how-to-validate-go-to-market-strategy/' | relative_url }})
 - [AI Tools for GTM Validation: What Actually Works]({{ '/guides/ai-tools-gtm-validation/' | relative_url }})
