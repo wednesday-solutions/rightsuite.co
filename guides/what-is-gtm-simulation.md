@@ -14,7 +14,9 @@ faq:
 
 # What Is GTM Simulation (And How AI Does It)
 
-The average SaaS company makes go-to-market decisions with almost no structured testing. Pricing gets set by gut feel. Copy gets written by the founder. Channels get picked by what the founder has seen work for someone else. Then months pass before the data shows whether any of it was right. GTM simulation changes that - it's the practice of testing every layer of your go-to-market before the first dollar of budget is committed.
+GTM simulation is the practice of running your go-to-market decisions - pricing, positioning, copy, outreach, channel, and ad creative - through synthetic buyer testing before you commit budget. Instead of waiting weeks for real buyer feedback, you describe your offer and 100+ AI-generated buyer personas react to it in minutes, returning scored outputs for each decision.
+
+The average SaaS company makes those same decisions with almost no structured testing. Pricing gets set by gut feel. Copy gets written by the founder. Channels get picked from what the founder has seen work for someone else. Then months pass before the data shows whether any of it was right. GTM simulation shortens that loop to hours.
 
 ## Why this happens
 
