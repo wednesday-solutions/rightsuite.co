@@ -1,58 +1,115 @@
 ---
 layout: default
-title: How to Write Cold Emails That Actually Get Responses
+title: "How Do I Write a Cold Email That Gets Replies? (Structure, Before/After and a Pre-Send Test)"
 parent: Guides
-description: "The cold emails that get replies share three traits: they prove research, name a specific pain, and ask for something small. Here's the framework."
+description: "Write the pain line first, open with a true detail about them, tie it to one outcome, and ask a question they can answer fast. Then test it."
 faq:
-  - q: "How do I write a cold email that gets a response?"
-    a: "Start with the pain line, not the subject line. Before you write anything else, write one sentence that describes the specific problem your prospect has, in their language. If you can't write that sentence clearly, the email isn't ready. Once that sentence is strong, the rest of the structure follows: prove research in the opening line, name the pain in line two, connect your product to the outcome in line three, and ask one small answerable question."
-  - q: "What makes a cold email effective?"
-    a: "Three things: the opening line proves the sender did real research, the pain line names a specific problem in the recipient's language rather than the sender's solution-language, and the CTA asks for something small enough to answer in under 10 seconds. Cold emails that get replies feel like they were written for one person. Cold emails that don't feel like they were written for a list."
+  - q: "How do I write a cold email that gets replies?"
+    a: "Write the pain line first: one sentence describing the prospect's problem in their own words. Then add an opener that proves you looked at them specifically, one line linking your product to the outcome they want, and a question they can answer in a few seconds. Keep it short enough to read on a phone without scrolling, and test it on simulated buyers or a small batch before sending to your full list."
   - q: "How long should a cold email be?"
-    a: "Under 75 words. Cold emails under 75 words get 2x the reply rate of emails over 150 words. Shorter forces you to be specific. Long emails allow you to hedge, add features, and bury the point. If you can't make the case in 75 words, the case isn't clear enough yet."
+    a: "Short enough to read on a phone without scrolling, which usually means four or five sentences. Length is rarely the real problem, though. A long email is usually a sign you haven't decided which single problem you're writing about. Pick one and the email gets short on its own."
+  - q: "What should the call to action be in a cold email?"
+    a: "A question the prospect can answer in a few seconds without opening a calendar. 'Is this on your list this quarter?' or 'Worth a look?' are easy to answer. A calendar link or a request for 30 minutes asks a stranger for a commitment before they trust you."
+  - q: "Does AI personalisation still work in cold email?"
+    a: "Generic AI personalisation, like a compliment about someone's recent post bolted onto a template, now reads as automated because so many senders use it. What still works is relevance: a specific, true observation that connects to the problem you solve. If the first line could be swapped onto any other prospect's email, it isn't doing its job."
+  - q: "How do I know if my cold email will get replies before I send it?"
+    a: "Run it through RightEngagement, which shows how simulated buyers in your target segment react, including projected reply rate and the exact lines that made them delete it. Then send to a small batch from one segment before scaling to the full list."
 ---
 
-# How to Write Cold Emails That Actually Get Responses
+# How Do I Write a Cold Email That Gets Replies?
 
-The cold emails that get replies aren't the ones with the best subject lines. They're the ones that prove, in the first sentence, that the sender knows something specific about the recipient's situation. Subject lines earn the open. The opening line earns the read. The pain line earns the reply.
+Write the pain line first: one sentence naming the prospect's problem in their own words. Then add an opener that proves you looked at them, one line tying your product to the outcome they want, and a question they can answer in seconds. Keep it phone-length, and test it on simulated buyers before your list ever sees it.
 
-Cold emails under 75 words get 2x the reply rate of emails over 150 words. Length is usually a symptom of unclear thinking - if you know exactly what you're saying and to whom, 75 words is enough. If you need 200, you're still figuring it out.
+[RightEngagement](https://rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-cold-email-that-gets-responses) is the test. Paste your draft, describe who you're sending to, and watch simulated buyers in that segment open, reply or delete it, with the exact line that made them decide.
 
-## Why this happens
+[Test your cold email with RightEngagement](https://rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-cold-email-that-gets-responses){: .btn .btn-green }
 
-Most cold emails fail not because of length or timing or cadence, but because they're written from the product out. The sender knows the solution and describes it. The recipient has a problem they haven't necessarily connected to that solution. The email skips the step where the connection gets made.
+## Who this is for
 
-The result is an email that reads as a vendor pitch to someone who didn't ask for a pitch. Even if the product is relevant, the framing hasn't earned the right to make the case. The email gets deleted not because the reader isn't interested in the problem - but because the email didn't prove it understood the problem before selling the answer.
+You're writing cold email to B2B buyers who've never heard of you. You might be a founder doing your own outbound, or you have a sequence that's getting opens and no replies. This guide is about the single email. If you're building the follow-ups, read [how to build a B2B outreach sequence]({{ '/guides/b2b-sales-sequence/' | relative_url }}) next.
 
-## What to check first
+## What structure gets replies?
 
-Before you audit the subject line or test a new sequence tool, run four questions against the email you're currently sending:
+Four parts, written in this order. The order you write them matters more than the order they appear.
 
-1. **Does your opening line prove research?** Not "I came across your profile" - that proves you know how to use LinkedIn. "I saw you posted about SDR ramp time after your last two hires" proves you actually read something. The research has to be specific enough that a mail merge couldn't have generated it.
-2. **Does your pain line name the problem in their language or yours?** Your language: "optimize outbound efficiency." Their language: "we're sending 200 emails a week and booking two calls." One of these reads as familiar. The other reads as a vendor.
-3. **Is your CTA answerable in under 10 seconds?** "Let's find a time to connect this week or next" requires them to open a calendar, check availability, and decide whether you're worth 30 minutes - all from a cold email. "Does this match anything your team is dealing with right now?" takes four seconds to answer. Low-friction CTAs get more replies.
-4. **Does the email feel like it was written for one person or for a list?** If you removed the first name and the company name and the email could have been sent to 1,000 people, it reads that way. One genuine specific observation about the recipient - something real and current - changes the read entirely.
+### 1. Write the pain line first
 
-## How to fix it
+One sentence that describes the problem the way your prospect would say it to a colleague. "We send 200 emails a week and book two calls" is their language. "Optimise outbound efficiency" is yours.
 
-Write the pain line first. Before the subject line, before the opening, before the CTA - write one sentence that describes the specific problem your prospect has, in their words, not yours. This is the hardest part of the exercise. If you can't write it in one sentence, the email isn't ready. No amount of subject line testing will fix a message that doesn't know what problem it's addressing.
+Find their words in reviews of competitors, community threads, job posts and your own call notes. If you can't write this sentence clearly, stop. The email isn't ready, and no subject line will save it.
 
-Once you have the pain line, build the framework around it:
+### 2. Open with something true about them
 
-**Opening line - prove research.** One sentence. Reference something real and specific to this person or company. A job posting, a recent announcement, a public quote, a product update. Not generic flattery. Not category-level observations. Something that proves you spent more than 30 seconds on this recipient.
+The first line has to prove you looked at this person or company specifically. A job post, a launch, a hiring push, a change on their pricing page. "I came across your profile" proves nothing. The test: could a mail merge have written this line? If yes, rewrite it.
 
-**Pain line - name the problem.** Use their language. Pull it from reviews, community posts, job descriptions, LinkedIn comments - anywhere your ICP describes the problem in their own words. The goal is for the recipient to read this line and think "yes, that's exactly it" before they know what you're selling.
+Tie the opener to the pain line. A random compliment followed by a pitch feels like two different emails stapled together.
 
-**Proof line - connect your product to the outcome.** One sentence. Not a feature list. Not a company description. A direct connection between the problem you just named and the specific outcome your product produces. "We help [your type of company] [achieve the outcome] without [the thing they hate doing]" is a useful structure, not a template.
+### 3. One line connecting you to the outcome
 
-**CTA - ask one small question.** Make it answerable. Make it relevant to the pain line. Make it something they can respond to without committing to anything. "Is this on your radar for this quarter?" works. "Here's my Calendly link" does not.
+Skip the feature list and the company intro. Say what changes for them. "We help [type of company] get [outcome] without [the part they hate]" is a useful shape to start from, as long as you fill it with specifics.
 
-## Remove the guesswork
+### 4. Ask a small question
 
-Knowing whether a cold email lands before you send it at volume is nearly impossible when you wrote it - you know what you meant, which makes it hard to see what the recipient actually reads. [RightEngagement]({{ '/docs/products/right-engagement/' | relative_url }}) tests your cold email and outreach sequences against simulated target buyers and returns a reply intent score, tone fit rating, and specific rewrite suggestions by section. You find out whether your opening line is proving research, whether your pain line is resonating, and whether your CTA is sized right for a cold first touch - before you scale.
+Make the ask answerable in a few seconds. "Is this on your radar this quarter?" or "Worth sending over the teardown?" A reply to a small question opens a conversation. The meeting comes after.
 
-[Test your cold email with RightEngagement](https://www.rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-cold-email-that-gets-responses){: .btn .btn-green }
+## A before and after
+
+Here's an illustrative example for a founder selling an onboarding-email tool to seed-stage SaaS companies.
+
+**Before**
+
+> Subject: Quick question
+>
+> Hi Sam, I hope this finds you well. I'm the founder of Acme Onboarding, an AI-powered platform that helps SaaS companies improve user onboarding with automated, personalised email flows. We integrate with all major tools and our customers love us. I'd love to set up 30 minutes to show you a demo. Here's my calendar link.
+
+What goes wrong: it opens with the sender, describes features, makes an unsupported claim ("customers love us"), and asks a stranger for 30 minutes. Nothing in it is about Sam.
+
+**After**
+
+> Subject: Your trial emails after day 3
+>
+> Hi Sam, I signed up for a Northwind trial last week. After the welcome email on day 1, nothing arrived until the "trial ending" email on day 14.
+>
+> That gap is usually where trial users drift off before they've set anything up.
+>
+> We write and run the day 2 to day 10 emails for seed-stage SaaS teams, triggered by what each user has or hasn't done.
+>
+> Want me to send the three emails I'd add first?
+
+What changed: the opener is a true, specific observation. The pain line names a problem Sam can check in five minutes. The product gets one line. The ask is a yes/no question that costs Sam nothing.
+
+## Symptom, check, fix
+
+| Symptom | Check | Fix |
+|---|---|---|
+| Opens, no replies | Is the first line about them or about you? | Lead with a specific observation; move your name and product down |
+| Polite "not interested" replies | Is the ask a meeting? | Ask a yes/no question instead |
+| No opens at all | Is the subject line vague or salesy? Is it landing in spam? | Make the subject specific to their situation; check deliverability |
+| Replies say "not relevant" | Does the pain line match this segment? | Rewrite the pain line from this segment's own words |
+| Feels like a template | Remove the name and company. Could it go to 1,000 people? | Add one true, current detail only this prospect would recognise |
+
+For more on why a sent email isn't working, see [why your cold emails aren't getting replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}). For first-line ideas that don't feel automated, see [how to personalize cold outreach]({{ '/guides/how-to-personalize-cold-outreach/' | relative_url }}).
+
+## How to test it with RightEngagement before you send
+
+You wrote the email, so you know what you meant. That makes it hard to read it the way a stranger will. Here's how to get an outside read in minutes.
+
+1. Open [RightEngagement](https://rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-cold-email-that-gets-responses) and pick **Cold email**.
+2. Describe your target audience the way you'd describe your list: "seed-stage B2B SaaS founders running a free trial".
+3. Paste the subject line and body.
+4. Watch the simulated buyers react, then read the report. It shows projected open, reply and book rates, a send-readiness check, a subject line score, the **killer lines** that triggered deletes, the hooks that worked, a tone diagnosis, and a rewritten version with the reasoning behind each change.
+5. Fix the killer line, rerun, and compare.
+
+A run uses one to three credits depending on how deep you go. Plans start at $4.99 a month for 15 credits, and the code FIRST50 gives you the first month of Starter free.
+
+Simulated buyers are a fast first read. Once the email passes, send it to a small batch from one segment and read the real replies before you scale. [How to test a cold email before sending]({{ '/guides/how-to-test-cold-email-before-sending/' | relative_url }}) covers that live test step by step.
+
+## Next step
+
+Write your pain line now, in one sentence. Build the email around it, then paste the draft into RightEngagement and fix whatever it flags before you send.
+
+[Run your draft through RightEngagement](https://rightsuite.co/products/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-cold-email-that-gets-responses){: .btn .btn-green }
 
 ---
 
-Related: [Why Your Cold Emails Aren't Getting Replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }}) - [RightEngagement product overview]({{ '/docs/products/right-engagement/' | relative_url }}) - [RightEngagement ROI Calculator](https://www.rightsuite.co/roi/right-engagement?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-engagement)
+Related: [Cold email subject lines]({{ '/guides/cold-email-subject-lines/' | relative_url }}) - [How to build a B2B outreach sequence]({{ '/guides/b2b-sales-sequence/' | relative_url }}) - [Why your cold emails aren't getting replies]({{ '/guides/cold-email-not-getting-replies/' | relative_url }})

@@ -1,55 +1,110 @@
 ---
 layout: default
-title: How to Know If You Have Product-Market Fit
+title: "How to Find Product-Market Fit Before Revenue: Signals and Tests for B2B SaaS (2026)"
 parent: Guides
-description: "Product-market fit isn't a feeling. It's a measurement. Here are the signals that tell you whether you have it - and what to fix if you don't."
+description: "Before revenue, look for commitment: buyers already paying to solve the problem, pilots used weekly without nudging, and people who prepay."
 faq:
-  - q: "How do I know if I have product-market fit?"
-    a: "Run the Sean Ellis test: survey your active users and ask 'How would you feel if you could no longer use this product?' If 40% or more say 'very disappointed,' you likely have product-market fit. Below 40%, you don't - but the data tells you what to fix. Look at the segment that answers 'very disappointed' and build everything around making more customers like them. The test is most reliable when run on users who have been active in the last two weeks and have used the product at least twice."
-  - q: "What are the signs of product-market fit?"
-    a: "The clearest signs: NPS above 40, organic word-of-mouth without prompting, annual churn below 5%, users who upgrade without being asked, and growth that feels like it's pulling rather than pushing. The inverse signals are equally telling: you can explain every churn individually (the sample size is too small and too specific to reveal a pattern), growth only happens when someone is actively pushing it, and demo-to-trial conversion requires significant hand-holding from your team."
-  - q: "How long does it take to find product-market fit?"
-    a: "The median time to product-market fit for successful B2B SaaS is 18-24 months from first paying customer. That number hides a wide range - some companies find it in 6 months, others take 3-4 years. The variable that matters most isn't time, it's iteration velocity: how quickly can you talk to customers, form a hypothesis, make a change, and measure the result. Teams that run monthly customer interviews find product-market fit faster than teams that rely on usage data alone."
+  - q: "How do you find product-market fit before you have revenue?"
+    a: "Look for commitment instead of compliments. Pick one narrow segment, confirm the problem is urgent enough that they already spend time or money on it, then ask for something that costs them: a paid pilot, a prepayment or a signed letter of intent. Watch whether pilot users come back each week without you chasing them. Each yes from a stranger is a signal; polite interest is not."
+  - q: "What are early signs of product-market fit in B2B SaaS?"
+    a: "Prospects describe the problem before you do, they've already tried to solve it, they agree to pay before the product is finished, pilot users return each week without reminders, they introduce you to colleagues, and they complain when something breaks. A single segment showing most of these is a stronger sign than mild interest spread across many."
+  - q: "What is the Sean Ellis 40% test?"
+    a: "Ask active users how they'd feel if they could no longer use the product. Sean Ellis found that products where at least 40% answer 'very disappointed' tend to grow well, as First Round Review describes in its write-up of Superhuman's process. It needs real active users, so pre-revenue teams can run it on pilot users once they have a couple of dozen."
+  - q: "How many customers do you need to know you have product-market fit?"
+    a: "There's no fixed number. What matters is whether one well-defined segment keeps saying yes on its own: paying, using the product every week and referring peers. Ten customers from the same segment who behave that way tell you more than fifty customers from ten different segments."
+  - q: "Can simulated buyers tell me if I have product-market fit?"
+    a: "No. Fit is shown by real people paying and staying. Simulated buyers help earlier, by telling you which segment shows the most intent and whether your price lands, so you spend your scarce real conversations on the most promising group."
 ---
 
-# How to Know If You Have Product-Market Fit
+# How to Find Product-Market Fit for a Pre-Revenue B2B SaaS
 
-Sean Ellis defined product-market fit as 40% of your users saying they'd be "very disappointed" if they couldn't use your product. Most founders don't measure it - they feel for it. The problem with feeling for it is that confidence and fit are easy to confuse when you're close to the product.
+Before revenue, you find product-market fit by collecting commitment from buyers, because compliments cost them nothing. Pick one narrow segment. Confirm they already spend time or money on the problem. Then ask for something that costs them: a paid pilot, a prepayment or a letter of intent. Strangers who say yes, and pilot users who come back weekly without nudging, are your earliest real signals.
 
-## Why this happens
+[RightAudience](https://rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-find-product-market-fit) helps you choose which segment to run those tests on. You describe your offer and price, pick two to four segments, and simulated buyers in each react, ranked by purchase intent with the barriers holding each one back.
 
-The median time to product-market fit for successful B2B SaaS is 18-24 months from first paying customer. That's not a long time in absolute terms, but it's a long time to make decisions without a clear signal that you're moving in the right direction. Most founders experience a period where some customers love the product, some churn quickly, and the signal is noisy enough that it's hard to tell whether you're close to fit or far from it.
+[Pick the segment to test first with RightAudience](https://rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-find-product-market-fit){: .btn .btn-green }
 
-The root cause of misreading fit is aggregating data across segments that don't belong together. A 30% "very disappointed" score looks like you're close to the 40% threshold - but if that 30% is concentrated entirely in one segment and the other segments are at 10%, you've already found fit in one market and are diluting the signal by selling to others simultaneously.
+## Who this is for
 
-## What to check first
+You're building B2B SaaS and you have little or no revenue. Maybe a few design partners, a waitlist, a prototype. Most product-market fit advice assumes hundreds of users you can survey and retention curves you can chart. You don't have those yet, so you need signals that work with five to twenty conversations.
 
-Four questions that give you a sharper picture than a single survey score:
+## What product-market fit means before revenue
 
-1. **Would customers pay more if you raised prices?** Customers with strong product-market fit don't push back hard on price increases - they accept them because the alternative (switching or going without) costs more than the increase. If a 20% price increase would cause significant churn, buyers are satisfied but not dependent.
+Marc Andreessen defined product-market fit as "being in a good market with a product that can satisfy that market" in [his 2007 essay](https://pmarchive.com/guide_to_startups_part4.html). Before revenue you can't prove the second half yet. You can find out whether the market half is real: whether a specific group has a problem urgent enough to pay for, and whether your early product makes them behave like buyers.
 
-2. **Do customers refer others unprompted?** Word-of-mouth that you didn't manufacture is the clearest behavioral signal of fit. Track whether new customers are coming from customer referrals, and whether those referrals are converting at a higher rate than other channels. Referred customers who convert well signal that your retained customers believe in the product enough to put their reputation behind it.
+So the job is to collect evidence of commitment from one segment. Opinions are cheap. Time, money and reputation are not.
 
-3. **Are you retaining 90%+ over 12 months?** Annual retention above 90% means your product is delivering enough ongoing value that customers see no reason to leave. Below 90%, you're losing more than 1 in 10 customers per year - compound that over 3 years and you've replaced your entire customer base twice.
+## The signal ladder: from weakest to strongest
 
-4. **Is your growth pulling or pushing?** Pulling growth: customers upgrade without prompting, your sales cycle is shortening as word spreads, inbound leads arrive with context about your product. Pushing growth: every new customer requires active selling, growth stops when your team stops pushing, and you can explain every deal as a one-time effort. Pulling growth is a fit signal. Pushing growth means demand isn't self-sustaining yet.
+| Signal | What it looks like | Strength |
+|---|---|---|
+| Interest | "Cool idea, keep me posted" | Weak |
+| Problem urgency | They describe the problem before you do and have tried to fix it | Medium |
+| Time commitment | They agree to a second call, share data, join a pilot | Medium |
+| Usage | Pilot users return each week without reminders | Strong |
+| Reputation | They introduce you to a colleague or their boss | Strong |
+| Money | Paid pilot, prepayment or signed LOI with a price | Strongest |
 
-## How to fix it
+Climb the ladder with one segment before you widen out.
 
-Run the Sean Ellis survey with your active users - users who have been active in the last two weeks and have used the product at least twice. Segment the results by company size, industry, and role. Don't aggregate.
+## Step by step: tests to run before you have many customers
 
-If your "very disappointed" score is above 40% in one segment and below 20% in others, you have fit in that segment. Stop trying to expand until you understand what makes that segment different and can use it to find more buyers like them.
+### Step 1: Narrow to one segment you can reach
 
-If your score is below 40% across all segments, find the 10 customers who are closest to "very disappointed" - the ones who scored the product 8-9 out of 10 on a satisfaction scale. Interview each one. Ask them: what specific job were you using the product for? What outcome did you get? What would you lose if the product disappeared tomorrow? Their answers will tell you which version of your product is closest to fit, which customers that version serves, and what you'd need to build or change to get there.
+Write down two to four candidate segments with role, company size, stage and the trigger that makes the problem urgent. Pick the one you can reach this month and whose problem looks most urgent. [How to find your ICP with no customers]({{ '/guides/how-to-find-your-icp/' | relative_url }}) covers this in depth.
 
-One constraint that matters: don't run this exercise across your entire customer base if your best customers are hidden inside a larger group of buyers who were never a good fit. Deliberately churning the wrong segment - by raising prices, narrowing your ICP, or changing your marketing - often reveals a stronger fit signal among the customers who stay.
+### Step 2: Test the problem, not the product
 
-## Remove the guesswork
+Run ten to fifteen problem interviews in that segment. Don't pitch. Ask what they do today, what it costs them, what they've tried and what they'd lose if it stayed unsolved. Strong signs: they bring up the problem unprompted, they've paid for a workaround, someone owns it as part of their job. [How to run customer discovery interviews]({{ '/guides/customer-discovery-interviews/' | relative_url }}) has the question list.
 
-Finding product-market fit faster requires knowing which customers are closest to fit right now. [RightAudience]({{ '/docs/products/right-audience/' | relative_url }}) maps the characteristics your retained, high-satisfaction customers share so you can find more buyers who match that profile - and stop spending acquisition budget on segments where fit is unlikely.
+### Step 3: Ask for a commitment that costs something
 
-[Find your highest-fit customer segment](https://www.rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-find-product-market-fit){: .btn .btn-green }
+At the end of the calls where the pain is real, ask for the next rung: a paid pilot at a real price, a prepayment for early access, or an LOI with a price on it. Count the yeses and the reasons for no. "Not in budget until Q3" is useful. "Love it, send me something" is not a yes.
+
+### Step 4: Run a pilot and watch behaviour
+
+Give pilot users the smallest version that does the core job. Then watch three things for four to six weeks: do they come back each week without a reminder, do they put real work through it, and do they complain when it breaks? Complaints are a good sign. People don't complain about tools they don't need.
+
+### Step 5: Run the 40% question when you have enough users
+
+Once you have a couple of dozen active pilot users, ask: "How would you feel if you could no longer use this product?" Sean Ellis found that products where at least 40% say "very disappointed" tend to grow well, as [First Round Review's write-up of Superhuman's approach](https://review.firstround.com/how-superhuman-built-an-engine-to-find-product-market-fit/) explains. Split the answers by segment. One segment well above the line and others far below tells you where to focus.
+
+### Step 6: Narrow again, then repeat
+
+Look at who climbed highest on the ladder. Rewrite your ICP around them, cut segments that stalled at interest, and run the next round of outreach only to people who look like your strongest pilot users.
+
+## Symptom, check, fix
+
+| Symptom | Check | Fix |
+|---|---|---|
+| Everyone says it's a great idea, nobody commits | Have you asked for money or a pilot? | Ask for a paid pilot or prepayment on every call where pain is real |
+| Pilot users sign up then go quiet | Does the first session deliver the core job? | Cut setup; get them to the main result in one sitting |
+| Interest is spread across many segments | Which segment climbed highest on the ladder? | Narrow to that one; stop chasing the rest for now |
+| Buyers agree on the problem but balk at the price | Is the price tied to what the problem costs them? | Retest price per segment; see [how to price a new SaaS product]({{ '/guides/how-to-price-a-new-saas-product/' | relative_url }}) |
+| Only friends and network are interested | Are any yeses from strangers? | Run cold outreach to the segment and count stranger yeses |
+
+## A worked example
+
+For example, a founder building contract-review software talks to 12 in-house lawyers at mid-size companies and 10 solo lawyers. In-house lawyers describe the problem unprompted and three already pay for a workaround; solo lawyers like the idea but none would pay before launch. The founder offers a three-month paid pilot to the in-house group. Four agree, and three of those use it every week for six weeks, with one introducing a colleague at another company.
+
+That's a narrow, early signal: one segment, real money, weekly use and a referral. It's not proof of fit yet, but it tells the founder exactly who to build for next. The numbers are illustrative.
+
+## Where Right Suite helps
+
+Real conversations are slow and you only get so many before launch. Use simulated buyers to decide where to spend them.
+
+1. In [RightAudience](https://rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-find-product-market-fit), describe your offer and price and add your candidate segments. The report ranks segments by conversion likelihood, with fit, urgency, willingness to pay, top motivations and top barriers for each.
+2. Take the top segment into step 2 above.
+3. Before you name a pilot price, run it through [RightPrice](https://rightsuite.co/products/right-price?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-find-product-market-fit), which gives a confidence score, willingness-to-pay analysis and buyer-level objections.
+
+Simulated buyers point you at the right group and price. Only real buyers paying and staying confirm fit.
+
+## Next step
+
+Write down your candidate segments today and run them through RightAudience with your real price. Book ten problem interviews with the segment that ranks first, and ask for a paid pilot at the end of every call where the pain is real.
+
+[Rank your segments with RightAudience](https://rightsuite.co/products/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-find-product-market-fit){: .btn .btn-green }
 
 ---
 
-Related: [Why Your SaaS Customers Are Churning in the First 60 Days]({{ '/guides/saas-customers-churning-early/' | relative_url }}) - [RightAudience product page]({{ '/docs/products/right-audience/' | relative_url }}) - [RightAudience ROI Calculator](https://www.rightsuite.co/roi/right-audience?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-audience)
+Related: [How to validate a SaaS idea]({{ '/guides/how-to-validate-saas-idea/' | relative_url }}) - [How to get your first 10 customers]({{ '/guides/how-to-get-first-10-customers-saas/' | relative_url }}) - [How to find early adopters]({{ '/guides/early-adopters-saas/' | relative_url }})

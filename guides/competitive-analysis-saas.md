@@ -1,52 +1,132 @@
 ---
 layout: default
-title: How to Do Competitive Analysis for Your SaaS
+title: "How to Do a SaaS Competitor Analysis in One Afternoon (Free Template, 2026)"
 parent: Guides
-description: "Competitive analysis isn't about tracking features. It's about finding where competitors are weak with the buyers you want to win. Here's the framework."
+description: "A 4-hour SaaS competitor analysis: pick 3 rivals, read reviews, homepage and pricing, fill one table, then position for the gap with RightPositioning."
 faq:
-  - q: "How do I do a competitive analysis for my SaaS?"
-    a: "Start with reviews, not features. G2, Capterra, and Trustpilot one-star reviews tell you exactly where competitors are failing their customers. Map the complaints to segments - which type of customer is most frustrated, and why. That's your positioning window."
-  - q: "What should I include in a SaaS competitive analysis?"
-    a: "The most useful competitive analysis covers: (1) Which segments each competitor serves and which they ignore, (2) What their customers say in reviews - especially the negative ones, (3) Their pricing model and the tier they won't go below, (4) Their positioning language and which buyer it speaks to, (5) Where they invest in content or ads, which reveals their ICP."
-  - q: "How often should I update my competitive analysis?"
-    a: "For fast-moving SaaS markets, a light quarterly review is enough - check for new pricing pages, new review trends, and new content investments. A deep analysis every 6-12 months before major positioning or pricing decisions is the right cadence for most early-stage products."
+  - q: "How do I do a competitor analysis for a SaaS product?"
+    a: "Pick three competitors your buyers actually compare you with, including the spreadsheet or manual workaround. For each, note who the homepage speaks to, the main promise, the pricing, and the repeated complaints in their low-star reviews. Put it in one table, find the buyer they serve worst, and position for that buyer."
+  - q: "What should a SaaS competitor analysis include?"
+    a: "Who each competitor targets, their main promise, their pricing model and entry price, the complaints that repeat in reviews and which type of customer makes them, and what each one ignores. Feature-by-feature grids are the least useful part, because buyers rarely decide on feature parity."
+  - q: "Where do I find information about SaaS competitors?"
+    a: "Their homepage and pricing page, reviews on G2, Capterra and app stores, Reddit and community threads where buyers compare tools, their changelog, and their job posts, which show which customers their sales team is chasing."
+  - q: "How often should I redo a competitor analysis?"
+    a: "Do a quick check each quarter on pricing pages and new reviews, and a full afternoon pass before any big positioning or pricing decision."
+  - q: "How do I turn a competitor analysis into positioning?"
+    a: "Write one positioning line for the buyer your competitors serve worst, naming their frustration and what you do differently. Then run it through RightPositioning with your competitors named, to see how simulated buyers compare you side by side and which angle makes you the obvious pick."
 ---
 
-# How to Do Competitive Analysis for Your SaaS
+# How to Do a SaaS Competitor Analysis in One Afternoon
 
-Most competitive analysis produces feature comparison tables and pricing grids. Those are the least useful outputs. One-star reviews of competitors on G2 and Capterra are a direct map of where the market is underserved - and they're public, free, and updated constantly. That's where the highest-ROI signal lives.
+A useful SaaS competitor analysis takes about four hours. Pick three competitors your buyers actually compare you with, read their low-star reviews, homepage and pricing page, and fill in one table. Look for the buyer they serve worst, and position yourself for that buyer. Then check how buyers compare you side by side with [RightPositioning](https://rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-competitive-analysis-saas).
 
-## Why this happens
+This guide is for founders who need a clear picture of the market before writing a homepage, setting a price or planning outreach, and who don't have a week to spend on it. It skips the 40-row feature grid on purpose. Buyers rarely choose on feature parity. They choose because a competitor left them frustrated and you fixed that.
 
-Feature tables are easy to build. Open your competitor's pricing page, list what's included at each tier, and you have a table in 30 minutes. The problem is that buyers don't choose products based on feature parity. They choose products because a competitor created a pain - a gap in support, a workflow that doesn't fit their use case, a price tier that doesn't exist - and your product fills it.
+[Compare yourself with competitors in RightPositioning](https://rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-competitive-analysis-saas){: .btn .btn-green }
 
-Finding that gap requires reading 100+ reviews and finding patterns. Most founders skip it because it's slow. That's exactly why it's still valuable.
+## The afternoon plan
 
-## What to check first
+| Time | Task | Output |
+|---|---|---|
+| 20 min | Pick 3 competitors | Names, including the workaround |
+| 90 min | Read low-star reviews | Repeated complaints and who makes them |
+| 45 min | Read homepages and pricing pages | Target buyer, promise, price model |
+| 30 min | Check where buyers compare | Threads where your buyer weighs options |
+| 30 min | Fill in the template and find the gap | One underserved buyer |
+| 25 min | Write the positioning line | One sentence to test |
 
-Four research moves that surface genuine positioning opportunities:
+## How to do a SaaS competitor analysis, step by step
 
-1. Read the last 50 one-star reviews of your top 3 competitors. Note which segment writes them - job title, company size, use case - and what the repeated complaint is. Not every complaint matters; the one that appears across multiple reviewers in the same segment is your signal.
-2. Look at each competitor's homepage copy. Which buyer profile does it address - what job title, what problem, what company stage? The buyer it addresses is who it's optimized for. Everyone else is underserved.
-3. Check their pricing page. Which tier is missing - where does pricing jump from $49 to $299 with nothing in between? That gap is a market segment the competitor decided wasn't worth serving.
-4. Read their recent job postings for sales and customer success roles. The customer segments mentioned in role descriptions reveal exactly who their sales team is incentivized to close.
+### 1. Pick three competitors (20 minutes)
 
-## How to fix it
+Choose the three your buyer would actually consider. Ask: if your product didn't exist, what would they use? One of the three should usually be the non-product option, like a spreadsheet, an agency, a freelancer or doing nothing. That's often your biggest competitor. Find the others by searching "[category] alternatives" and "[biggest competitor] vs" and reading which names come up in buyer threads.
 
-Map each competitor's weakest segment - the one that complains most, fits least, or gets ignored on pricing - and build your positioning to own that segment explicitly.
+### 2. Read the low-star reviews (90 minutes)
 
-The structure that works: "For [underserved segment] who are frustrated with [specific competitor weakness], [your product] does [specific thing] better - without [the thing that makes the competitor wrong for them]."
+This is where the useful information lives. For each product, read the most recent 20 to 30 one, two and three-star reviews on G2, Capterra or the relevant app store. For each review, note two things: who wrote it (role, company size, use case) and the complaint, in a short phrase.
 
-This isn't an attack on the competitor. It's a clear signal to the right buyer that you understand their situation. A buyer in that segment who reads that positioning immediately recognizes themselves. That recognition converts better than any feature list.
+Look for complaints that repeat within the same type of reviewer. "Too complex for a small team" from five small-team reviewers is a signal. One angry review about a bug isn't. For the workaround, read Reddit or forum threads where people describe doing it manually.
 
-Update the analysis at two cadences: a light quarterly check on new pricing pages, review trends, and content investments; and a deep analysis every 6-12 months before a major positioning or pricing decision.
+### 3. Read the homepage and pricing page (45 minutes)
 
-## Remove the guesswork
+On the homepage, answer: who is this written for (role, company size), and what's the one promise in the headline? The buyer the page addresses is who the product is built for. Everyone else is underserved.
 
-Manual competitive analysis tells you where competitors are theoretically weak. It doesn't tell you how that weakness translates into buyer preference for your product. [RightPositioning]({{ '/docs/products/right-positioning/' | relative_url }}) tests your positioning against synthetic buyer panels across your target segments, showing you where you win versus competitors in the buyer's mind - not in a spreadsheet.
+On the pricing page, note the model (per seat, usage, tiers), the entry price, and the jumps. A leap from a cheap plan to an expensive one with nothing between is a segment the competitor decided not to serve. If you want, skim their careers page too: sales job posts often name the customer segments they're chasing.
 
-[See how RightPositioning works](https://www.rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-competitive-analysis-saas){: .btn .btn-green }
+### 4. Check where buyers compare (30 minutes)
 
----
+Search Reddit and communities for "[competitor] vs," "[competitor] alternative" and "switched from [competitor]." These threads show what buyers weigh when they decide, in their words. Note the phrases. You'll use them in your positioning.
 
-Related: [How to compete with a bigger SaaS competitor]({{ '/guides/how-to-compete-with-bigger-competitor/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-positioning)
+### 5. Fill in the template and find the gap (30 minutes)
+
+Copy this table and fill one row per competitor.
+
+| | Competitor A | Competitor B | Workaround |
+|---|---|---|---|
+| Who the homepage speaks to | | | |
+| Main promise (headline) | | | |
+| Pricing model and entry price | | | |
+| Top repeated complaints | | | |
+| Who makes those complaints | | | |
+| What they ignore or do badly | | | |
+| Phrases buyers use about them | | | |
+
+Now read across the rows. You're looking for one type of buyer who keeps showing up in the complaints and doesn't show up on any homepage. That's your gap.
+
+### 6. Write the positioning line (25 minutes)
+
+Use this shape:
+
+> For [underserved buyer] who are frustrated with [repeated complaint], [your product] [does the specific thing] without [what makes the competitor wrong for them].
+
+Write three versions. For more on turning it into a full statement, see [how to write a positioning statement for SaaS]({{ '/guides/positioning-statement-for-saas/' | relative_url }}).
+
+## Worked example
+
+For example, a founder building a scheduling tool for physiotherapy clinics picks two well-known scheduling tools plus "paper diary and phone calls" as the workaround.
+
+Low-star reviews of both tools repeat the same complaint from small clinics: setup assumes a large practice, and recurring appointment series are painful to manage. Both homepages speak to "healthcare organizations." Both pricing pages jump from a solo plan to a multi-location plan. Forum threads from clinic owners keep using the phrase "I just want to book a block of six sessions."
+
+The gap is small clinics running recurring treatment plans. The positioning line:
+
+> For physio clinics with 2 to 10 practitioners who are tired of booking treatment plans one session at a time, ClinicBook books a whole course of sessions in one step, without enterprise setup.
+
+## Symptom, check, fix
+
+| Symptom | Check | Fix |
+|---|---|---|
+| Your table looks like everyone does everything | Did you read reviews, or only feature pages? | Spend the time in reviews; features hide the gaps. |
+| Every complaint seems different | Did you note who wrote each review? | Group complaints by reviewer type; patterns appear within a segment. |
+| You can't find a gap | Did you include the workaround? | Add the manual option; it often loses on a different dimension. |
+| Positioning sounds like the competitors | Does it name a specific buyer and complaint? | Use the buyers' own phrases from threads. |
+
+## How to test your positioning with RightPositioning
+
+Your table tells you where competitors are weak. It doesn't tell you whether buyers will pick you because of it. [RightPositioning](https://rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-competitive-analysis-saas) checks that.
+
+1. Describe what you do and who it's for, using your new positioning line. Add up to three competitors with a name and one-line description each, straight from your table.
+2. Simulated buyers modeled on your ideal customer evaluate you next to each competitor and explain who they'd pick, why, and what tipped them.
+3. You get a 2×2 positioning map of where buyers place you against competitors, the dimensions they actually use to decide, the angle that makes you the obvious choice for your target segment, and a differentiation score.
+
+Each analysis costs 1 credit. Run all three of your positioning versions and keep the one with the clearest win. Simulated buyers are a fast first read; confirm with real buyers in your next few sales conversations.
+
+## FAQ
+
+**How do I do a competitor analysis for a SaaS product?**
+Pick three competitors including the workaround, read their low-star reviews, homepage and pricing, fill one table, find the buyer they serve worst, and position for that buyer.
+
+**What should a SaaS competitor analysis include?**
+Target buyer, main promise, pricing model and entry price, repeated complaints and who makes them, and what each ignores.
+
+**Where do I find information about SaaS competitors?**
+Homepages, pricing pages, G2, Capterra and app store reviews, Reddit and community threads, changelogs and job posts.
+
+**How often should I redo a competitor analysis?**
+A quick check each quarter, and a full afternoon before any big positioning or pricing decision.
+
+**How do I turn a competitor analysis into positioning?**
+Write a positioning line for the underserved buyer, then test it in RightPositioning with your competitors named.
+
+## Next step
+
+Block four hours this week, fill in the template, and [run your best positioning line through RightPositioning](https://rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-competitive-analysis-saas) against the same three competitors. If the gap you find is against a much larger rival, read [how to compete with a bigger SaaS competitor]({{ '/guides/how-to-compete-with-bigger-competitor/' | relative_url }}).
