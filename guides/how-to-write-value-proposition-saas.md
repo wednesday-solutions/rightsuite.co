@@ -1,69 +1,111 @@
 ---
 layout: default
-title: How to Write a Value Proposition for Your SaaS
+title: "How to Write a SaaS Value Proposition When You Have No Customers or Logos Yet (2026)"
 parent: Guides
-description: "A value proposition isn't a tagline. It's the one sentence that tells your buyer what changes for them, specifically, when they use your product."
+description: "With no customers, build your SaaS value proposition from what you can prove today: a specific buyer, a checkable outcome and the effort you remove."
 faq:
-  - q: "How do I write a value proposition for a SaaS product?"
-    a: "Use this formula: [Who] gets [measurable outcome] by [mechanism] without [primary objection]. Fill in each slot with specifics: the exact buyer persona, a quantified result, the core differentiating mechanism, and the friction they'd expect but won't face. Then test the result by asking: could a competitor copy this and have it still be true? If yes, the differentiation isn't sharp enough. A strong value proposition is specific enough that it excludes some buyers - that's a feature, not a flaw."
-  - q: "What is the difference between a value proposition and a tagline?"
-    a: "A tagline is a brand memory device - short, often abstract, designed to be associated with a feeling or identity ('Just Do It,' 'Think Different'). A value proposition is a conversion tool - specific, outcome-focused, and written to answer the question a buyer is asking when they first encounter your product: 'What does this do for me?' A tagline can live on a billboard. A value proposition lives in your hero section, your pitch deck, and your sales conversation opener."
-  - q: "How do I test my SaaS value proposition?"
-    a: "Write five versions using the [who] gets [outcome] by [mechanism] without [objection] formula. Share the top two with five to ten people who match your ICP - not friends, not colleagues, actual buyers. Ask each of them: 'Does this describe a problem you have? Does this make you want to know more?' Track agreement, not politeness. The version that generates the strongest unprompted agreement is the one to lead with. You can also test value propositions as ad copy against the same audience - click-through rate on a five-word headline is a faster signal than any focus group."
+  - q: "What is a SaaS value proposition?"
+    a: "One or two sentences that tell a specific buyer what changes for them when they use your product, and why it's better than what they do now. It lives in your homepage headline and subheadline, your pitch and the first line of your outreach."
+  - q: "How do I write a value proposition with no customers?"
+    a: "Promise only what you can prove today. Name one specific buyer, state an outcome they can check themselves (time to set up, steps removed, a report they get), say what you replace, and remove the main objection. Then show the product doing it instead of relying on logos or testimonials."
+  - q: "What's a good value proposition formula for SaaS?"
+    a: "[Who] gets [outcome] by [mechanism] without [objection]. For example: 'Shopify store owners get every refund reconciled in their books automatically, without exporting a CSV.' Each slot forces a specific word where a generic one would go."
+  - q: "How do I know if my value proposition is good?"
+    a: "Run two checks. The competitor test: if a rival could put your sentence on their site and it would still be true, it's too generic. The stranger test: show it to someone in your target market for five seconds and ask what you do and who it's for. If they can't say, rewrite it."
+  - q: "How can I test a value proposition before launch?"
+    a: "Run your headline and subheadline through RightMessaging with a description of your ideal buyer. Simulated buyers read it and you see where they got confused or skeptical, a clarity score, and specific rewrites. Then confirm with a handful of real conversations."
 ---
 
-# How to Write a Value Proposition for Your SaaS
+# How to Write a SaaS Value Proposition When You Have No Customers Yet
 
-Most SaaS value propositions describe the product, not the outcome. "AI-powered workflow automation" is a description. "Your team closes 30% more tickets with the same headcount" is a value proposition.
+When you have no customers or logos, write your value proposition from what you can prove today: one specific buyer, an outcome they can check for themselves, the work you remove, and the objection you answer. Skip results you can't back up yet. Then test whether strangers understand it with [RightMessaging](https://rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-write-value-proposition-saas) before it goes on your homepage.
 
-Pages with outcome-focused value propositions convert at 2.8x the rate of feature-focused ones. That gap is not about writing ability. It's about starting with the buyer's question - what changes for me - instead of the builder's answer - here's what we made.
+This guide is for pre-launch and early-stage founders writing a homepage, pitch or outreach with nothing to point to yet: no case studies, no "trusted by" bar, no testimonials. If you already have customers, ask them what changed and use their words.
 
-## Why this happens
+[Test your value proposition with RightMessaging](https://rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-write-value-proposition-saas){: .btn .btn-green }
 
-Founders write value propositions about their product because they know the product deeply. The features are specific and real. The outcomes feel uncertain - harder to prove, harder to quantify, dependent on the customer using the product correctly. So the copy defaults to what's concrete: the mechanism, the technology, the approach.
+## Why is a value proposition harder with no customers?
 
-The problem is that buyers don't care about the mechanism until they believe the outcome. "AI-powered" tells a buyer nothing about whether their specific situation improves. "Your support team resolves tickets 40% faster" tells a buyer exactly what changes and whether that matters to them.
+Because the usual proof is missing. Most advice says "quantify the outcome," but the outcome numbers come from customers you don't have. So founders do one of two things. They describe the product ("AI-powered workflow automation"), which tells the buyer nothing about what changes for them. Or they invent a result ("save 10 hours a week"), which buyers distrust when nothing backs it up, and which you can't defend.
 
-The second failure mode is writing a value proposition for everyone. "The platform for modern teams" is a sentence that could belong to any SaaS company in any category. It excludes no one - which means it resonates with no one specifically. A value proposition that works for everyone converts no one in particular.
+There's a third way. Promise things the buyer can verify without trusting you: how long setup takes, which manual step disappears, what they'll see on day one. Those are true today, and you can show them.
 
-## What to check first
+## The formula
 
-Four diagnostic questions to run on your current value proposition before rewriting:
+**[Who] gets [outcome] by [mechanism] without [objection].**
 
-1. **Does it name one specific person?** Not "teams" or "companies" - a role, a situation, a specific type of buyer. If your value proposition starts with "For businesses that..." you've already lost specificity.
+- **Who:** one buyer, specific enough that others feel excluded. "Shopify store owners doing their own books," not "ecommerce businesses."
+- **Outcome:** what changes, stated so they can check it. "Every refund matched to the right order in your books," not "better financial clarity."
+- **Mechanism:** the one thing about how you do it that's different from the obvious alternative. "Connects to Shopify and your accounting tool directly."
+- **Without:** the cost or effort they expect and won't face. "Without exporting a CSV," "without changing your accountant," "without a setup call."
 
-2. **Does it name a measurable outcome?** Quantified is better than qualified. "Faster" is qualified. "40% faster" is quantified. If you don't have a specific number yet, use relative language that implies measurement: "half the time," "a third of the cost," "in one session instead of a week."
+You won't use all four slots verbatim in a headline. The formula is a drafting tool. The headline usually takes the who and the outcome; the subheadline takes the mechanism and the without.
 
-3. **Does it name what makes your approach different?** The mechanism matters when it's the differentiator. "Without writing a single line of code" is differentiation. "Using AI" is not, unless every competitor does it manually. Name the thing that separates your approach from the obvious alternative.
+## How to write it, step by step
 
-4. **Could a competitor copy it and have it still be true?** If the answer is yes, the value proposition isn't differentiated enough. This is the single sharpest test. Read your value proposition as if you were your closest competitor - would it apply to their product? If so, keep editing.
+1. **Name the buyer you'd call first.** If you could only sell to one type of person this month, who is it? Write their role, company size and the situation they're in. If you're unsure, work through [how to find your ICP when you have no customers]({{ '/guides/how-to-find-your-icp/' | relative_url }}).
+2. **Write down what they do today.** The spreadsheet, the manual step, the tool they hate, the person they pay. Your value proposition is the difference between this and your product.
+3. **List outcomes you can prove right now.** Time it: how long setup takes on a fresh account. Count it: how many steps disappear. Show it: what the first screen looks like after connecting. These are your outcomes.
+4. **Find the "without."** Ask 3 to 5 people in your target market what they'd worry about when switching. The most common worry is your without.
+5. **Draft five versions.** Change one slot each time: a different outcome, a different mechanism, a different objection.
+6. **Run the competitor test.** Read each version as your closest competitor. If it's true for them too, sharpen the slot that's generic.
+7. **Run the stranger test.** Show the top two to someone in your target market for five seconds. Ask: what does this do, and who's it for? If they can't answer, rewrite.
+8. **Back it with a demo, not a logo.** Put a short product video, a screenshot of the result or an interactive demo directly under the value proposition. That's your proof until you have customers.
 
-## How to fix it
+## Worked example
 
-The formula: **[Who] gets [outcome] by [mechanism] without [objection].**
+For example, a founder is building a tool that reconciles Shopify refunds into accounting software. No customers yet.
 
-Each slot forces specificity:
+- First draft: "AI-powered reconciliation for modern ecommerce." Fails the competitor test, and nobody knows what it does.
+- Buyer: Shopify store owners who do their own books.
+- Today: they export refunds to a CSV each month and match them by hand.
+- Provable outcome: on a test store, connecting takes under five minutes and every refund appears matched in the books. The founder timed it.
+- Without: "without exporting a CSV" (the step they hate).
 
-- **Who** - the exact buyer. Not "B2B companies." Not "sales teams." The specific role and situation: "SDRs at SaaS companies under 100 people," "finance leads at Series A startups," "operations managers who run onboarding manually."
+Result:
 
-- **Outcome** - what measurably changes. Quantify where possible. Pull from customer interviews, support conversations, and sales calls - the outcomes buyers describe in their own words are more credible than anything invented in a doc.
+> **Headline:** Every Shopify refund, matched in your books automatically.
+> **Subheadline:** Connect Shopify and your accounting tool in about 5 minutes. No more monthly CSV exports.
 
-- **Mechanism** - the core of how you deliver the outcome. One phrase. Not a feature list - the single most differentiating element of your approach.
+Every claim is something the buyer can check during a trial. Nothing depends on a customer the founder doesn't have.
 
-- **Without** - the primary objection. What does your buyer assume they'll have to sacrifice or endure to get this outcome? Name it and negate it. "Without a 3-month implementation." "Without replacing your current stack." "Without a dedicated analyst."
+## Symptom, check, fix
 
-**The five-version exercise:** Write five value propositions using the formula, each emphasizing a different outcome or a different mechanism. Show the top two to five to ten buyers who match your ICP. Ask: "Does this describe a problem you have? Does it make you want to know more?" Listen for unprompted enthusiasm - the version that generates "actually yes, that's exactly what I'm dealing with" is the one to lead with.
+| Symptom | Check | Fix |
+|---|---|---|
+| People ask "so what does it do?" | Does the headline name an outcome, or a category? | Replace the category word with what changes for the buyer. |
+| Visitors from the wrong market sign up | Does it name a specific buyer? | Put the buyer or their situation in the headline or subheadline. |
+| Buyers say "sounds like X" | Does it pass the competitor test? | Sharpen the mechanism or the without. |
+| Buyers don't believe it | Are you promising a result you can't show? | Swap it for a checkable outcome, and add a demo right below. |
 
-**The competitor test:** Run the winner through the competitor check. If it passes - no competitor can claim it - you have a value proposition. If it fails, identify which slot is too generic and sharpen it.
+## How to test your value proposition with RightMessaging
 
-**Where to use it:** Hero section of the landing page, first line of the pitch deck, first sentence of a cold email subject line test, and the positioning anchor for every other piece of copy you write.
+You wrote it, so you can't read it like a stranger. [RightMessaging](https://rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-write-value-proposition-saas) does that reading for you.
 
-## Remove the guesswork
+1. Paste your headline, subheadline or full hero section, and the CTA.
+2. Describe your ideal customer: their job, their stage and the problem they're trying to solve.
+3. Simulated buyers modeled on that customer read it. You see their internal monologue: what caught their attention, what confused them, and where they stopped reading.
+4. You get a message clarity score, the exact phrases that triggered skepticism, and specific rewrites with the reasoning.
 
-A value proposition that sounds right internally may not land with buyers the way you expect. The gap between "we think this is compelling" and "buyers actually respond to this" is where positioning goes wrong. [RightPositioning]({{ '/docs/products/right-positioning/' | relative_url }}) finds your differentiation angle by testing your positioning against simulated buyers and mapping where you win versus competitors in the buyer's mind - so you build the value proposition on real signal, not assumption.
+Run your top two versions and keep the one with fewer confused reactions. If buyers say it "sounds like everyone else," rewording won't fix it. Your positioning needs work, and [RightPositioning](https://rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-write-value-proposition-saas) shows how buyers compare you with named competitors. Simulated buyers are a fast first read; a few real conversations still confirm it.
 
-[Find your differentiation angle with RightPositioning](https://www.rightsuite.co/products/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-write-value-proposition-saas){: .btn .btn-green }
+## FAQ
 
----
+**What is a SaaS value proposition?**
+One or two sentences telling a specific buyer what changes for them with your product and why it beats what they do now.
 
-Related: [Why Your SaaS Looks Like Your Competitors]({{ '/guides/saas-looks-like-competitors/' | relative_url }}) - [RightPositioning product page]({{ '/docs/products/right-positioning/' | relative_url }}) - [RightPositioning ROI Calculator](https://www.rightsuite.co/roi/right-positioning?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=roi-guide-right-positioning)
+**How do I write a value proposition with no customers?**
+Promise only what you can prove today. Name one buyer, state an outcome they can check, say what you replace, answer the main objection, and show the product doing it.
+
+**What's a good value proposition formula for SaaS?**
+[Who] gets [outcome] by [mechanism] without [objection].
+
+**How do I know if my value proposition is good?**
+It passes the competitor test (a rival couldn't use it unchanged) and the stranger test (someone in your market can say what you do after five seconds).
+
+**How can I test a value proposition before launch?**
+Run it through RightMessaging with a description of your ideal buyer, then confirm with a handful of real conversations.
+
+## Next step
+
+Fill in the four slots for your product, write five versions, and [run the best two through RightMessaging](https://rightsuite.co/products/right-messaging?utm_source=docs&utm_medium=referral&utm_campaign=docs&utm_content=guide-how-to-write-value-proposition-saas). Then turn the winner into a homepage headline with [how to write a SaaS website headline]({{ '/guides/how-to-write-saas-headline/' | relative_url }}).
